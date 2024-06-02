@@ -3,7 +3,7 @@ Computer science student exploring software development &amp; data science. Love
 
 ### Hi there! 👋 I'm Angelos Fikias
 
-I'm a computer science student passionate about exploring the endless possibilities of technology. Currently, I'm studying at [University of Macedonia], where I'm diving deep into the world of computer science.
+I'm a computer science student passionate about exploring the endless possibilities of technology. Currently, I'm studying at University of Macedonia, where I'm diving deep into the world of computer science.
 
 - 🌱 I’m currently working on various interesting projects.
 - 🔭 I’m really excited to share my projects with the community.
