@@ -8,6 +8,6 @@ I'm a computer science student passionate about exploring the endless possibilit
 - 🌱 I’m currently working on various interesting projects.
 - 🔭 I’m really excited to share my projects with the community.
 - 💬 Ask me anything.
-- 📫 How to reach me: [angelosfikias@gmail.com](mailto:angelosfikias@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/angelos-fikias-bb2761294/) or [Leetcode] (https://leetcode.com/u/angelosfikias/).
+- 📫 How to reach me: [angelosfikias@gmail.com](mailto:angelosfikias@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/angelos-fikias-bb2761294/) or Leetcode (https://leetcode.com/u/angelosfikias/).
 
 My repositories reflect my journey as a developer, and I'm always eager to collaborate and learn from the community. Let's build something amazing together!
