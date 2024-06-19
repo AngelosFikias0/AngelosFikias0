@@ -39,7 +39,7 @@ I'm a computer science student passionate about exploring the endless possibilit
   - Description: A calculator app written in CSS, HTML, and JavaScript.
 
 - **[Calculator_App2.0](https://github.com/AngelosFikias0/Calculator_App2.0)**
-  - Description: Improved version of a calculator app written in CSS, HTML, and JavaScript.
+  - Description: A different implementation of a calculator app written in CSS, HTML, and JavaScript.
 
 ### Let's Connect and Collaborate! 🤝
 
