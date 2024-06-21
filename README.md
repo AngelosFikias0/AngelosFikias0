@@ -43,6 +43,10 @@ I'm a computer science student passionate about exploring the endless possibilit
   - Description: A different implementation of a calculator app written in CSS, HTML, and JavaScript.
   - **Technologies**: CSS, HTML, JavaScript
 
+- **[Simple_Calculator_App](https://github.com/AngelosFikias0/Simple_Calculator_App)**
+  - Description: A calculator app written in CSS, HTML, and JavaScript.
+  - **Technologies**: CSS, HTML, JavaScript
+  
 - **[Hangman.java](https://github.com/AngelosFikias0/Hangman.java)**
   - Description: A hangman game written in Java.
   - **Technologies**: Java
@@ -50,10 +54,6 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **[Safa_car_insurance_assignment.java](https://github.com/AngelosFikias0/Safa_car_insurance_assignment.java)**
   - Description: A program written in Java that simulates a car insurance company's system.
   - **Technologies**: Java
-
-- **[Simple_Calculator_App](https://github.com/AngelosFikias0/Simple_Calculator_App)**
-  - Description: A calculator app written in CSS, HTML, and JavaScript.
-  - **Technologies**: CSS, HTML, JavaScript
 
 - **[Quiz.c](https://github.com/AngelosFikias0/Quiz.c)**
   - Description: A simple trivia quiz game written in C.
