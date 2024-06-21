@@ -19,6 +19,13 @@ I'm a computer science student passionate about exploring the endless possibilit
   - **Design & Development**: 3ds Max, Visual Paradigm, Wordpress
   - **Operating Systems**: Linux, Windows
 
+### Soft Skills
+
+- **Teamwork**: Collaborated on multiple group projects, ensuring effective communication and division of tasks.
+- **Communication**: Presented project findings and technical concepts clearly to both technical and non-technical audiences.
+- **Problem-Solving**: Demonstrated ability to troubleshoot and resolve complex technical issues.
+- **Time Management**: Successfully balanced academic workload with project deadlines, maintaining high performance in both areas.
+
 ### Education 🎓
 
 - **Degree**: Bachelor of Science in Applied Computer Science
