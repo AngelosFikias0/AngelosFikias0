@@ -43,6 +43,10 @@ I'm a computer science student passionate about exploring the endless possibilit
   - Description: A different implementation of a calculator app written in CSS, HTML, and JavaScript.
   - **Technologies**: CSS, HTML, JavaScript
 
+- **[Task_Manager](https://github.com/AngelosFikias0/Task_Manager)**
+  - Description: Simple task manager written in HTML5, CSS3 and JS
+  - **Technologies**: JavaScript, CSS, HTML
+
 - **[Simple_Calculator_App](https://github.com/AngelosFikias0/Simple_Calculator_App)**
   - Description: A calculator app written in CSS, HTML, and JavaScript.
   - **Technologies**: CSS, HTML, JavaScript
