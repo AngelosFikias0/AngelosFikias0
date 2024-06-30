@@ -39,16 +39,12 @@ I'm a computer science student passionate about exploring the endless possibilit
   - **Description**: A simple application for managing student data with CRUD operations.
   - **Technologies**: PHP, MySQL, JavaScript, HTML, CSS
 
-- **[Calculator_App2.0](https://github.com/AngelosFikias0/Calculator_App2.0)**
-  - Description: A different implementation of a calculator app written in CSS, HTML, and JavaScript.
+- **[Calculator_App](https://github.com/AngelosFikias0/Calculator_App)**
+  - Description: A calculator app written in CSS, HTML, and JavaScript.
   - **Technologies**: CSS, HTML, JavaScript
 
 - **[Task_Manager](https://github.com/AngelosFikias0/Task_Manager)**
   - Description: Simple task manager written in HTML5, CSS3 and JS
-  - **Technologies**: CSS, HTML, JavaScript
-
-- **[Simple_Calculator_App](https://github.com/AngelosFikias0/Simple_Calculator_App)**
-  - Description: A calculator app written in CSS, HTML, and JavaScript.
   - **Technologies**: CSS, HTML, JavaScript
   
 - **[Hangman.java](https://github.com/AngelosFikias0/Hangman.java)**
