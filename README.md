@@ -9,15 +9,17 @@ I'm a computer science student passionate about exploring the endless possibilit
 - 💬 Ask me anything.
 - 📫 How to reach me: [angelosfikias@gmail.com](mailto:angelosfikias@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/angelos-fikias-bb2761294/) or [LeetCode](https://leetcode.com/u/angelosfikias/).
 
-### Skills 🚀
-
+## Skills 🚀
 - **Programming Languages**: Python, JavaScript, Java, SQL, C, PHP, HTML5, CSS3, Bash, UML
-- **Tools & Environments**:
-  - **IDEs**: PyCharm, VS Code, Eclipse, CodeBlocks
-  - **Version Control**: Git
-  - **Data & Analysis**: SageMath, Tableau, SAP ERP, Wireshark
-  - **Design & Development**: 3ds Max, Visual Paradigm, Wordpress
-  - **Operating Systems**: Linux, Windows
+
+## Tools & Environments
+- **IDEs**: PyCharm, VS Code, Eclipse, CodeBlocks
+- **Version Control**: Git
+- **Data Analysis & Management**: Tableau, SAP ERP, Microsoft Excel, SageMath
+- **Design & Development**: 3ds Max, Visual Paradigm, WordPress
+- **Operating Systems**: Linux, Windows
+- **Utilities**: PuTTY, Wireshark
+- **Database Management**: MySQL, MariaDB
 
 ### Soft Skills
 
