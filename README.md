@@ -12,7 +12,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 ## Skills 🚀
 - **Programming Languages**: Python, JavaScript, Java, SQL, C, PHP, HTML5, CSS3, Bash, UML
 
-## Tools & Environments
+# Tools & Environments
 - **IDEs**: PyCharm, VS Code, Eclipse, CodeBlocks
 - **Version Control**: Git
 - **Data Analysis & Management**: Tableau, SAP ERP, Microsoft Excel, SageMath
