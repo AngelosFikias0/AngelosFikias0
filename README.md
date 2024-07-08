@@ -21,21 +21,21 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **Utilities**: PuTTY, Wireshark
 - **Database Management**: MySQL, MariaDB
 
-### Soft Skills
+## Soft Skills
 
 - **Teamwork**: Collaborated on multiple group projects, ensuring effective communication and division of tasks.
 - **Communication**: Presented project findings and technical concepts clearly to both technical and non-technical audiences.
 - **Problem-Solving**: Demonstrated ability to troubleshoot and resolve complex technical issues.
 - **Time Management**: Successfully balanced academic workload with project deadlines, maintaining high performance in both areas.
 
-### Education 🎓
+## Education 🎓
 
 - **Degree**: Bachelor of Science in Applied Computer Science
 - **University**: University of Macedonia
 - **Expected Graduation**: 2026
 - **Relevant Coursework**: Data Structures, Algorithms, Database Systems, Software Engineering, Networks, OS and Architecture, Marketing, System design and implementation, System security, HCI basics
 
-### Projects 🌟
+## Projects 🌟
 
 - **[Student_Database_CRUD](https://github.com/AngelosFikias0/Student_Database_CRUD)**
   - **Description**: A simple application for managing student data with CRUD operations.
@@ -61,7 +61,7 @@ I'm a computer science student passionate about exploring the endless possibilit
   - Description: A simple trivia quiz game written in C.
   - **Technologies**: C
 
-### Let's Connect and Collaborate! 🤝
+## Let's Connect and Collaborate! 🤝
 
 I'm passionate about technology and always open to new opportunities and collaborations. Whether you have a project idea, want to discuss tech trends, or simply chat about coding, feel free to reach out via email or connect with me on LinkedIn.
 
