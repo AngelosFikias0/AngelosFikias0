@@ -48,6 +48,10 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **[Task_Manager](https://github.com/AngelosFikias0/Task_Manager)**
   - Description: Simple task manager written in HTML5, CSS3 and JS
   - **Technologies**: CSS, HTML, JavaScript
+
+- **[Data_Structures_and_Algorithms](https://github.com/AngelosFikias0/Data_Structures_and_Algorithms)**
+  - Description: A java project showcasing basic data structure and algorithm knowledge and use.
+  - **Technologies**: Java
   
 - **[Hangman.java](https://github.com/AngelosFikias0/Hangman.java)**
   - Description: A hangman game written in Java.
