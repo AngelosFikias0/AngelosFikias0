@@ -41,6 +41,10 @@ I'm a computer science student passionate about exploring the endless possibilit
   - **Description**: A simple application for managing student data with CRUD operations.
   - **Technologies**: PHP, MySQL, JavaScript, HTML, CSS
 
+- **[Weather_App](https://github.com/AngelosFikias0/Weather_App)**
+  - Description: This Weather App uses HTML, CSS, and JavaScript to provide real-time weather data from OpenWeatherMap using an API. It displays the current temperature, weather conditions, and an icon, with a background color that changes based on temperature. The app features a simple search interface for easy access.
+  - **Technologies**: CSS, HTML, JavaScript
+
 - **[Calculator_App](https://github.com/AngelosFikias0/Calculator_App)**
   - Description: A calculator app written in CSS, HTML, and JavaScript.
   - **Technologies**: CSS, HTML, JavaScript
