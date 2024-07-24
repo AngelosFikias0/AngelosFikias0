@@ -65,7 +65,7 @@ I'm a computer science student passionate about exploring the endless possibilit
   - Description: A program written in Java that simulates a car insurance company's system.
   - **Technologies**: Java
 
-- **[Quiz](https://github.com/AngelosFikias0/Quiz)**
+- **[Quiz_game](https://github.com/AngelosFikias0/Quiz_game)**
   - Description: A simple trivia quiz game written in C.
   - **Technologies**: C
 
