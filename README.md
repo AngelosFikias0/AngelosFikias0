@@ -61,11 +61,11 @@ I'm a computer science student passionate about exploring the endless possibilit
   - Description: A hangman game written in Java.
   - **Technologies**: Java
 
-- **[Safe_car_insurance_IS.java](https://github.com/AngelosFikias0/Safe_car_insurance_IS.java)**
+- **[Safe_car_insurance_System](https://github.com/AngelosFikias0/Safe_car_insurance_System)**
   - Description: A program written in Java that simulates a car insurance company's system.
   - **Technologies**: Java
 
-- **[Quiz.c](https://github.com/AngelosFikias0/Quiz.c)**
+- **[Quiz](https://github.com/AngelosFikias0/Quiz)**
   - Description: A simple trivia quiz game written in C.
   - **Technologies**: C
 
