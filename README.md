@@ -57,7 +57,7 @@ I'm a computer science student passionate about exploring the endless possibilit
   - Description: A java project showcasing basic data structure and algorithm knowledge and use.
   - **Technologies**: Java
   
-- **[Hangman.java](https://github.com/AngelosFikias0/Hangman.java)**
+- **[Hangman_game](https://github.com/AngelosFikias0/Hangman_game)**
   - Description: A hangman game written in Java.
   - **Technologies**: Java
 
