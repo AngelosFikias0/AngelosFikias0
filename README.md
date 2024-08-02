@@ -13,6 +13,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **Programming Languages**: Python, JavaScript, Java, SQL, C, PHP, HTML5, CSS3, Bash, UML
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelosFikias0)](https://github.com/AngelosFikias0/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelosFikias0&theme=dark&show_icons=true)
 
 ### Tools & Environments
 - **IDEs**: PyCharm, VS Code, Eclipse, CodeBlocks
