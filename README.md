@@ -12,7 +12,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 ## Skills 🚀
 - **Programming Languages**: Python, JavaScript, Java, SQL, C, PHP, HTML5, CSS3, Bash, UML
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelosFikias0&layout=compact&theme=cobalt)](https://github.com/AngelosFikias0/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelosFikias0&layout=compact&theme=cobalt)](https://github.com/AngelosFikias0/github-readme-stats)
 ![Angelos's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelosFikias0&theme=dark&show_icons=true)
 
 ### Tools & Environments
