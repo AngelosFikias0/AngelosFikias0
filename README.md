@@ -11,7 +11,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 
 ## Skills 🚀
 - **Programming Languages**:
-- **Python**
+  - *Python*
 - *JavaScript*
 - *Java* 
 - *SQL*
