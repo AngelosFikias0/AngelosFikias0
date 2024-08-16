@@ -10,7 +10,17 @@ I'm a computer science student passionate about exploring the endless possibilit
 - 📫 How to reach me: [angelosfikias@gmail.com](mailto:angelosfikias@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/angelos-fikias-bb2761294/) or [LeetCode](https://leetcode.com/u/angelosfikias/).
 
 ## Skills 🚀
-- **Programming Languages**: Python, JavaScript, Java, SQL, C, PHP, HTML5, CSS3, Bash, UML
+- **Programming Languages**:
+- *Python*
+- *JavaScript*
+- *Java* 
+- *SQL*
+- *PHP*
+- *HTML5*
+- *CSS3*
+- *C*
+- *Bash*
+- *UML* 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelosFikias0&layout=compact&theme=cobalt)](https://github.com/AngelosFikias0/github-readme-stats)
 <br/>
