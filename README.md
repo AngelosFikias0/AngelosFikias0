@@ -47,7 +47,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 
 - **[Student_Database_CRUD](https://github.com/AngelosFikias0/Student_Database_CRUD)**
   - **Description**: A simple application for managing student data with CRUD operations.
-  - **Technologies**: PHP, MySQL, JavaScript, HTML, CSS
+  - **Technologies**: PHP, MySQL, JavaScript, HTML, CSS, Apache server
 
 - **[Weather_App](https://github.com/AngelosFikias0/Weather_App)**
   - Description: This Weather App uses HTML, CSS, and JavaScript to provide real-time weather data from OpenWeatherMap using an API. It displays the current temperature, weather conditions, and an icon, with a background color that changes based on temperature. The app features a simple search interface for easy access.
@@ -64,13 +64,13 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **[Data_Structures_and_Algorithms](https://github.com/AngelosFikias0/Data_Structures_and_Algorithms)**
   - Description: A java project showcasing basic data structure and algorithm knowledge and use.
   - **Technologies**: Java
-  
-- **[Hangman_game](https://github.com/AngelosFikias0/Hangman_game)**
-  - Description: A hangman game written in Java.
-  - **Technologies**: Java
 
 - **[Safe_car_insurance_System](https://github.com/AngelosFikias0/Safe_car_insurance_System)**
   - Description: A program written in Java that simulates a car insurance company's system.
+  - **Technologies**: Java
+
+- **[Hangman_game](https://github.com/AngelosFikias0/Hangman_game)**
+  - Description: A hangman game written in Java.
   - **Technologies**: Java
 
 - **[Quiz_game](https://github.com/AngelosFikias0/Quiz_game)**
