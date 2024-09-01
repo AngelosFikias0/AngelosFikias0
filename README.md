@@ -33,7 +33,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 ### Tools & Environments 🛠️
 - **IDEs**: PyCharm, VS Code, Eclipse, CodeBlocks
 - **Version Control**: Git
-- **Data Analysis & Management**: Tableau, SAP ERP, SalesForce CRM, Microsoft Excel, SageMath
+- **Data Analysis & Management**: Tableau, PowerBI, SAP ERP, SalesForce CRM, Microsoft Excel, SageMath
 - **Design & Development**: 3ds Max, Visual Paradigm, WordPress
 - **Operating Systems**: Linux, Windows, Android
 - **Utilities**: PuTTY, Wireshark, Xampp
