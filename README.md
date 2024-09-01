@@ -53,7 +53,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **Expected Graduation**: 2026
 - **Relevant Coursework**: Data Structures, Algorithms, Database Systems, Software Engineering, Networks, OS and Architecture, Marketing, System design and implementation, System security, HCI basics
 
-## Projects 🌟
+## Projects [9] 🌟
 
 - **[Web_Application](https://github.com/AngelosFikias0/Web_Application)**
   - **Description**: A web application featuring intuitive dashboards for both users and administrators. Users can create and manage posts and update their profiles, while administrators can handle user management tasks, such as creating and deleting accounts. This project highlights fundamental CRUD operations, user authentication, and role-based access control.
