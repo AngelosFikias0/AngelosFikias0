@@ -30,7 +30,7 @@ I'm a computer science student passionate about exploring the endless possibilit
     <img src="https://github-readme-stats.vercel.app/api?username=AngelosFikias0&theme=transparent" style="width: 51%;">
 </div>
 
-### Tools & Environments
+### Tools & Environments 🛠️
 - **IDEs**: PyCharm, VS Code, Eclipse, CodeBlocks
 - **Version Control**: Git
 - **Data Analysis & Management**: Tableau, SAP ERP, SalesForce CRM, Microsoft Excel, SageMath
@@ -39,7 +39,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **Utilities**: PuTTY, Wireshark, Xampp
 - **Database Management**: MySQL, MariaDB
 
-## Soft Skills
+## Soft Skills 💡
 
 - **Teamwork**: Collaborated on multiple group projects, ensuring effective communication and division of tasks.
 - **Communication**: Presented project findings and technical concepts clearly to both technical and non-technical audiences.
