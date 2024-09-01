@@ -22,9 +22,10 @@ I'm a computer science student passionate about exploring the endless possibilit
   - *Bash*
   - *UML* 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelosFikias0&layout=compact&theme=cobalt)](https://github.com/AngelosFikias0/github-readme-stats)
-<br/>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelosFikias0&theme=transparent)
+<div style="display: flex; flex-direction: row;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelosFikias0&layout=compact&theme=cobalt" style="width: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=AngelosFikias0&theme=transparent" style="width: 50%;">
+</div>
 
 ### Tools & Environments
 - **IDEs**: PyCharm, VS Code, Eclipse, CodeBlocks
