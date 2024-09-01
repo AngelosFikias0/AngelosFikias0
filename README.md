@@ -23,8 +23,8 @@ I'm a computer science student passionate about exploring the endless possibilit
   - *UML* 
 
 <div style="display: flex; flex-direction: row;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelosFikias0&layout=compact&theme=cobalt" style="width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=AngelosFikias0&theme=transparent" style="width: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelosFikias0&layout=compact&theme=cobalt" style="width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=AngelosFikias0&theme=transparent" style="width: 100%;">
 </div>
 
 ### Tools & Environments
