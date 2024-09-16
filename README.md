@@ -54,7 +54,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **Expected Graduation**: 2026
 - **Relevant Coursework**: Data Structures, Algorithms, Database Systems, Software Engineering, Networks, OS and Architecture, Marketing, System design and implementation, System security, HCI basics
 
-## Projects [9] 🌟
+## Projects [10] 🌟
 
 - **[Web_Application](https://github.com/AngelosFikias0/Web_Application)**
   - **Description**: A web application featuring intuitive dashboards for both users and administrators. Users can create and manage posts and update their profiles, while administrators can handle user management tasks, such as creating and deleting accounts. This project highlights fundamental CRUD operations, user authentication, and role-based access control.
@@ -65,31 +65,35 @@ I'm a computer science student passionate about exploring the endless possibilit
   - **Technologies**: PHP, MySQL, JavaScript, HTML, CSS, Apache server
 
 - **[Weather_App](https://github.com/AngelosFikias0/Weather_App)**
-  - Description: This Weather App uses HTML, CSS, and JavaScript to provide real-time weather data from OpenWeatherMap using an API. It displays the current temperature, weather conditions, and an icon, with a background color that changes based on temperature. The app features a simple search interface for easy access.
+  - **Description**: This Weather App uses HTML, CSS, and JavaScript to provide real-time weather data from OpenWeatherMap using an API. It displays the current temperature, weather conditions, and an icon, with a background color that changes based on temperature. The app features a simple search interface for easy access.
   - **Technologies**: CSS, HTML, JavaScript
 
+- **[Text_Editor](https://github.com/AngelosFikias0/Text_Editor)**
+  - **Description**: A simple Text Editor application written in Python using the Tkinter library. It allows users to open, edit, and save .txt or .html files. Additional features include changing the text and background colors, selecting different fonts and font sizes, and providing basic file operations like deleting text and exiting the application.
+  - **Technologies**: Python
+
 - **[Calculator_App](https://github.com/AngelosFikias0/Calculator_App)**
-  - Description: A calculator app written in CSS, HTML, and JavaScript.
+  - **Description**: A calculator app written in CSS, HTML, and JavaScript.
   - **Technologies**: CSS, HTML, JavaScript
 
 - **[Task_Manager](https://github.com/AngelosFikias0/Task_Manager)**
-  - Description: Simple task manager written in HTML5, CSS3 and JS
+  - **Description**: Simple task manager written in HTML5, CSS3 and JS
   - **Technologies**: CSS, HTML, JavaScript
 
 - **[Data_Structures_and_Algorithms](https://github.com/AngelosFikias0/Data_Structures_and_Algorithms)**
-  - Description: A java project showcasing basic data structure and algorithm knowledge and use.
+  - **Description**: A java project showcasing basic data structure and algorithm knowledge and use.
   - **Technologies**: Java
 
 - **[Safe_car_insurance_System](https://github.com/AngelosFikias0/Safe_car_insurance_System)**
-  - Description: A program written in Java that simulates a car insurance company's system.
+  - **Description**: A program written in Java that simulates a car insurance company's system.
   - **Technologies**: Java
 
 - **[Hangman_game](https://github.com/AngelosFikias0/Hangman_game)**
-  - Description: A hangman game written in Java.
+  - **Description**: A hangman game written in Java.
   - **Technologies**: Java
 
 - **[Quiz_game](https://github.com/AngelosFikias0/Quiz_game)**
-  - Description: A simple trivia quiz game written in C.
+  - **Description**: A simple trivia quiz game written in C.
   - **Technologies**: C
 
 ## Let's Connect and Collaborate! 🤝
