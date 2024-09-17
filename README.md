@@ -39,6 +39,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **Operating Systems**: Linux, Windows, Android
 - **Utilities**: PuTTY, Wireshark, Xampp
 - **Database Management**: MySQL, MariaDB
+- **DevOps & Containerization**: Docker, Kubernetes
 
 ## Soft Skills 💡
 
