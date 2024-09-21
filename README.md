@@ -73,6 +73,10 @@ I'm a computer science student passionate about exploring the endless possibilit
   - **Description**: A simple Text Editor application written in Python using the Tkinter library. It allows users to open, edit, and save .txt or .html files. Additional features include changing the text and background colors, selecting different fonts and font sizes, and providing basic file operations like deleting text and exiting the application.
   - **Technologies**: Python
 
+- **[Data_Structures_and_Algorithms](https://github.com/AngelosFikias0/Data_Structures_and_Algorithms)**
+  - **Description**: A java project showcasing basic data structure and algorithm knowledge and use.
+  - **Technologies**: Java
+
 - **[Calculator_App](https://github.com/AngelosFikias0/Calculator_App)**
   - **Description**: A calculator app written in CSS, HTML, and JavaScript.
   - **Technologies**: CSS, HTML, JavaScript
@@ -80,10 +84,6 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **[Task_Manager](https://github.com/AngelosFikias0/Task_Manager)**
   - **Description**: Simple task manager written in HTML5, CSS3 and JS
   - **Technologies**: CSS, HTML, JavaScript
-
-- **[Data_Structures_and_Algorithms](https://github.com/AngelosFikias0/Data_Structures_and_Algorithms)**
-  - **Description**: A java project showcasing basic data structure and algorithm knowledge and use.
-  - **Technologies**: Java
 
 - **[Safe_car_insurance_System](https://github.com/AngelosFikias0/Safe_car_insurance_System)**
   - **Description**: A program written in Java that simulates a car insurance company's system.
