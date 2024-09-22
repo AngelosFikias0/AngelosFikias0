@@ -31,15 +31,32 @@ I'm a computer science student passionate about exploring the endless possibilit
     <img src="https://github-readme-stats.vercel.app/api?username=AngelosFikias0&theme=transparent" style="width: 51%;">
 </div>
 
-### Tools & Environments 🛠️
+### **Development Tools**
 - **IDEs**: PyCharm, VS Code, Eclipse, CodeBlocks
 - **Version Control**: Git
-- **Data Analysis & Management**: Tableau, PowerBI, SAP ERP, SalesForce CRM, Microsoft Excel, SageMath
-- **Design & Development**: 3ds Max, Visual Paradigm, WordPress
-- **Operating Systems**: Linux, Windows, Android
-- **Utilities**: PuTTY, Wireshark, Xampp
-- **Database Management**: MySQL, MariaDB
-- **DevOps & Containerization**: Docker, Kubernetes
+
+### **Data & Analytics**
+- **Data Visualization & BI**: Tableau, PowerBI
+- **Data Science & Analysis**: RapidMiner, SageMath, Microsoft Excel
+- **Enterprise Systems**: SAP ERP, Salesforce CRM
+
+### **Design & Development**
+- **3D Design**: 3ds Max
+- **Software Design**: Visual Paradigm
+- **Web Development**: WordPress
+
+### **Operating Systems**
+- **Linux**, **Windows**, **Android**
+
+### **Utilities**
+- **Networking & Security**: PuTTY, Wireshark
+- **Local Web Development**: Xampp
+
+### **Database Management**
+- **MySQL**, **MariaDB**
+
+### **DevOps & Containerization**
+- **Docker**, **Kubernetes**
 
 ## Soft Skills 💡
 
