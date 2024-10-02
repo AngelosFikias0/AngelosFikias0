@@ -38,7 +38,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 ---
 
 ### **Development Tools**
-- **IDEs**: PyCharm, VS Code, Eclipse, CodeBlocks
+- **IDEs**: PyCharm, VS Code, Visual Studio, Eclipse, CodeBlocks
 - **Version Control**: Git
 
 ### **Data & Analytics**
