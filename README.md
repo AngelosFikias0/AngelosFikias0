@@ -26,6 +26,8 @@ I'm a computer science student passionate about exploring the endless possibilit
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/-UML-8CA1AF?style=flat-square&logo=uml&logoColor=white" alt="UML" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" /> 
+  <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET" />
 </p>
 
 <div style="display: flex; flex-direction: row;">
