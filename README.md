@@ -85,7 +85,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 
 ---
 
-## Projects [10] 🌟
+## Projects [11] 🌟
 
 - **[Web_Application](https://github.com/AngelosFikias0/Web_Application)**
   - **Description**: A web application with intuitive dashboards for both users and admins. Users can manage posts and profiles, while admins handle user management. Demonstrates CRUD operations, authentication, and role-based access control.
@@ -109,7 +109,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 
 - **[Runners_App](https://github.com/AngelosFikias0/Runners_App)**
   - **Description**: A Spring Boot RESTful API for managing run data (title, times, distance, location) with full CRUD functionality. It uses an H2 in-memory or file-based database and includes an H2 console for easy management. Built with Java, Spring Boot, Maven, and integrates H2 for storage.
-  - **Technologies**: Java Spring Boot
+  - **Technologies**: Java Spring Boot, Maven, H2 Database
 
 - **[Calculator_App](https://github.com/AngelosFikias0/Calculator_App)**
   - **Description**: A simple calculator.
