@@ -26,6 +26,7 @@ I'm a computer science student passionate about exploring the endless possibilit
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Java Spring" />
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/-UML-8CA1AF?style=flat-square&logo=uml&logoColor=white" alt="UML" />
 </p>
@@ -38,7 +39,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 ---
 
 ### **Development Tools**
-- **IDEs**: PyCharm, VS Code, Visual Studio, Eclipse, CodeBlocks
+- **IDEs**: PyCharm, IntelliJ, VS Code, Visual Studio, Eclipse, CodeBlocks
 - **Version Control**: Git
 
 ### **Data & Analytics**
@@ -105,6 +106,10 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **[Data_Structures_and_Algorithms](https://github.com/AngelosFikias0/Data_Structures_and_Algorithms)**
   - **Description**: A project demonstrating data structures and algorithms.
   - **Technologies**: Java
+
+- **[Runners_App](https://github.com/AngelosFikias0/Runners_App)**
+  - **Description**: A Spring Boot RESTful API for managing run data (title, times, distance, location) with full CRUD functionality. It uses an H2 in-memory or file-based database and includes an H2 console for easy management. Built with Java, Spring Boot, Maven, and integrates H2 for storage.
+  - **Technologies**: Java Spring Boot
 
 - **[Calculator_App](https://github.com/AngelosFikias0/Calculator_App)**
   - **Description**: A simple calculator.
