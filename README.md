@@ -28,6 +28,7 @@ I'm a computer science student passionate about exploring the endless possibilit
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/-UML-8CA1AF?style=flat-square&logo=uml&logoColor=white" alt="UML" />
+  <img src="https://img.shields.io/badge/-BPMN-FFCC00?style=flat-square&logo=gnu-bash&logoColor=black" alt="BPMN" />
 </p>
 
 <div style="display: flex; flex-direction: row;">
