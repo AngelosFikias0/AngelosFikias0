@@ -60,7 +60,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **Local Web Development**: Xampp
 
 ### **Database Management**
-- **MySQL**, **MariaDB**
+- **MySQL**, **MariaDB**, **H2**
 
 ### **DevOps & Containerization**
 - **Docker**, **Kubernetes**
