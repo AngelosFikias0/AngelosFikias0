@@ -91,6 +91,10 @@ I'm a computer science student passionate about exploring the endless possibilit
   - **Description**: A web application with intuitive dashboards for both users and admins. Users can manage posts and profiles, while admins handle user management. Demonstrates CRUD operations, authentication, and role-based access control.
   - **Technologies**: PHP, MySQL, HTML, CSS, Apache server
 
+- **[Runners_App](https://github.com/AngelosFikias0/Runners_App)**
+  - **Description**: A Spring Boot RESTful API for managing run data (title, times, distance, location) with full CRUD functionality. It uses an H2 in-memory or file-based database and includes an H2 console for easy management. Built with Java, Spring Boot, Maven, and integrates H2 for storage.
+  - **Technologies**: Java Spring Boot, Maven, H2 Database
+
 - **[Student_Database_CRUD](https://github.com/AngelosFikias0/Student_Database_CRUD)**
   - **Description**: A simple student data management application with CRUD functionality.
   - **Technologies**: PHP, MySQL, JavaScript, HTML, CSS, Apache server
@@ -107,9 +111,9 @@ I'm a computer science student passionate about exploring the endless possibilit
   - **Description**: A project demonstrating data structures and algorithms.
   - **Technologies**: Java
 
-- **[Runners_App](https://github.com/AngelosFikias0/Runners_App)**
-  - **Description**: A Spring Boot RESTful API for managing run data (title, times, distance, location) with full CRUD functionality. It uses an H2 in-memory or file-based database and includes an H2 console for easy management. Built with Java, Spring Boot, Maven, and integrates H2 for storage.
-  - **Technologies**: Java Spring Boot, Maven, H2 Database
+- **[Safe_car_insurance_System](https://github.com/AngelosFikias0/Safe_car_insurance_System)**
+  - **Description**: Car insurance system simulation.
+  - **Technologies**: Java
 
 - **[Calculator_App](https://github.com/AngelosFikias0/Calculator_App)**
   - **Description**: A simple calculator.
@@ -118,10 +122,6 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **[Task_Manager](https://github.com/AngelosFikias0/Task_Manager)**
   - **Description**: Simple task manager written in HTML, CSS, and JS.
   - **Technologies**: CSS, HTML, JavaScript
-
-- **[Safe_car_insurance_System](https://github.com/AngelosFikias0/Safe_car_insurance_System)**
-  - **Description**: Car insurance system simulation.
-  - **Technologies**: Java
 
 - **[Hangman_game](https://github.com/AngelosFikias0/Hangman_game)**
   - **Description**: A classic hangman game.
