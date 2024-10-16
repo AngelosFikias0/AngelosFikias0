@@ -120,7 +120,7 @@ I'm a computer science student passionate about exploring the endless possibilit
   - **Technologies**: CSS, HTML, JavaScript
 
 - **[Task_Manager](https://github.com/AngelosFikias0/Task_Manager)**
-  - **Description**: Simple task manager written in HTML, CSS, and JS.
+  - **Description**: A Simple task manager written in HTML, CSS, and JS.
   - **Technologies**: CSS, HTML, JavaScript
 
 - **[Hangman_game](https://github.com/AngelosFikias0/Hangman_game)**
