@@ -1,4 +1,4 @@
-# Angelos Fikias - Computer Science Student
+# Angelos Fikias (Άγγελος Φίκιας) - Computer Science Student
 
 ### Hi there! 👋 I'm Angelos
 
