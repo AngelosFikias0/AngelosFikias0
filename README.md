@@ -45,7 +45,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 ### **Data & Analytics**
 - **Data Visualization & BI**: Tableau, PowerBI
 - **Data Science & Analysis**: RapidMiner, SageMath, Microsoft Excel
-- **Enterprise Systems**: SAP ERP, Salesforce CRM
+- **Enterprise Systems**: SAP ERP, Salesforce CRM, HubSpot CRM
 
 ### **Design & Development**
 - **3D Design**: 3ds Max
