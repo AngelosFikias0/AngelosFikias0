@@ -58,6 +58,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 ### **Utilities**
 - **Networking & Security**: PuTTY, Wireshark
 - **Local Web Development**: Xampp
+- **Virtualization**: VirtualBox
 
 ### **Database Management**
 - **MySQL**, **MariaDB**, **H2**
@@ -65,6 +66,8 @@ I'm a computer science student passionate about exploring the endless possibilit
 ### **DevOps & Containerization**
 - **Docker**, **Kubernetes**
 
+### **BPM & Workflow Automation**
+- **Camunda**
 ---
 
 ## Soft Skills 💡
