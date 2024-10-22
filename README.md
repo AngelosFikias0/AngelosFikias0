@@ -88,51 +88,93 @@ I'm a computer science student passionate about exploring the endless possibilit
 
 ---
 
-## Projects [11] 🌟
+## **Projects [11] 🌟**
 
-- **[Web_Application](https://github.com/AngelosFikias0/Web_Application)**
-  - **Description**: A web application with intuitive dashboards for both users and admins. Users can manage posts and profiles, while admins handle user management. Demonstrates CRUD operations, authentication, and role-based access control.
-  - **Technologies**: PHP, MySQL, HTML, CSS, Apache server
+### [1. Web Application](https://github.com/AngelosFikias0/Web_Application)
+- **Description**:  
+  A feature-rich web application providing intuitive dashboards for both users and admins. Users can manage their posts and profiles, while admins handle user management tasks. This project demonstrates full **CRUD** operations, user authentication, and role-based access control.  
+- **Technologies**:  
+  `PHP`, `MySQL`, `HTML`, `CSS`, `Apache server`
 
-- **[Runners_App](https://github.com/AngelosFikias0/Runners_App)**
-  - **Description**: A Spring Boot RESTful API for managing run data (title, times, distance, location) with full CRUD functionality. It uses an H2 in-memory or file-based database and includes an H2 console for easy management. Built with Java, Spring Boot, Maven, and integrates H2 for storage.
-  - **Technologies**: Java Spring Boot, Maven, H2 Database
+---
 
-- **[Student_Database_CRUD](https://github.com/AngelosFikias0/Student_Database_CRUD)**
-  - **Description**: A simple student data management application with CRUD functionality.
-  - **Technologies**: PHP, MySQL, JavaScript, HTML, CSS, Apache server
+### [2. Runners App](https://github.com/AngelosFikias0/Runners_App)
+- **Description**:  
+  A **Spring Boot RESTful API** for managing run data, including titles, times, distances, and locations, with complete **CRUD** functionality. It uses an **H2 in-memory** or file-based database and provides an **H2 console** for easy data management.  
+- **Technologies**:  
+  `Java`, `Spring Boot`, `Maven`, `H2 Database`
 
-- **[Weather_App](https://github.com/AngelosFikias0/Weather_App)**
-  - **Description**: A real-time weather app using OpenWeatherMap API to display weather data.
-  - **Technologies**: CSS, HTML, JavaScript
+---
 
-- **[Text_Editor](https://github.com/AngelosFikias0/Text_Editor)**
-  - **Description**: A text editor in Python with Tkinter, offering editing and customization features.
-  - **Technologies**: Python
+### [3. Student Database CRUD](https://github.com/AngelosFikias0/Student_Database_CRUD)
+- **Description**:  
+  A student data management application enabling basic **CRUD** operations on student records.  
+- **Technologies**:  
+  `PHP`, `MySQL`, `JavaScript`, `HTML`, `CSS`, `Apache server`
 
-- **[Data_Structures_and_Algorithms](https://github.com/AngelosFikias0/Data_Structures_and_Algorithms)**
-  - **Description**: A project demonstrating data structures and algorithms.
-  - **Technologies**: Java
+---
 
-- **[Safe_car_insurance_System](https://github.com/AngelosFikias0/Safe_car_insurance_System)**
-  - **Description**: Car insurance system simulation.
-  - **Technologies**: Java
+### [4. Weather App](https://github.com/AngelosFikias0/Weather_App)
+- **Description**:  
+  A real-time weather app that fetches and displays current weather data using the **OpenWeatherMap API**.  
+- **Technologies**:  
+  `CSS`, `HTML`, `JavaScript`
 
-- **[Calculator_App](https://github.com/AngelosFikias0/Calculator_App)**
-  - **Description**: A simple calculator.
-  - **Technologies**: CSS, HTML, JavaScript
+---
 
-- **[Task_Manager](https://github.com/AngelosFikias0/Task_Manager)**
-  - **Description**: A Simple task manager written in HTML, CSS, and JS.
-  - **Technologies**: CSS, HTML, JavaScript
+### [5. Text Editor](https://github.com/AngelosFikias0/Text_Editor)
+- **Description**:  
+  A text editor developed using **Python** and **Tkinter**, offering text editing and customization features.  
+- **Technologies**:  
+  `Python`, `Tkinter`
 
-- **[Hangman_game](https://github.com/AngelosFikias0/Hangman_game)**
-  - **Description**: A classic hangman game.
-  - **Technologies**: Java
+---
 
-- **[Quiz_game](https://github.com/AngelosFikias0/Quiz_game)**
-  - **Description**: A trivia quiz game.
-  - **Technologies**: C
+### [6. Data Structures and Algorithms](https://github.com/AngelosFikias0/Data_Structures_and_Algorithms)
+- **Description**:  
+  A comprehensive project showcasing various **data structures** and **algorithms** implemented in **Java**.  
+- **Technologies**:  
+  `Java`
+
+---
+
+### [7. Safe Car Insurance System](https://github.com/AngelosFikias0/Safe_car_insurance_System)
+- **Description**:  
+  A simulation of a car insurance system, developed to demonstrate various system functionalities and processes.  
+- **Technologies**:  
+  `Java`
+
+---
+
+### [8. Calculator App](https://github.com/AngelosFikias0/Calculator_App)
+- **Description**:  
+  A simple yet functional calculator application, built with **HTML**, **CSS**, and **JavaScript**.  
+- **Technologies**:  
+  `CSS`, `HTML`, `JavaScript`
+
+---
+
+### [9. Task Manager](https://github.com/AngelosFikias0/Task_Manager)
+- **Description**:  
+  A task management application allowing users to create and organize tasks efficiently.  
+- **Technologies**:  
+  `CSS`, `HTML`, `JavaScript`
+
+---
+
+### [10. Hangman Game](https://github.com/AngelosFikias0/Hangman_game)
+- **Description**:  
+  A classic implementation of the **Hangman game** using **Java**.  
+- **Technologies**:  
+  `Java`
+
+---
+
+### [11. Quiz Game](https://github.com/AngelosFikias0/Quiz_game)
+- **Description**:  
+  A trivia-based **Quiz Game** created using **C**, designed to challenge users with various questions.  
+- **Technologies**:  
+  `C`
 
 ---
 
