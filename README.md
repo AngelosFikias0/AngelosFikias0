@@ -96,15 +96,11 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **Technologies**:  
   `PHP`, `MySQL`, `HTML`, `CSS`, `Apache server`
 
----
-
 ### [2. Runners App](https://github.com/AngelosFikias0/Runners_App)
 - **Description**:  
   A **Spring Boot RESTful API** for managing run data, including titles, times, distances, and locations, with complete **CRUD** functionality. It uses an **H2 in-memory** or file-based database and provides an **H2 console** for easy data management.  
 - **Technologies**:  
   `Java`, `Spring Boot`, `Maven`, `H2 Database`
-
----
 
 ### [3. Student Database CRUD](https://github.com/AngelosFikias0/Student_Database_CRUD)
 - **Description**:  
@@ -112,15 +108,11 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **Technologies**:  
   `PHP`, `MySQL`, `JavaScript`, `HTML`, `CSS`, `Apache server`
 
----
-
 ### [4. Weather App](https://github.com/AngelosFikias0/Weather_App)
 - **Description**:  
   A real-time weather app that fetches and displays current weather data using the **OpenWeatherMap API**.  
 - **Technologies**:  
   `CSS`, `HTML`, `JavaScript`
-
----
 
 ### [5. Text Editor](https://github.com/AngelosFikias0/Text_Editor)
 - **Description**:  
@@ -128,15 +120,11 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **Technologies**:  
   `Python`, `Tkinter`
 
----
-
 ### [6. Data Structures and Algorithms](https://github.com/AngelosFikias0/Data_Structures_and_Algorithms)
 - **Description**:  
   A comprehensive project showcasing various **data structures** and **algorithms** implemented in **Java**.  
 - **Technologies**:  
   `Java`
-
----
 
 ### [7. Safe Car Insurance System](https://github.com/AngelosFikias0/Safe_car_insurance_System)
 - **Description**:  
@@ -144,15 +132,11 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **Technologies**:  
   `Java`
 
----
-
 ### [8. Calculator App](https://github.com/AngelosFikias0/Calculator_App)
 - **Description**:  
   A simple yet functional calculator application, built with **HTML**, **CSS**, and **JavaScript**.  
 - **Technologies**:  
   `CSS`, `HTML`, `JavaScript`
-
----
 
 ### [9. Task Manager](https://github.com/AngelosFikias0/Task_Manager)
 - **Description**:  
@@ -160,23 +144,17 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **Technologies**:  
   `CSS`, `HTML`, `JavaScript`
 
----
-
 ### [10. Hangman Game](https://github.com/AngelosFikias0/Hangman_game)
 - **Description**:  
   A classic implementation of the **Hangman game** using **Java**.  
 - **Technologies**:  
   `Java`
 
----
-
 ### [11. Quiz Game](https://github.com/AngelosFikias0/Quiz_game)
 - **Description**:  
   A trivia-based **Quiz Game** created using **C**, designed to challenge users with various questions.  
 - **Technologies**:  
   `C`
-
----
 
 ## Let's Connect and Collaborate! 🤝
 
