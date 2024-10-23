@@ -1,6 +1,6 @@
-# Angelos Fikias (Άγγελος Φίκιας) - Computer Science Student
+# Angelos Fikias - Computer Science Student
 
-### Hi there! 👋 I'm Angelos
+### Hi there! 👋 I'm Angelos Fikias
 
 I'm a computer science student passionate about exploring the endless possibilities of technology. Currently, I'm studying at the University of Macedonia, focusing on software development and data science. My goal is to leverage technology to solve real-world problems and innovate in the tech industry.
 
