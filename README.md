@@ -7,7 +7,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 - 🌱 I’m currently working on various interesting projects.
 - 🔭 I’m excited to share my projects with the community.
 - 💬 Ask me anything.
-- 📫 Reach me: [angelosfikias@gmail.com](mailto:angelosfikias@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/angelos-fikias-bb2761294/) or [LeetCode](https://leetcode.com/u/angelosfikias/).
+- 📫 Reach me: [angelosfikias@gmail.com](mailto:angelosfikias@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/angelos-fikias/) or [LeetCode](https://leetcode.com/u/angelosfikias/).
 
 ---
 
