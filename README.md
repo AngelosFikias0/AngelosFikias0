@@ -85,8 +85,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **Relevant Coursework**: Data Structures, Algorithms, Database Systems, Software Engineering, Networks, OS and Architecture, Marketing, System design and implementation, System security, HCI basics
 
 ---
-
-## **Projects [11] 🌟**
+## **Projects [12] 🌟**
 
 ### [1. Web Application](https://github.com/AngelosFikias0/Web_Application)
 - **Description**:  
@@ -106,49 +105,55 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **Technologies**:  
   `PHP`, `MySQL`, `JavaScript`, `HTML`, `CSS`, `Apache server`
 
-### [4. Weather App](https://github.com/AngelosFikias0/Weather_App)
+### [4. Student Management System](https://github.com/AngelosFikias0/Student_Management_System)
+- **Description**:  
+  An advanced **Java** project for efficient student and course management, using **Java serialization** for persistent storage. It provides core functionality for **adding**, **removing**, **searching**, and **listing** students and courses, with a **Swing-based GUI** for ease of use. This project demonstrates advanced Java skills, **OOP principles**, and scalability for future database integration.  
+- **Technologies**:  
+  `Java`, `Swing`, `File`
+
+### [5. Weather App](https://github.com/AngelosFikias0/Weather_App)
 - **Description**:  
   A real-time weather app that fetches and displays current weather data using the **OpenWeatherMap API**.  
 - **Technologies**:  
   `CSS`, `HTML`, `JavaScript`
 
-### [5. Text Editor](https://github.com/AngelosFikias0/Text_Editor)
+### [6. Text Editor](https://github.com/AngelosFikias0/Text_Editor)
 - **Description**:  
   A text editor developed using **Python** and **Tkinter**, offering text editing and customization features.  
 - **Technologies**:  
   `Python`, `Tkinter`
 
-### [6. Data Structures and Algorithms](https://github.com/AngelosFikias0/Data_Structures_and_Algorithms)
+### [7. Data Structures and Algorithms](https://github.com/AngelosFikias0/Data_Structures_and_Algorithms)
 - **Description**:  
   A comprehensive project showcasing various **data structures** and **algorithms** implemented in **Java**.  
 - **Technologies**:  
   `Java`
 
-### [7. Safe Car Insurance System](https://github.com/AngelosFikias0/Safe_car_insurance_System)
+### [8. Safe Car Insurance System](https://github.com/AngelosFikias0/Safe_car_insurance_System)
 - **Description**:  
   A simulation of a car insurance system, developed to demonstrate various system functionalities and processes.  
 - **Technologies**:  
   `Java`
 
-### [8. Calculator App](https://github.com/AngelosFikias0/Calculator_App)
+### [9. Calculator App](https://github.com/AngelosFikias0/Calculator_App)
 - **Description**:  
   A simple yet functional calculator application, built with **HTML**, **CSS**, and **JavaScript**.  
 - **Technologies**:  
   `CSS`, `HTML`, `JavaScript`
 
-### [9. Task Manager](https://github.com/AngelosFikias0/Task_Manager)
+### [10. Task Manager](https://github.com/AngelosFikias0/Task_Manager)
 - **Description**:  
   A task management application allowing users to create and organize tasks efficiently.  
 - **Technologies**:  
   `CSS`, `HTML`, `JavaScript`
 
-### [10. Hangman Game](https://github.com/AngelosFikias0/Hangman_game)
+### [11. Hangman Game](https://github.com/AngelosFikias0/Hangman_game)
 - **Description**:  
   A classic implementation of the **Hangman game** using **Java**.  
 - **Technologies**:  
   `Java`
 
-### [11. Quiz Game](https://github.com/AngelosFikias0/Quiz_game)
+### [12. Quiz Game](https://github.com/AngelosFikias0/Quiz_game)
 - **Description**:  
   A trivia-based **Quiz Game** created using **C**, designed to challenge users with various questions.  
 - **Technologies**:  
