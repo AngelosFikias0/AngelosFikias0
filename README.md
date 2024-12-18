@@ -113,7 +113,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 
 ### [5. Weather App](https://github.com/AngelosFikias0/Weather_App)
 - **Description**:  
-  A responsive weather application that allows users to view real-time weather updates. The app uses the **OpenWeatherMap API** to fetch current weather information based on the user's location, making it a practical tool for daily use. The interface is simple yet clean, making it user-friendly for all.  
+  A responsive weather application that allows users to view real-time weather updates. The app uses the **OpenWeatherMap Rest API** to fetch current weather information based on the user's location, making it a practical tool for daily use. The interface is simple yet clean, making it user-friendly for all.  
 - **Technologies**:  
   `CSS`, `HTML`, `JavaScript`
 
