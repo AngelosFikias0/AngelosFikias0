@@ -85,79 +85,152 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **Relevant Coursework**: Data Structures, Algorithms, Database Systems, Software Engineering, Networks, OS and Architecture, Marketing, System design and implementation, System security, HCI basics
 
 ---
-## **Projects [12] 🌟**
+# **Projects Portfolio [12] : 🛠️**
 
-### [1. Web Application](https://github.com/AngelosFikias0/Web_Application)
-- **Description**:  
-  An interactive and dynamic web application designed to manage user profiles and posts. Users can seamlessly create, edit, and delete posts while maintaining control over their profiles. Admins can monitor users and manage posts effectively. This project utilizes role-based access control and sophisticated authentication methods to ensure a secure user experience.  
-- **Technologies**:  
-  `PHP`, `MySQL`, `HTML`, `CSS`, `Apache server`
+## **1. Web Application**  
+🔗 [GitHub Repository](https://github.com/AngelosFikias0/Web_Application)  
+**📜 Description**:  
+An **interactive and dynamic CRUD web application** for managing user profiles and posts. Includes **role-based access control** to ensure secure interactions, enabling users to create, edit, and delete posts while admins oversee platform activity. Sophisticated **authentication methods** were employed to enhance security.  
+**💡 Key Highlights**:  
+- Designed and implemented **role-based access control**.  
+- Integrated secure authentication mechanisms.  
+- Developed with a focus on **scalability** and **user experience**.  
+**💻 Technologies**:  
+`PHP`, `MySQL`, `HTML`, `CSS`, `Apache Server`
 
-### [2. Runners App](https://github.com/AngelosFikias0/Runners_App)
-- **Description**:  
-  A RESTful API built using **Spring Boot** for tracking and analyzing run data. This app allows users to log their runs, providing insights on time, distance, and location. The app is fully equipped with **CRUD** operations for easy data management and retrieval, utilizing an **H2 in-memory** database for fast and efficient data storage.  
-- **Technologies**:  
-  `Java`, `Spring Boot`, `Maven`, `H2 Database`
+---
 
-### [3. Student Database CRUD](https://github.com/AngelosFikias0/Student_Database_CRUD)
-- **Description**:  
-  A CRUD-based application for managing student data. Users can easily add, update, retrieve, and delete student records, making it a robust tool for educational institutions. This project demonstrates seamless integration between the backend (PHP & MySQL) and the front-end user interface.  
-- **Technologies**:  
-  `PHP`, `MySQL`, `JavaScript`, `HTML`, `CSS`, `Apache server`
+## **2. Runners App**  
+🔗 [GitHub Repository](https://github.com/AngelosFikias0/Runners_App)  
+**📜 Description**:  
+A **RESTful API** built using **Spring Boot** to track and analyze running data. Offers functionality for logging runs, viewing statistics, and location mapping, supported by **CRUD operations** and an **H2 in-memory database** for optimal performance.  
+**💡 Key Highlights**:  
+- Implemented **RESTful API** principles with Spring Boot.  
+- Delivered efficient CRUD operations with **Java backend services**.  
+- Developed with **modular and scalable architecture**.  
+**💻 Technologies**:  
+`Java`, `Spring Boot`, `Maven`, `H2 Database`
 
-### [4. Student Management System](https://github.com/AngelosFikias0/Student_Management_System)
-- **Description**:  
-  A comprehensive **Java** application designed to efficiently manage students and courses. It leverages **Java serialization** for saving and retrieving data, offering **CRUD** functionality for adding, removing, and searching student records. The **Swing-based GUI** provides a user-friendly interface for easy interactions, and the system is designed for scalability, with potential for future database integration.  
-- **Technologies**:  
-  `Java`, `Swing`, `File`
+---
 
-### [5. Weather App](https://github.com/AngelosFikias0/Weather_App)
-- **Description**:  
-  A responsive weather application that allows users to view real-time weather updates. The app uses the **OpenWeatherMap Rest API** to fetch current weather information based on the user's location, making it a practical tool for daily use. The interface is simple yet clean, making it user-friendly for all.  
-- **Technologies**:  
-  `CSS`, `HTML`, `JavaScript`
+## **3. Student Database CRUD**  
+🔗 [GitHub Repository](https://github.com/AngelosFikias0/Student_Database_CRUD)  
+**📜 Description**:  
+A database-driven **CRUD application** to manage student records, integrating **backend PHP logic** with an intuitive **frontend interface**.  
+**💡 Key Highlights**:  
+- Ensured seamless **frontend-backend integration**.  
+- Developed with a focus on **efficiency in database operations**.  
+**💻 Technologies**:  
+`PHP`, `MySQL`, `JavaScript`, `HTML`, `CSS`, `Apache Server`
 
-### [6. Text Editor](https://github.com/AngelosFikias0/Text_Editor)
-- **Description**:  
-  A lightweight and feature-packed text editor built using **Python** and **Tkinter**. This editor allows users to write and edit text, with features like saving files, changing font styles, and more. It’s an ideal project for showcasing the power of **Python's GUI capabilities**.  
-- **Technologies**:  
-  `Python`, `Tkinter`
+---
 
-### [7. Data Structures and Algorithms](https://github.com/AngelosFikias0/Data_Structures_and_Algorithms)
-- **Description**:  
-  A well-organized collection of **data structures** and **algorithms** implemented in **Java**. This project aims to provide clear and efficient implementations of classic algorithms such as sorting, searching, and dynamic programming. It’s a great resource for learning and understanding the inner workings of these essential concepts.  
-- **Technologies**:  
-  `Java`
+## **4. Student Management System**  
+🔗 [GitHub Repository](https://github.com/AngelosFikias0/Student_Management_System)  
+**📜 Description**:  
+A comprehensive desktop application for managing students and courses. It leverages **Java Serialization & File** for persistent storage and provides a robust **Swing-based GUI** for an enhanced user experience.  
+**💡 Key Highlights**:  
+- Implemented **Java File** for data management.  
+- Built an **interactive GUI** with **Java Swing**.  
+- Designed with future scalability in mind.  
+**💻 Technologies**:  
+`Java`, `Swing`, `File Handling`
 
-### [8. Safe Car Insurance System](https://github.com/AngelosFikias0/Safe_car_insurance_System)
-- **Description**:  
-  A simulation system designed to manage car insurance policies and claims. This app demonstrates the ability to manage complex data structures related to insurance policies, providing users with a straightforward way to interact with the system.  
-- **Technologies**:  
-  `Java`
+---
 
-### [9. Calculator App](https://github.com/AngelosFikias0/Calculator_App)
-- **Description**:  
-  A simple yet powerful **calculator application** that allows users to perform basic mathematical operations. Developed using **HTML**, **CSS**, and **JavaScript**, it demonstrates fundamental web development concepts while providing a useful tool for everyday use.  
-- **Technologies**:  
-  `CSS`, `HTML`, `JavaScript`
+## **5. Weather App**  
+🔗 [GitHub Repository](https://github.com/AngelosFikias0/Weather_App)  
+**📜 Description**:  
+A real-time weather application that fetches updates via the **OpenWeatherMap REST API**. The interface is clean and responsive, offering users a seamless experience.  
+**💡 Key Highlights**:  
+- Integrated **third-party APIs** for dynamic data retrieval.  
+- Delivered a **responsive and accessible UI**.  
+**💻 Technologies**:  
+`CSS`, `HTML`, `JavaScript`
 
-### [10. Task Manager](https://github.com/AngelosFikias0/Task_Manager)
-- **Description**:  
-  A personal task manager built with **HTML**, **CSS**, and **JavaScript** that helps users stay organized. The app allows users to create, manage, and delete tasks, helping them stay on top of their responsibilities.  
-- **Technologies**:  
-  `CSS`, `HTML`, `JavaScript`
+---
 
-### [11. Hangman Game](https://github.com/AngelosFikias0/Hangman_game)
-- **Description**:  
-  A classic **Hangman game** developed in **Java**. Users can guess letters and try to uncover the word before running out of chances. It’s a fun and educational way to practice logic, conditionals, and user input handling in Java.  
-- **Technologies**:  
-  `Java`
+## **6. Text Editor**  
+🔗 [GitHub Repository](https://github.com/AngelosFikias0/Text_Editor)  
+**📜 Description**:  
+A lightweight **Python**-based text editor with features like file saving and font customization, built using **Tkinter**.  
+**💡 Key Highlights**:  
+- Showcased Python's **GUI capabilities** with Tkinter.  
+- Developed reusable code for scalable GUI applications.  
+**💻 Technologies**:  
+`Python`, `Tkinter`
 
-### [12. Quiz Game](https://github.com/AngelosFikias0/Quiz_game)
-- **Description**:  
-  A simple but engaging **C**-based **quiz game** that tests users' knowledge on various topics. The game asks users multiple-choice questions and provides instant feedback on their answers. This project showcases the use of **basic control structures** and user input handling in C.  
-- **Technologies**:  
-  `C`
+---
+
+## **7. Data Structures and Algorithms**  
+🔗 [GitHub Repository](https://github.com/AngelosFikias0/Data_Structures_and_Algorithms)  
+**📜 Description**:  
+A comprehensive library of **data structures** and **algorithms** implemented in **Java** to demonstrate mastery of key computational concepts.  
+**💡 Key Highlights**:  
+- Implemented algorithms like **sorting**, **searching**, and **dynamic programming**.  
+- Focused on **code efficiency** and clarity for educational purposes.  
+**💻 Technologies**:  
+`Java`
+
+---
+
+## **8. Safe Car Insurance System**  
+🔗 [GitHub Repository](https://github.com/AngelosFikias0/Safe_car_insurance_System)  
+**📜 Description**:  
+A simulation for managing car insurance policies and claims, showcasing the ability to handle complex data structures.  
+**💡 Key Highlights**:  
+- Designed logical frameworks for **policy management**.  
+- Employed Java’s **object-oriented programming principles**.  
+**💻 Technologies**:  
+`Java`
+
+---
+
+## **9. Calculator App**  
+🔗 [GitHub Repository](https://github.com/AngelosFikias0/Calculator_App)  
+**📜 Description**:  
+A visually appealing **web-based calculator** that supports basic mathematical operations.  
+**💡 Key Highlights**:  
+- Demonstrated foundational **web development skills**.  
+- Delivered a clean and interactive user interface.  
+**💻 Technologies**:  
+`CSS`, `HTML`, `JavaScript`
+
+---
+
+## **10. Task Manager**  
+🔗 [GitHub Repository](https://github.com/AngelosFikias0/Task_Manager)  
+**📜 Description**:  
+A personal **task management tool** to help users organize their daily responsibilities.  
+**💡 Key Highlights**:  
+- Developed a fully functional **task management interface**.  
+- Focused on providing a **user-friendly experience**.  
+**💻 Technologies**:  
+`CSS`, `HTML`, `JavaScript`
+
+---
+
+## **11. Hangman Game**  
+🔗 [GitHub Repository](https://github.com/AngelosFikias0/Hangman_game)  
+**📜 Description**:  
+A fun and engaging **Hangman game** to practice Java fundamentals.  
+**💡 Key Highlights**:  
+- Developed robust logic for **user interaction** and gameplay mechanics.  
+- Focused on **code clarity** and maintainability.  
+**💻 Technologies**:  
+`Java`
+
+---
+
+## **12. Quiz Game**  
+🔗 [GitHub Repository](https://github.com/AngelosFikias0/Quiz_game)  
+**📜 Description**:  
+A **C-based quiz game** designed to test user knowledge with multiple-choice questions.  
+**💡 Key Highlights**:  
+- Designed an engaging and interactive game flow.  
+- Leveraged **C programming concepts** like control structures.  
+**💻 Technologies**:  
+`C`
 
 ## Let's Connect and Collaborate! 🤝
 
