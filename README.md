@@ -84,11 +84,10 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **Expected Graduation**: 2026
 - **Relevant Coursework**: Data Structures, Algorithms, Database Systems, Software Engineering, Networks, OS and Architecture, Marketing, System design and implementation, System security, HCI basics
 
----
 # **Projects Portfolio [12] : 🛠️**
 
 ## **1. Web Application**  
-🔗 [GitHub Repository](https://github.com/AngelosFikias0/Web_Application)  
+🔗 [Web_Application](https://github.com/AngelosFikias0/Web_Application)  
 **📜 Description**:  
 An **interactive and dynamic CRUD web application** for managing user profiles and posts. Includes **role-based access control** to ensure secure interactions, enabling users to create, edit, and delete posts while admins oversee platform activity. Sophisticated **authentication methods** were employed to enhance security.  
 **💡 Key Highlights**:  
@@ -101,7 +100,7 @@ An **interactive and dynamic CRUD web application** for managing user profiles a
 ---
 
 ## **2. Runners App**  
-🔗 [GitHub Repository](https://github.com/AngelosFikias0/Runners_App)  
+🔗 [Runners_App](https://github.com/AngelosFikias0/Runners_App)  
 **📜 Description**:  
 A **RESTful API** built using **Spring Boot** to track and analyze running data. Offers functionality for logging runs, viewing statistics, and location mapping, supported by **CRUD operations** and an **H2 in-memory database** for optimal performance.  
 **💡 Key Highlights**:  
@@ -114,7 +113,7 @@ A **RESTful API** built using **Spring Boot** to track and analyze running data.
 ---
 
 ## **3. Student Database CRUD**  
-🔗 [GitHub Repository](https://github.com/AngelosFikias0/Student_Database_CRUD)  
+🔗 [Student_Database_CRUD](https://github.com/AngelosFikias0/Student_Database_CRUD)  
 **📜 Description**:  
 A database-driven **CRUD application** to manage student records, integrating **backend PHP logic** with an intuitive **frontend interface**.  
 **💡 Key Highlights**:  
@@ -126,7 +125,7 @@ A database-driven **CRUD application** to manage student records, integrating **
 ---
 
 ## **4. Student Management System**  
-🔗 [GitHub Repository](https://github.com/AngelosFikias0/Student_Management_System)  
+🔗 [Student_Management_System](https://github.com/AngelosFikias0/Student_Management_System)  
 **📜 Description**:  
 A comprehensive desktop application for managing students and courses. It leverages **Java Serialization & File** for persistent storage and provides a robust **Swing-based GUI** for an enhanced user experience.  
 **💡 Key Highlights**:  
@@ -139,7 +138,7 @@ A comprehensive desktop application for managing students and courses. It levera
 ---
 
 ## **5. Weather App**  
-🔗 [GitHub Repository](https://github.com/AngelosFikias0/Weather_App)  
+🔗 [Weather_App](https://github.com/AngelosFikias0/Weather_App)  
 **📜 Description**:  
 A real-time weather application that fetches updates via the **OpenWeatherMap REST API**. The interface is clean and responsive, offering users a seamless experience.  
 **💡 Key Highlights**:  
@@ -151,7 +150,7 @@ A real-time weather application that fetches updates via the **OpenWeatherMap RE
 ---
 
 ## **6. Text Editor**  
-🔗 [GitHub Repository](https://github.com/AngelosFikias0/Text_Editor)  
+🔗 [Text_Editor](https://github.com/AngelosFikias0/Text_Editor)  
 **📜 Description**:  
 A lightweight **Python**-based text editor with features like file saving and font customization, built using **Tkinter**.  
 **💡 Key Highlights**:  
@@ -163,7 +162,7 @@ A lightweight **Python**-based text editor with features like file saving and fo
 ---
 
 ## **7. Data Structures and Algorithms**  
-🔗 [GitHub Repository](https://github.com/AngelosFikias0/Data_Structures_and_Algorithms)  
+🔗 [Data_Structures_and_Algorithms](https://github.com/AngelosFikias0/Data_Structures_and_Algorithms)  
 **📜 Description**:  
 A comprehensive library of **data structures** and **algorithms** implemented in **Java** to demonstrate mastery of key computational concepts.  
 **💡 Key Highlights**:  
@@ -175,7 +174,7 @@ A comprehensive library of **data structures** and **algorithms** implemented in
 ---
 
 ## **8. Safe Car Insurance System**  
-🔗 [GitHub Repository](https://github.com/AngelosFikias0/Safe_car_insurance_System)  
+🔗 [Safe_car_insurance_System](https://github.com/AngelosFikias0/Safe_car_insurance_System)  
 **📜 Description**:  
 A simulation for managing car insurance policies and claims, showcasing the ability to handle complex data structures.  
 **💡 Key Highlights**:  
@@ -187,7 +186,7 @@ A simulation for managing car insurance policies and claims, showcasing the abil
 ---
 
 ## **9. Calculator App**  
-🔗 [GitHub Repository](https://github.com/AngelosFikias0/Calculator_App)  
+🔗 [Calculator_App](https://github.com/AngelosFikias0/Calculator_App)  
 **📜 Description**:  
 A visually appealing **web-based calculator** that supports basic mathematical operations.  
 **💡 Key Highlights**:  
@@ -199,7 +198,7 @@ A visually appealing **web-based calculator** that supports basic mathematical o
 ---
 
 ## **10. Task Manager**  
-🔗 [GitHub Repository](https://github.com/AngelosFikias0/Task_Manager)  
+🔗 [Task_Manager](https://github.com/AngelosFikias0/Task_Manager)  
 **📜 Description**:  
 A personal **task management tool** to help users organize their daily responsibilities.  
 **💡 Key Highlights**:  
@@ -211,7 +210,7 @@ A personal **task management tool** to help users organize their daily responsib
 ---
 
 ## **11. Hangman Game**  
-🔗 [GitHub Repository](https://github.com/AngelosFikias0/Hangman_game)  
+🔗 [Hangman_game](https://github.com/AngelosFikias0/Hangman_game)  
 **📜 Description**:  
 A fun and engaging **Hangman game** to practice Java fundamentals.  
 **💡 Key Highlights**:  
@@ -223,7 +222,7 @@ A fun and engaging **Hangman game** to practice Java fundamentals.
 ---
 
 ## **12. Quiz Game**  
-🔗 [GitHub Repository](https://github.com/AngelosFikias0/Quiz_game)  
+🔗 [Quiz_game](https://github.com/AngelosFikias0/Quiz_game)  
 **📜 Description**:  
 A **C-based quiz game** designed to test user knowledge with multiple-choice questions.  
 **💡 Key Highlights**:  
