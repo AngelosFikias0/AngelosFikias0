@@ -84,8 +84,8 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **Expected Graduation**: 2026
 - **Relevant Coursework**: Data Structures, Algorithms, Database Systems, Software Engineering, Networks, OS and Architecture, Marketing, System design and implementation, System security, HCI basics
 
+---
 # **Projects Portfolio [12] : 🛠️**
-
 ## **1. Web Application**  
 🔗 [Web_Application](https://github.com/AngelosFikias0/Web_Application)  
 **📜 Description**:  
