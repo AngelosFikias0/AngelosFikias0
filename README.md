@@ -85,151 +85,152 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **Relevant Coursework**: Data Structures, Algorithms, Database Systems, Software Engineering, Networks, OS and Architecture, Marketing, System design and implementation, System security, HCI basics
 
 ---
-# **Projects Portfolio [12] : 🛠️**
-## **1. Web Application**  
-🔗 [Web_Application](https://github.com/AngelosFikias0/Web_Application)  
-**📜 Description**:  
-An **interactive and dynamic CRUD web application** for managing user profiles and posts. Includes **role-based access control** to ensure secure interactions, enabling users to create, edit, and delete posts while admins oversee platform activity. Sophisticated **authentication methods** were employed to enhance security.  
-**💡 Key Highlights**:  
-- Designed and implemented **role-based access control**.  
-- Integrated secure authentication mechanisms.  
-- Developed with a focus on **scalability** and **user experience**.  
-**💻 Technologies**:  
-`PHP`, `MySQL`, `HTML`, `CSS`, `Apache Server`
+# **Projects Portfolio: 🛠️**
 
----
-
-## **2. Runners App**  
+## **1. Runners App**  
 🔗 [Runners_App](https://github.com/AngelosFikias0/Runners_App)  
 **📜 Description**:  
-A **RESTful API** built using **Spring Boot** to track and analyze running data. Offers functionality for logging runs, viewing statistics, and location mapping, supported by **CRUD operations** and an **H2 in-memory database** for optimal performance.  
+A robust **RESTful API** developed using **Spring Boot**, designed to log, track, and analyze running statistics. It includes advanced CRUD operations and supports location mapping while utilizing an **H2 in-memory database** for high performance. This project showcases backend expertise and adherence to modern development principles.  
 **💡 Key Highlights**:  
-- Implemented **RESTful API** principles with Spring Boot.  
-- Delivered efficient CRUD operations with **Java backend services**.  
-- Developed with **modular and scalable architecture**.  
+- Implemented scalable **RESTful API principles** with Spring Boot.  
+- Designed modular backend architecture for future feature integration.  
+- Delivered efficient CRUD operations with optimized performance.  
 **💻 Technologies**:  
 `Java`, `Spring Boot`, `Maven`, `H2 Database`
 
 ---
 
-## **3. Student Database CRUD**  
-🔗 [Student_Database_CRUD](https://github.com/AngelosFikias0/Student_Database_CRUD)  
+## **2. Interactive Role-Based Web App**  
+🔗 [Interactive_Role_Based_Web_App](https://github.com/AngelosFikias0/Interactive_Role_Based_Web_App)  
 **📜 Description**:  
-A database-driven **CRUD application** to manage student records, integrating **backend PHP logic** with an intuitive **frontend interface**.  
+An advanced web application offering secure **role-based access control** and comprehensive **CRUD functionalities** for managing user accounts and posts. This project emphasizes secure interactions and scalability for modern web systems.  
 **💡 Key Highlights**:  
-- Ensured seamless **frontend-backend integration**.  
-- Developed with a focus on **efficiency in database operations**.  
+- Designed **role-based access control** with distinct admin and user privileges.  
+- Implemented **secure authentication mechanisms** for sensitive data protection.  
+- Developed with a focus on **scalability** and user-centric design.  
 **💻 Technologies**:  
-`PHP`, `MySQL`, `JavaScript`, `HTML`, `CSS`, `Apache Server`
+`PHP`, `MySQL`, `HTML`, `CSS`, `Apache Server`
 
 ---
 
-## **4. Student Management System**  
-🔗 [Student_Management_System](https://github.com/AngelosFikias0/Student_Management_System)  
+## **3. Python Text Editor**  
+🔗 [Python_Text_Editor](https://github.com/AngelosFikias0/Python_Text_Editor)  
 **📜 Description**:  
-A comprehensive desktop application for managing students and courses. It leverages **Java Serialization & File** for persistent storage and provides a robust **Swing-based GUI** for an enhanced user experience.  
+A lightweight desktop text editor built with **Python Tkinter**, supporting features like file saving, font customization, and an intuitive interface. This project demonstrates Python’s GUI development capabilities and efficient handling of desktop tools.  
 **💡 Key Highlights**:  
-- Implemented **Java File** for data management.  
-- Built an **interactive GUI** with **Java Swing**.  
-- Designed with future scalability in mind.  
-**💻 Technologies**:  
-`Java`, `Swing`, `File Handling`
-
----
-
-## **5. Weather App**  
-🔗 [Weather_App](https://github.com/AngelosFikias0/Weather_App)  
-**📜 Description**:  
-A real-time weather application that fetches updates via the **OpenWeatherMap REST API**. The interface is clean and responsive, offering users a seamless experience.  
-**💡 Key Highlights**:  
-- Integrated **third-party APIs** for dynamic data retrieval.  
-- Delivered a **responsive and accessible UI**.  
-**💻 Technologies**:  
-`CSS`, `HTML`, `JavaScript`
-
----
-
-## **6. Text Editor**  
-🔗 [Text_Editor](https://github.com/AngelosFikias0/Text_Editor)  
-**📜 Description**:  
-A lightweight **Python**-based text editor with features like file saving and font customization, built using **Tkinter**.  
-**💡 Key Highlights**:  
-- Showcased Python's **GUI capabilities** with Tkinter.  
-- Developed reusable code for scalable GUI applications.  
+- Developed a functional **text editor** showcasing Python’s GUI capabilities.  
+- Emphasized modular, reusable code for future desktop applications.  
 **💻 Technologies**:  
 `Python`, `Tkinter`
 
 ---
 
-## **7. Data Structures and Algorithms**  
-🔗 [Data_Structures_and_Algorithms](https://github.com/AngelosFikias0/Data_Structures_and_Algorithms)  
+## **4. Weather App**  
+🔗 [Weather_App](https://github.com/AngelosFikias0/Weather_App)  
 **📜 Description**:  
-A comprehensive library of **data structures** and **algorithms** implemented in **Java** to demonstrate mastery of key computational concepts.  
+A responsive and dynamic weather application fetching real-time updates from the **OpenWeatherMap REST API**. The project highlights integration with third-party APIs and UI/UX-focused web design.  
 **💡 Key Highlights**:  
-- Implemented algorithms like **sorting**, **searching**, and **dynamic programming**.  
-- Focused on **code efficiency** and clarity for educational purposes.  
-**💻 Technologies**:  
-`Java`
-
----
-
-## **8. Safe Car Insurance System**  
-🔗 [Safe_car_insurance_System](https://github.com/AngelosFikias0/Safe_car_insurance_System)  
-**📜 Description**:  
-A simulation for managing car insurance policies and claims, showcasing the ability to handle complex data structures.  
-**💡 Key Highlights**:  
-- Designed logical frameworks for **policy management**.  
-- Employed Java’s **object-oriented programming principles**.  
-**💻 Technologies**:  
-`Java`
-
----
-
-## **9. Calculator App**  
-🔗 [Calculator_App](https://github.com/AngelosFikias0/Calculator_App)  
-**📜 Description**:  
-A visually appealing **web-based calculator** that supports basic mathematical operations.  
-**💡 Key Highlights**:  
-- Demonstrated foundational **web development skills**.  
-- Delivered a clean and interactive user interface.  
+- Integrated **third-party APIs** for dynamic and real-time data updates.  
+- Designed a **responsive and mobile-friendly interface** for accessibility.  
 **💻 Technologies**:  
 `CSS`, `HTML`, `JavaScript`
 
 ---
 
-## **10. Task Manager**  
-🔗 [Task_Manager](https://github.com/AngelosFikias0/Task_Manager)  
+## **5. Student Records Web Portal**  
+🔗 [Student_Records_Web_Portal](https://github.com/AngelosFikias0/Student_Records_Web_Portal)  
 **📜 Description**:  
-A personal **task management tool** to help users organize their daily responsibilities.  
+A database-driven **CRUD application** for managing student records, featuring seamless **frontend-backend integration**. Built to emphasize database interaction efficiency and user-friendly design.  
 **💡 Key Highlights**:  
-- Developed a fully functional **task management interface**.  
-- Focused on providing a **user-friendly experience**.  
+- Optimized **database operations** for speed and reliability.  
+- Developed a robust integration of PHP backend with MySQL.  
+- Designed for scalability to incorporate future analytical features.  
+**💻 Technologies**:  
+`PHP`, `MySQL`, `JavaScript`, `HTML`, `CSS`, `Apache Server`
+
+---
+
+## **6. Java Data Structures and Algorithms Library**  
+🔗 [Data_Structures_and_Algorithms](https://github.com/AngelosFikias0/Data_Structures_and_Algorithms)  
+**📜 Description**:  
+A comprehensive library of **data structures** and **algorithms** implemented in **Java** to solve complex computational problems efficiently. Focused on clarity and educational value.  
+**💡 Key Highlights**:  
+- Implemented fundamental algorithms such as **QuickSort**, **DFS**, and **dynamic programming**.  
+- Focused on **code efficiency** and scalability for real-world applications.  
+**💻 Technologies**:  
+`Java`
+
+---
+
+## **7. Student Management System (Desktop)**  
+🔗 [Student_Management_System](https://github.com/AngelosFikias0/Student_Management_System)  
+**📜 Description**:  
+A comprehensive desktop application for managing student and course data using **Java Serialization** for persistent storage and an intuitive **Swing-based GUI**.  
+**💡 Key Highlights**:  
+- Utilized **Java File Handling** for reliable data persistence.  
+- Designed a user-friendly GUI with **Java Swing**.  
+**💻 Technologies**:  
+`Java`, `Swing`, `File Handling`
+
+---
+
+## **8. Safe Car Insurance System**  
+🔗 [Safe_Car_Insurance_System](https://github.com/AngelosFikias0/Safe_Car_Insurance_System)  
+**📜 Description**:  
+A simulation system for managing car insurance policies and claims, demonstrating proficiency in handling complex data structures and logical design.  
+**💡 Key Highlights**:  
+- Implemented **policy and claim management** using object-oriented principles.  
+- Designed logical frameworks for **scalable data management**.  
+**💻 Technologies**:  
+`Java`
+
+---
+
+## **9. Task Manager Application**  
+🔗 [Task_Manager_App](https://github.com/AngelosFikias0/Task_Manager_App)  
+**📜 Description**:  
+A user-friendly task management tool to help users organize daily responsibilities. Emphasizes front-end development and interactive design principles.  
+**💡 Key Highlights**:  
+- Created a visually appealing **task management interface**.  
+- Focused on a smooth and intuitive user experience.  
+**💻 Technologies**:  
+`CSS`, `HTML`, `JavaScript`
+
+---
+
+## **10. Interactive Web Calculator**  
+🔗 [Interactive_Web_Calculator](https://github.com/AngelosFikias0/Interactive_Web_Calculator)  
+**📜 Description**:  
+A clean and responsive **web-based calculator** supporting essential mathematical operations. Showcases foundational web development and UI skills.  
+**💡 Key Highlights**:  
+- Designed a **responsive, interactive calculator UI**.  
+- Demonstrated proficiency in **JavaScript** for interactive web functionality.  
 **💻 Technologies**:  
 `CSS`, `HTML`, `JavaScript`
 
 ---
 
 ## **11. Hangman Game**  
-🔗 [Hangman_game](https://github.com/AngelosFikias0/Hangman_game)  
+🔗 [Hangman_Game](https://github.com/AngelosFikias0/Hangman_Game)  
 **📜 Description**:  
-A fun and engaging **Hangman game** to practice Java fundamentals.  
+A fun and interactive **Hangman game** implemented in Java, designed to practice problem-solving and algorithmic logic.  
 **💡 Key Highlights**:  
-- Developed robust logic for **user interaction** and gameplay mechanics.  
-- Focused on **code clarity** and maintainability.  
+- Built engaging gameplay mechanics with a focus on interactivity.  
+- Prioritized **clean, maintainable code**.  
 **💻 Technologies**:  
 `Java`
 
 ---
 
-## **12. Quiz Game**  
-🔗 [Quiz_game](https://github.com/AngelosFikias0/Quiz_game)  
+## **12. Quiz Game in C**  
+🔗 [Quiz_Game](https://github.com/AngelosFikias0/Quiz_Game)  
 **📜 Description**:  
-A **C-based quiz game** designed to test user knowledge with multiple-choice questions.  
+An engaging **C-based quiz game** designed to challenge user knowledge with multiple-choice questions while showcasing structured programming concepts.  
 **💡 Key Highlights**:  
-- Designed an engaging and interactive game flow.  
-- Leveraged **C programming concepts** like control structures.  
+- Designed an intuitive and engaging game flow.  
+- Leveraged **C programming fundamentals** for logic and interactivity.  
 **💻 Technologies**:  
-`C`
+`C`  
 
 ## Let's Connect and Collaborate! 🤝
 
