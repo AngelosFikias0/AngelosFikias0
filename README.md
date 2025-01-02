@@ -82,7 +82,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **Degree**: Bachelor of Science in Applied Computer Science
 - **University**: University of Macedonia
 - **Expected Graduation**: 2026
-- **Relevant Coursework**: Data Structures, Algorithms, Database Systems, Software Engineering, Networks, OS and Architecture, Marketing, System design and implementation, System security, HCI basics
+- **Certifications**: HubSpot Sales Software - Customer Relationship Management (CRM)
 
 ---
 # **Projects Portfolio: 🛠️**
