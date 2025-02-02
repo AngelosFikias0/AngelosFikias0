@@ -109,7 +109,7 @@ An advanced **Java-based Crime Management System** simulating an investigative p
 - **Triangular closure analysis** to suggest potential suspect connections.  
 - Interactive **data visualization** and robust **file handling** for persistent data storage.  
 **💻 Technologies**:  
-`Java`, `Java Swing`, `JUNG`, **Graph Theory**, **Data Structures**
+`Java`, `Java Swing`, `JUNG`, `Graph Theory`, `Data Structures & Algorithms`
 
 ---
 
