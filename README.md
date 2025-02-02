@@ -66,6 +66,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 
 ### **BPM & Workflow Automation**
 - **Camunda**
+
 ---
 
 ## Soft Skills 💡
@@ -80,11 +81,11 @@ I'm a computer science student passionate about exploring the endless possibilit
 ## Education 🎓
 
 - **Degree**: Bachelor of Science in Applied Computer Science - University of Macedonia
-- **Certifications**: 1) HubSpot Sales Software - Customer Relationship Management (CRM)
+- **Certifications**: HubSpot Sales Software - Customer Relationship Management (CRM)
 
 ---
 
-# **Projects Portfolio: 🛠️**
+# **Projects Portfolio 🛠️**
 
 ## **1. Runners App**  
 🔗 [Runners_App](https://github.com/AngelosFikias0/Runners_App)  
@@ -251,3 +252,6 @@ A **C-based quiz game** that tests user knowledge with multiple-choice questions
 I'm passionate about technology and always open to new opportunities and collaborations. Feel free to reach out if you want to discuss project ideas, tech trends, or simply chat about coding.
 
 My repositories reflect my journey as a developer, and I'm eager to learn from and contribute to the community. Let’s build something amazing together!
+
+📧 Email: [angelosfikias@gmail.com](mailto:angelosfikias@gmail.com)  
+🔗 LinkedIn: [Angelos Fikias](https://www.linkedin.com/in/angelos-fikias/)  
