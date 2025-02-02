@@ -82,6 +82,8 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **Degree**: Bachelor of Science in Applied Computer Science - University of Macedonia
 - **Certifications**: 1) HubSpot Sales Software - Customer Relationship Management (CRM)
 
+---
+
 # **Projects Portfolio: 🛠️**
 
 ## **1. Runners App**  
@@ -241,6 +243,8 @@ A **C-based quiz game** that tests user knowledge with multiple-choice questions
 - Focused on **algorithmic efficiency** and user interaction.  
 **💻 Technologies**:  
 `C`
+
+---
 
 ## Let's Connect and Collaborate! 🤝
 
