@@ -183,7 +183,7 @@ A **desktop application** built in **Java** to manage student and course data us
 - Utilized **Java Serialization** for reliable data storage.  
 - Designed a user-friendly interface using **Java Swing**.  
 **💻 Technologies**:  
-`Java`, `Swing`, `Java File Handling`
+`Java`, `Swing`, `Java File Handling`, `Java Serialization`, `Java Generics`
 
 ---
 
