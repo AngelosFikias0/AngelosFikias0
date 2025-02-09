@@ -59,7 +59,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **Virtualization**: VirtualBox
 
 ### **Database Management**
-- **MySQL**, **MariaDB**, **H2**, **PostgreSQL**, **SqlLite**
+- **MySQL**, **MariaDB**, **H2**, **PostgreSQL**, **SQLite**
 
 ### **DevOps & Containerization**
 - **Docker**, **Kubernetes**
