@@ -100,7 +100,22 @@ A high-performance **RESTful API** developed using **Spring Boot**, tailored for
 
 ---
 
-## **2. Crime Management System**  
+## **2. Java Network Services Hub**  
+🔗 [Java_Network_Services_Hub](https://github.com/AngelosFikias0/Java_Network_Services_Hub)  
+**📜 Description**:  
+A **powerful modular networking suite** designed for seamless management of **multi-protocol network services**. Features a **graphical service launcher**, real-time logging, and advanced **multi-threading** for high-performance execution. Integrates **JDBC with PostgreSQL** for structured data storage and analytics.  
+**💡 Key Highlights**:  
+- **Multi-threaded network services**: Supports **HTTP, TCP, UDP, and RMI**.  
+- **Graphical Service Manager**: Intuitive UI with real-time service monitoring.  
+- **JDBC-powered PostgreSQL integration**: Logs and analyzes network activity.  
+- **Distributed Computing Capabilities**: **RMI implementation** for remote execution.  
+- **Highly scalable architecture** with efficient resource management.  
+**💻 Technologies**:  
+`Java`, `Sockets`, `RMI`, `Swing`, `JDBC`, `PostgreSQL`, `Multi-threading`, `Concurrency`, `Distributed Computing`
+
+---
+
+## **3. Crime Management System**  
 🔗 [Crime_Management_System](https://github.com/AngelosFikias0/Crime_Management_System)  
 **📜 Description**:  
 An advanced **Java-based Crime Management System** simulating an investigative platform for tracking and analyzing suspect data. Incorporates **graph analysis** with **JUNG** for network visualization and insights into suspect relationships.  
@@ -113,7 +128,7 @@ An advanced **Java-based Crime Management System** simulating an investigative p
 
 ---
 
-## **3. Interactive Role-Based Web App**  
+## **4. Interactive Role-Based Web App**  
 🔗 [Interactive_Role_Based_Web_App](https://github.com/AngelosFikias0/Interactive_Role_Based_Web_App)  
 **📜 Description**:  
 A secure and scalable web application featuring **role-based access control** and **CRUD functionalities** for managing users and posts. Emphasizes security and modern web development practices.  
@@ -126,7 +141,7 @@ A secure and scalable web application featuring **role-based access control** an
 
 ---
 
-## **4. Student Records Web Portal**  
+## **5. Student Records Web Portal**  
 🔗 [Student_Records_Web_Portal](https://github.com/AngelosFikias0/Student_Records_Web_Portal)  
 **📜 Description**:  
 A **database-driven CRUD application** for managing student records, featuring seamless **frontend-backend integration**. Optimized for **reliable database interactions** and future scalability.  
@@ -139,7 +154,7 @@ A **database-driven CRUD application** for managing student records, featuring s
 
 ---
 
-## **5. Python Text Editor**  
+## **6. Python Text Editor**  
 🔗 [Python_Text_Editor](https://github.com/AngelosFikias0/Python_Text_Editor)  
 **📜 Description**:  
 A lightweight **desktop text editor** built with **Python Tkinter**, supporting features like file saving, font customization, and an intuitive interface. Highlights Python’s GUI development capabilities.  
@@ -151,7 +166,7 @@ A lightweight **desktop text editor** built with **Python Tkinter**, supporting 
 
 ---
 
-## **6. Weather App**  
+## **7. Weather App**  
 🔗 [Weather_App](https://github.com/AngelosFikias0/Weather_App)  
 **📜 Description**:  
 A dynamic weather application utilizing the **OpenWeatherMap API** to fetch real-time data. Focuses on **responsive design** and **UI/UX** for mobile-friendly accessibility.  
@@ -163,7 +178,7 @@ A dynamic weather application utilizing the **OpenWeatherMap API** to fetch real
 
 ---
 
-## **7. Java Data Structures and Algorithms Library**  
+## **8. Java Data Structures and Algorithms Library**  
 🔗 [Data_Structures_and_Algorithms](https://github.com/AngelosFikias0/Data_Structures_and_Algorithms)  
 **📜 Description**:  
 A comprehensive library of **data structures** and **algorithms** in **Java** designed to solve computational problems efficiently. Focused on clarity and educational value.  
@@ -175,7 +190,7 @@ A comprehensive library of **data structures** and **algorithms** in **Java** de
 
 ---
 
-## **8. Student Management System (Desktop)**  
+## **9. Student Management System (Desktop)**  
 🔗 [Student_Management_System](https://github.com/AngelosFikias0/Student_Management_System)  
 **📜 Description**:  
 A **desktop application** built in **Java** to manage student and course data using **Java Serialization** for persistent storage. Provides an intuitive **Swing-based GUI** for seamless user experience.  
@@ -187,7 +202,7 @@ A **desktop application** built in **Java** to manage student and course data us
 
 ---
 
-## **9. Safe Car Insurance System**  
+## **10. Safe Car Insurance System**  
 🔗 [Safe_Car_Insurance_System](https://github.com/AngelosFikias0/Safe_Car_Insurance_System)  
 **📜 Description**:  
 A **simulation system** for managing car insurance policies and claims, demonstrating proficiency in complex data structures and logical frameworks for scalable data management.  
@@ -199,7 +214,7 @@ A **simulation system** for managing car insurance policies and claims, demonstr
 
 ---
 
-## **10. Task Manager Application**  
+## **11. Task Manager Application**  
 🔗 [Task_Manager_App](https://github.com/AngelosFikias0/Task_Manager_App)  
 **📜 Description**:  
 A **task management tool** to help users organize their responsibilities with a **clean UI** and **interactive design principles**.  
@@ -211,7 +226,7 @@ A **task management tool** to help users organize their responsibilities with a 
 
 ---
 
-## **11. Interactive Web Calculator**  
+## **12. Interactive Web Calculator**  
 🔗 [Interactive_Web_Calculator](https://github.com/AngelosFikias0/Interactive_Web_Calculator)  
 **📜 Description**:  
 A **web-based calculator** with essential mathematical operations, emphasizing clean design and JavaScript-based interactivity.  
@@ -223,7 +238,7 @@ A **web-based calculator** with essential mathematical operations, emphasizing c
 
 ---
 
-## **12. Hangman Game**  
+## **13. Hangman Game**  
 🔗 [Hangman_Game](https://github.com/AngelosFikias0/Hangman_Game)  
 **📜 Description**:  
 An interactive **Hangman game** implemented in **Java**, designed to practice problem-solving and algorithmic logic while engaging users with intuitive gameplay mechanics.  
@@ -235,7 +250,7 @@ An interactive **Hangman game** implemented in **Java**, designed to practice pr
 
 ---
 
-## **13. Quiz Game in C**  
+## **14. Quiz Game in C**  
 🔗 [Quiz_Game](https://github.com/AngelosFikias0/Quiz_Game)  
 **📜 Description**:  
 A **C-based quiz game** that tests user knowledge with multiple-choice questions, designed to showcase structured programming concepts in C.  
