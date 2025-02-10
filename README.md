@@ -1,8 +1,8 @@
 # Angelos Fikias - Computer Science Student
 
-### Hi there! 👋 I'm Angelos Fikias
+### **Hi there! 👋 I'm Angelos Fikias**  
 
-I'm a passionate computer science student at the University of Macedonia, specializing in software development, data science, and innovative problem-solving. My mission is to leverage technology to create impactful solutions and contribute to the ever-evolving tech industry. I thrive on challenges, enjoy collaborating with others, and am always eager to learn and grow.
+I'm a passionate **Computer Science student** at the **University of Macedonia**, specializing in **software development, system architecture, and data-driven solutions**. My mission is to **leverage technology to build impactful systems** and contribute to the ever-evolving tech industry. I thrive on **solving complex problems, optimizing systems, and driving innovation**. Always eager to learn and grow, I enjoy collaborating with like-minded individuals to create scalable and efficient solutions. 🚀  
 
 - 🌱 **Currently**: Working on exciting projects and expanding my skill set.
 - 🔭 **Interests**: Software development, data science, machine learning, and open-source contributions.
@@ -33,6 +33,13 @@ I'm a passionate computer science student at the University of Macedonia, specia
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelosFikias0&layout=compact&theme=cobalt" style="width: 40%;">
     <img src="https://github-readme-stats.vercel.app/api?username=AngelosFikias0&theme=transparent" style="width: 51%;">
 </div>
+---
+
+### **Tech Stacks I Work With**
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Java, Spring Boot, PHP, Python, C#, ASP.NET
+- **Databases**: MySQL, PostgreSQL, H2, SQLite
+- **DevOps**: Docker, Kubernetes, GitHub Actions
 
 ---
 
@@ -92,7 +99,8 @@ I'm a passionate computer science student at the University of Macedonia, specia
 
 ## Open Source Contributions 🌟
 
--
+I am currently exploring and preparing to contribute to open-source projects, focusing on areas like system architecture, backend development, and DevOps. My goal is to collaborate with the community, improve existing projects, and gain hands-on experience with real-world software. I plan to contribute to projects related to Spring Boot, Flask, Kubernetes, and cloud infrastructure, as well as actively participate in my university's open-source team.
+Stay tuned for my upcoming contributions! 🚀
 
 ---
 
@@ -283,14 +291,6 @@ My repositories reflect my journey as a developer, and I'm eager to learn from a
 🔗 LinkedIn: [Angelos Fikias](https://www.linkedin.com/in/angelos-fikias/)  
 🔗 GitHub: [AngelosFikias0](https://github.com/AngelosFikias0)  
 🔗 LeetCode: [angelosfikias](https://leetcode.com/u/angelosfikias/)  
-
----
-
-### **Tech Stacks I Work With**
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Java, Spring Boot, PHP, Python
-- **Databases**: MySQL, PostgreSQL, H2, SQLite
-- **DevOps**: Docker, Kubernetes, GitHub Actions
 
 ---
 
