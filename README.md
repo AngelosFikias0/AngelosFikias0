@@ -2,12 +2,12 @@
 
 ### Hi there! 👋 I'm Angelos Fikias
 
-I'm a computer science student passionate about exploring the endless possibilities of technology. Currently, I'm studying at the University of Macedonia, focusing on software development and data science. My goal is to leverage technology to solve real-world problems and innovate in the tech industry.
+I'm a passionate computer science student at the University of Macedonia, specializing in software development, data science, and innovative problem-solving. My mission is to leverage technology to create impactful solutions and contribute to the ever-evolving tech industry. I thrive on challenges, enjoy collaborating with others, and am always eager to learn and grow.
 
-- 🌱 I’m currently working on various exciting projects.
-- 🔭 I’m eager to share my work with the community and collaborate with others.
-- 💬 Ask me anything – I'm always open to discussions.
-- 📫 Reach me: [angelosfikias@gmail.com](mailto:angelosfikias@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/angelos-fikias/) or [LeetCode](https://leetcode.com/u/angelosfikias/).
+- 🌱 **Currently**: Working on exciting projects and expanding my skill set.
+- 🔭 **Interests**: Software development, data science, machine learning, and open-source contributions.
+- 💬 **Ask me about**: Programming, tech trends, or anything else – I love engaging in meaningful discussions!
+- 📫 **Reach me**: [angelosfikias@gmail.com](mailto:angelosfikias@gmail.com) | [LinkedIn](https://www.linkedin.com/in/angelos-fikias/) | [LeetCode](https://leetcode.com/u/angelosfikias/)
 
 ---
 
@@ -38,7 +38,8 @@ I'm a computer science student passionate about exploring the endless possibilit
 
 ### **Development Tools**
 - **IDEs**: PyCharm, IntelliJ, VS Code, Visual Studio, Eclipse, CodeBlocks
-- **Version Control**: Git
+- **Version Control**: Git, GitHub, GitLab
+- **CI/CD**: GitHub Actions
 
 ### **Data & Analytics**
 - **Data Visualization & BI**: Tableau, PowerBI
@@ -56,7 +57,7 @@ I'm a computer science student passionate about exploring the endless possibilit
 ### **Utilities**
 - **Networking & Security**: PuTTY, Wireshark
 - **Local Web Development**: Xampp
-- **Virtualization**: VirtualBox
+- **Virtualization**: VirtualBox, Docker
 
 ### **Database Management**
 - **MySQL**, **MariaDB**, **H2**, **PostgreSQL**, **SQLite**
@@ -75,13 +76,23 @@ I'm a computer science student passionate about exploring the endless possibilit
 - **Communication**: Presented project findings and technical concepts clearly to both technical and non-technical audiences.
 - **Problem-Solving**: Demonstrated ability to troubleshoot and resolve complex technical issues.
 - **Time Management**: Successfully balanced academic workload with project deadlines, maintaining high performance in both areas.
+- **Adaptability**: Quickly learned and applied new technologies and frameworks as needed.
+- **Leadership**: Led team projects, ensuring timely delivery and high-quality outcomes.
 
 ---
 
 ## Education 🎓
 
 - **Degree**: Bachelor of Science in Applied Computer Science - University of Macedonia
-- **Certifications**: HubSpot Sales Software - Customer Relationship Management (CRM)
+- **Certifications**: 
+  - HubSpot Sales Software - Customer Relationship Management (CRM)
+  - 
+
+---
+
+## Open Source Contributions 🌟
+
+-
 
 ---
 
@@ -270,3 +281,17 @@ My repositories reflect my journey as a developer, and I'm eager to learn from a
 
 📧 Email: [angelosfikias@gmail.com](mailto:angelosfikias@gmail.com)  
 🔗 LinkedIn: [Angelos Fikias](https://www.linkedin.com/in/angelos-fikias/)  
+🔗 GitHub: [AngelosFikias0](https://github.com/AngelosFikias0)  
+🔗 LeetCode: [angelosfikias](https://leetcode.com/u/angelosfikias/)  
+
+---
+
+### **Tech Stacks I Work With**
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Java, Spring Boot, PHP, Python
+- **Databases**: MySQL, PostgreSQL, H2, SQLite
+- **DevOps**: Docker, Kubernetes, GitHub Actions
+
+---
+
+Let’s connect and create something extraordinary! 🚀
