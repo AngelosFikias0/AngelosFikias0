@@ -99,9 +99,7 @@ I'm a passionate **Computer Science student** at the **University of Macedonia**
 ---
 
 ## Open Source Contributions 🌟
-
-I am currently exploring and preparing to contribute to open-source projects, focusing on areas like system architecture, backend development, and DevOps. My goal is to collaborate with the community, improve existing projects, and gain hands-on experience with real-world software. I plan to contribute to projects related to Spring Boot, Flask, Kubernetes, and cloud infrastructure, as well as actively participate in my university's open-source team.
-Stay tuned for my upcoming contributions! 🚀
+-
 
 ---
 
