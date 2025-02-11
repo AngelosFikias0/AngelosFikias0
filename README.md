@@ -206,7 +206,7 @@ A comprehensive library of **data structures** and **algorithms** in **Java** de
 - Implemented algorithms like **QuickSort**, **DFS**, and **dynamic programming**.  
 - Focused on **code efficiency** and scalability for real-world applications.  
 **💻 Technologies**:  
-`Java`
+`Java`, `OOP`, `Algortihms and data structures`
 
 ---
 
@@ -230,7 +230,7 @@ A **simulation system** for managing car insurance policies and claims, demonstr
 - Designed frameworks for **policy and claim management** using object-oriented principles.  
 - Focused on **scalable data structures** for long-term growth.  
 **💻 Technologies**:  
-`Java`
+`Java`, `UML`, `BPMN`
 
 ---
 
@@ -266,7 +266,7 @@ An interactive **Hangman game** implemented in **Java**, designed to practice pr
 - Developed engaging **game mechanics** with Java.  
 - Emphasized **clean, maintainable code** for future improvements.  
 **💻 Technologies**:  
-`Java`
+`Java`, `OOP`
 
 ---
 
@@ -278,7 +278,7 @@ A **C-based quiz game** that tests user knowledge with multiple-choice questions
 - Designed an engaging **game flow** with C programming.  
 - Focused on **algorithmic efficiency** and user interaction.  
 **💻 Technologies**:  
-`C`
+`C`, `Structs & Pointers`
 
 ---
 
