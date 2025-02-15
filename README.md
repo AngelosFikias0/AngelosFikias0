@@ -94,12 +94,10 @@ I'm a passionate **Computer Science student** at the **University of Macedonia**
 - **Degree**: Bachelor of Science in Applied Computer Science - University of Macedonia
 - **Certifications**: 
   - HubSpot Sales Software - Customer Relationship Management (CRM)
-  - 
 
 ---
 
 ## Open Source Contributions 🌟
--
 
 ---
 
