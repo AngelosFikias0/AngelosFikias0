@@ -94,6 +94,7 @@ I'm a passionate **Computer Science student** at the **University of Macedonia**
 - **Degree**: Bachelor of Science in Applied Computer Science - University of Macedonia
 - **Certifications**: 
   - HubSpot Sales Software - Customer Relationship Management (CRM)
+  - ASP.NET Core 3.1 – Comprehensive Training Completed
 
 ---
 
@@ -103,7 +104,7 @@ I'm a passionate **Computer Science student** at the **University of Macedonia**
 
 # **Projects Portfolio 🛠️**
 
-## **1. Runners App**  
+## **1. Runners App: Scalable Spring Boot API for Running Analytics**  
 🔗 [Runners_App](https://github.com/AngelosFikias0/Runners_App)  
 **📜 Description**:  
 A high-performance **RESTful API** developed using **Spring Boot**, tailored for logging, tracking, and analyzing running statistics. Optimized for scalability, with modular architecture and seamless integration with an **H2 in-memory database**.  
@@ -116,7 +117,7 @@ A high-performance **RESTful API** developed using **Spring Boot**, tailored for
 
 ---
 
-## **2. Java Network Services Hub**  
+## **2. Java Network Services Hub: Multi-Protocol Networking with Secure Logging**  
 🔗 [Java_Network_Services_Hub](https://github.com/AngelosFikias0/Java_Network_Services_Hub)  
 **📜 Description**:  
 A **powerful modular networking suite** designed for seamless management of **multi-protocol network services**. Features a **graphical service launcher**, real-time logging, and advanced **multi-threading** for high-performance execution. Integrates **JDBC with PostgreSQL** for structured data storage and analytics.  
@@ -131,7 +132,7 @@ A **powerful modular networking suite** designed for seamless management of **mu
 
 ---
 
-## **3. Crime Management System**  
+## **3. Crime Management System: Graph-Based Suspect Analysis in Java**  
 🔗 [Crime_Management_System](https://github.com/AngelosFikias0/Crime_Management_System)  
 **📜 Description**:  
 An advanced **Java-based Crime Management System** simulating an investigative platform for tracking and analyzing suspect data. Incorporates **graph analysis** with **JUNG** for network visualization and insights into suspect relationships.  
@@ -144,7 +145,7 @@ An advanced **Java-based Crime Management System** simulating an investigative p
 
 ---
 
-## **4. Interactive Role-Based Web App**  
+## **4. Interactive Role-Based Web App: Secure Authentication & User Management**  
 🔗 [Interactive_Role_Based_Web_App](https://github.com/AngelosFikias0/Interactive_Role_Based_Web_App)  
 **📜 Description**:  
 A secure and scalable web application featuring **role-based access control** and **CRUD functionalities** for managing users and posts. Emphasizes security and modern web development practices.  
@@ -157,7 +158,7 @@ A secure and scalable web application featuring **role-based access control** an
 
 ---
 
-## **5. Student Records Web Portal**  
+## **5. Student Records Web Portal: Scalable CRUD System with PHP & MySQL**  
 🔗 [Student_Records_Web_Portal](https://github.com/AngelosFikias0/Student_Records_Web_Portal)  
 **📜 Description**:  
 A **database-driven CRUD application** for managing student records, featuring seamless **frontend-backend integration**. Optimized for **reliable database interactions** and future scalability.  
@@ -170,7 +171,7 @@ A **database-driven CRUD application** for managing student records, featuring s
 
 ---
 
-## **6. Python Text Editor**  
+## **6. Python Text Editor: Lightweight Tkinter-Based Desktop Application**  
 🔗 [Python_Text_Editor](https://github.com/AngelosFikias0/Python_Text_Editor)  
 **📜 Description**:  
 A lightweight **desktop text editor** built with **Python Tkinter**, supporting features like file saving, font customization, and an intuitive interface. Highlights Python’s GUI development capabilities.  
@@ -182,7 +183,7 @@ A lightweight **desktop text editor** built with **Python Tkinter**, supporting 
 
 ---
 
-## **7. Weather App**  
+## **7. Weather App: Real-Time Forecast with OpenWeatherMap API**  
 🔗 [Weather_App](https://github.com/AngelosFikias0/Weather_App)  
 **📜 Description**:  
 A dynamic weather application utilizing the **OpenWeatherMap API** to fetch real-time data. Focuses on **responsive design** and **UI/UX** for mobile-friendly accessibility.  
@@ -194,7 +195,7 @@ A dynamic weather application utilizing the **OpenWeatherMap API** to fetch real
 
 ---
 
-## **8. Java Data Structures and Algorithms Library**  
+## **8. Java Data Structures & Algorithms Library: Optimized Computational Solutions**  
 🔗 [Data_Structures_and_Algorithms](https://github.com/AngelosFikias0/Data_Structures_and_Algorithms)  
 **📜 Description**:  
 A comprehensive library of **data structures** and **algorithms** in **Java** designed to solve computational problems efficiently. Focused on clarity and educational value.  
@@ -206,7 +207,7 @@ A comprehensive library of **data structures** and **algorithms** in **Java** de
 
 ---
 
-## **9. Student Management System (Desktop)**  
+## **9. Student Management System: Java Desktop App with Persistent Storage**  
 🔗 [Student_Management_System](https://github.com/AngelosFikias0/Student_Management_System)  
 **📜 Description**:  
 A **desktop application** built in **Java** to manage student and course data using **Java Serialization** for persistent storage. Provides an intuitive **Swing-based GUI** for seamless user experience.  
@@ -218,7 +219,7 @@ A **desktop application** built in **Java** to manage student and course data us
 
 ---
 
-## **10. Safe Car Insurance System**  
+## **10. Safe Car Insurance System: Policy & Claim Management with OOP**  
 🔗 [Safe_Car_Insurance_System](https://github.com/AngelosFikias0/Safe_Car_Insurance_System)  
 **📜 Description**:  
 A **simulation system** for managing car insurance policies and claims, demonstrating proficiency in complex data structures and logical frameworks for scalable data management.  
