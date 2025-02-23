@@ -98,10 +98,6 @@ I'm a passionate **Computer Science student** at the **University of Macedonia**
 
 ---
 
-## Open Source Contributions 🌟
-
----
-
 # **Projects Portfolio 🛠️**
 
 ## **1. Runners App: Scalable Spring Boot API for Running Analytics**  
