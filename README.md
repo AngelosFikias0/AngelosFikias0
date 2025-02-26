@@ -8,18 +8,18 @@
 
 ## **👋 Hey there! I'm Angelos Fikias**  
 
-🚀 Passionate about **software engineering, system architecture, and data-driven solutions**, I thrive on solving complex problems and building scalable, high-performance applications. Currently, I'm deep-diving into **Spring Boot, cloud computing, and system design** to refine my expertise.  
+🚀 Passionate about **software engineering, system architecture, and data-driven solutions**, I thrive on solving complex problems and building scalable, high-performance applications. Currently, I'm deep-diving into **Spring Boot, cloud computing, and system design** to refine my expertise.
 
-### **💡 A bit about me:**  
-- 🌱 **Currently Learning**: Spring Boot, AWS, and advanced system design.  
-- 🔭 **Interests**: Software architecture, backend engineering, and open-source contributions.  
-- 💬 **Ask me about**: Programming, tech trends, or any challenges you're facing!  
-- 📫 **Connect with me**:  
+### **💡 About Me**  
+- 🌱 **Currently Learning**: Spring Boot, AWS, Advanced System Design  
+- 🔭 **Interests**: Software Architecture, Backend Engineering, Cloud Computing
+- 💬 **Ask Me About**: Programming, Tech Trends, System Design Challenges  
+- 📫 **Connect With Me**:  
   - ✉️ [Email](mailto:angelosfikias@gmail.com)  
   - 💼 [LinkedIn](https://www.linkedin.com/in/angelos-fikias/)  
   - 🏆 [LeetCode](https://leetcode.com/u/angelosfikias/)  
 
-### **Programming Languages, Libraries & Frameworks 🖥️**
+---
 
 ## **💻 Tech Stack**
 
@@ -43,7 +43,7 @@
 
 ---
 
-### ☁️ **Cloud & DevOps**
+## ☁️ **Cloud & DevOps**
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -53,16 +53,18 @@
 
 ---
 
-### 🛠 **Tools & IDEs**
+## 🛠 **Tools & IDEs**
 <p align="center">
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
 </p>
 
 ---
 
-### 🖥 **Operating Systems**
+## 🖥 **Operating Systems**
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
@@ -70,153 +72,186 @@
 
 ---
 
-## Soft Skills 💡
+## **💡 Soft Skills**
 
-- **Teamwork**: Collaborated on multiple group projects, ensuring effective communication and division of tasks.  
-- **Communication**: Presented project findings and technical concepts clearly to both technical and non-technical audiences.  
-- **Problem-Solving**: Demonstrated ability to troubleshoot and resolve complex technical issues.  
-- **Time Management**: Successfully balanced academic workload with project deadlines, maintaining high performance in both areas.  
-- **Adaptability**: Quickly learned and applied new technologies and frameworks as needed.  
-- **Leadership**: Led team projects, ensuring timely delivery and high-quality outcomes.  
-
----
-
-## Education 🎓
-
-- **Degree**: Bachelor of Science in Applied Computer Science - University of Macedonia  
-- **Certifications**:
-  - ASP.NET Core 3.1 – Comprehensive Training Completed
-  - HubSpot Sales Software - Customer Relationship Management (CRM)    
+- **Teamwork**: Collaborated on multiple projects, ensuring effective communication and task division.  
+- **Communication**: Presented technical concepts clearly to both technical and non-technical audiences.  
+- **Problem-Solving**: Ability to troubleshoot and resolve complex technical issues efficiently.  
+- **Time Management**: Successfully balanced academics, projects, and deadlines while maintaining high performance.  
+- **Adaptability**: Quickly learns and applies new technologies and frameworks.  
+- **Leadership**: Led team projects, ensuring high-quality outcomes and timely delivery.  
 
 ---
 
-# **Projects Portfolio 🛠️**
+## 🎓 **Education & Certifications**
+
+- **B.Sc. Applied Computer Science - University of Macedonia**  
+- **Certifications**:  
+  - ASP.NET Core 3.1 – Comprehensive Training Completed  
+  - HubSpot Sales Software - Customer Relationship Management (CRM)  
+
+---
+
+🚀 **Always learning, always building. Let's connect and create something amazing!** 
+
+# **Projects Portfolio 🛠️**  
 
 ## **🏃 Runners App: Scalable Spring Boot API for Running Analytics**  
-🔗 [Runners_App](https://github.com/AngelosFikias0/Runners_App)  
+🔗 [GitHub Repository](https://github.com/AngelosFikias0/Runners_App)  
+
 📜 **Description**:  
-A high-performance **RESTful API** developed using **Spring Boot**, tailored for logging, tracking, and analyzing running statistics. Optimized for scalability, with modular architecture and seamless integration with an **H2 in-memory database**.  
-💡 **Key Highlights**:  
+A high-performance **RESTful API** built with **Spring Boot** for logging, tracking, and analyzing running statistics. Designed for **scalability** with a modular architecture and seamless **H2 in-memory database** integration.  
+
+💡 **Key Features**:  
 - **Scalable RESTful API** built with Spring Boot.  
 - Optimized **CRUD operations** for efficient data management.  
 - Modular architecture for easy future feature expansion.  
+
 💻 **Technologies**:  
-`Java`, `Spring Boot`, `Maven`, `H2 Database`
+`Java`, `Spring Boot`, `Maven`, `H2 Database`  
 
 ---
 
 ## **🌐 Java Network Services Hub: Multi-Protocol Networking with Secure Logging**  
-🔗 [Java_Network_Services_Hub](https://github.com/AngelosFikias0/Java_Network_Services_Hub)  
+🔗 [GitHub Repository](https://github.com/AngelosFikias0/Java_Network_Services_Hub)  
+
 📜 **Description**:  
-A **powerful modular networking suite** designed for seamless management of **multi-protocol network services**. Features a **graphical service launcher**, real-time logging, and advanced **multi-threading** for high-performance execution. Integrates **JDBC with PostgreSQL** for structured data storage and analytics.  
-💡 **Key Highlights**:  
-- **Multi-threaded network services**: Supports **HTTP, TCP, UDP, and RMI**.  
-- **Graphical Service Manager**: Intuitive UI with real-time service monitoring.  
-- **JDBC-powered PostgreSQL integration**: Logs and analyzes network activity.  
-- **Distributed Computing Capabilities**: **RMI implementation** for remote execution.  
-- **Highly scalable architecture** with efficient resource management.  
+A **modular networking suite** designed for seamless management of **multi-protocol network services**. Features a **graphical service launcher**, real-time logging, and **multi-threading** for high-performance execution. Integrates **JDBC with PostgreSQL** for structured data storage and analytics.  
+
+💡 **Key Features**:  
+- **Multi-threaded network services** supporting **HTTP, TCP, UDP, and RMI**.  
+- **Graphical Service Manager** with real-time monitoring.  
+- **JDBC-powered PostgreSQL integration** for logging and analysis.  
+- **Distributed computing capabilities** using **RMI**.  
+- Highly scalable architecture with optimized resource management.  
+
 💻 **Technologies**:  
-`Java`, `Sockets`, `RMI`, `Swing`, `JDBC`, `PostgreSQL`, `Multi-threading`, `Concurrency`, `Distributed Computing`
+`Java`, `Sockets`, `RMI`, `Swing`, `JDBC`, `PostgreSQL`, `Multi-threading`, `Concurrency`, `Distributed Computing`  
 
 ---
 
 ## **🕵️ Crime Management System: Graph-Based Suspect Analysis in Java**  
-🔗 [Crime_Management_System](https://github.com/AngelosFikias0/Crime_Management_System)  
+🔗 [GitHub Repository](https://github.com/AngelosFikias0/Crime_Management_System)  
+
 📜 **Description**:  
-An advanced **Java-based Crime Management System** simulating an investigative platform for tracking and analyzing suspect data. Incorporates **graph analysis** with **JUNG** for network visualization and insights into suspect relationships.  
-💡 **Key Highlights**:  
-- Utilized **graph theory** to visualize suspect networks.  
+A **Java-based Crime Management System** simulating an investigative platform for tracking and analyzing suspect data. Utilizes **graph analysis** with **JUNG** for visualizing suspect relationships.  
+
+💡 **Key Features**:  
+- **Graph-based suspect network visualization** using JUNG.  
 - **Triangular closure analysis** to suggest potential suspect connections.  
-- Interactive **data visualization** and robust **file handling** for persistent data storage.  
+- **Interactive data visualization** and robust **file handling** for persistent storage.  
+
 💻 **Technologies**:  
-`Java`, `Java Swing`, `Java File Handling`, `JUNG`, `Graph Theory`, `Data Structures & Algorithms`
+`Java`, `Java Swing`, `Java File Handling`, `JUNG`, `Graph Theory`, `Data Structures & Algorithms`  
 
 ---
 
 ## **🔑 Interactive Role-Based Web App: Secure Authentication & User Management**  
-🔗 [Interactive_Role_Based_Web_App](https://github.com/AngelosFikias0/Interactive_Role_Based_Web_App)  
+🔗 [GitHub Repository](https://github.com/AngelosFikias0/Interactive_Role_Based_Web_App)  
+
 📜 **Description**:  
-A secure and scalable web application featuring **role-based access control** and **CRUD functionalities** for managing users and posts. Emphasizes security and modern web development practices.  
-💡 **Key Highlights**:  
-- Developed **role-based access control** with distinct privileges for users and admins.  
-- **Secure authentication mechanisms** for protecting sensitive data.  
-- Focused on **scalability** and seamless user experience.  
+A secure and scalable web application featuring **role-based access control**, **CRUD functionalities**, and strong authentication mechanisms.  
+
+💡 **Key Features**:  
+- **Role-based access control (RBAC)** with distinct user/admin privileges.  
+- **Secure authentication** to protect sensitive data.  
+- Scalable architecture with a focus on seamless user experience.  
+
 💻 **Technologies**:  
-`PHP`, `MySQL`, `HTML`, `CSS`, `Apache Server`, `Authentication`
+`PHP`, `MySQL`, `HTML`, `CSS`, `Apache Server`, `Authentication`  
 
 ---
 
 ## **📚 Student Records Web Portal: Scalable CRUD System with PHP & MySQL**  
-🔗 [Student_Records_Web_Portal](https://github.com/AngelosFikias0/Student_Records_Web_Portal)  
+🔗 [GitHub Repository](https://github.com/AngelosFikias0/Student_Records_Web_Portal)  
+
 📜 **Description**:  
-A **database-driven CRUD application** for managing student records, featuring seamless **frontend-backend integration**. Optimized for **reliable database interactions** and future scalability.  
-💡 **Key Highlights**:  
+A **database-driven CRUD application** for managing student records, with a focus on **backend efficiency** and **frontend integration**.  
+
+💡 **Key Features**:  
 - Optimized **database operations** for speed and reliability.  
 - **Robust backend integration** using PHP and MySQL.  
-- Designed for easy **scalability** with future analytical features.  
+- Designed for **scalability** with future analytical features in mind.  
+
 💻 **Technologies**:  
-`PHP`, `MySQL`, `JavaScript`, `HTML`, `CSS`, `Apache Server`
+`PHP`, `MySQL`, `JavaScript`, `HTML`, `CSS`, `Apache Server`  
 
 ---
 
 ## **📝 Python Text Editor: Lightweight Tkinter-Based Desktop Application**  
-🔗 [Python_Text_Editor](https://github.com/AngelosFikias0/Python_Text_Editor)  
+🔗 [GitHub Repository](https://github.com/AngelosFikias0/Python_Text_Editor)  
+
 📜 **Description**:  
-A lightweight **desktop text editor** built with **Python Tkinter**, supporting features like file saving, font customization, and an intuitive interface. Highlights Python’s GUI development capabilities.  
-💡 **Key Highlights**:  
-- Designed a functional **text editor** with a focus on GUI development.  
+A lightweight **desktop text editor** built with **Python Tkinter**, featuring file-saving, font customization, and an intuitive interface.  
+
+💡 **Key Features**:  
+- Functional **text editor** with GUI development focus.  
 - **Modular code structure** for reusability in future desktop apps.  
+
 💻 **Technologies**:  
-`Python`, `Tkinter`
+`Python`, `Tkinter`  
 
 ---
 
 ## **🌦️ Weather App: Real-Time Forecast with OpenWeatherMap API**  
-🔗 [Weather_App](https://github.com/AngelosFikias0/Weather_App)  
+🔗 [GitHub Repository](https://github.com/AngelosFikias0/Weather_App)  
+
 📜 **Description**:  
-A dynamic weather application utilizing the **OpenWeatherMap API** to fetch real-time data. Focuses on **responsive design** and **UI/UX** for mobile-friendly accessibility.  
-💡 **Key Highlights**:  
-- **API integration** for dynamic data updates.  
-- Designed for a **responsive interface**, optimized for both desktop and mobile.  
+A dynamic weather application utilizing the **OpenWeatherMap API** to fetch real-time data. Designed with a **responsive UI** for desktop and mobile.  
+
+💡 **Key Features**:  
+- **API integration** for real-time weather updates.  
+- **Responsive design** optimized for various screen sizes.  
+
 💻 **Technologies**:  
-`CSS`, `HTML`, `JavaScript`
+`CSS`, `HTML`, `JavaScript`  
 
 ---
 
 ## **🧩 Java Data Structures & Algorithms Library: Optimized Computational Solutions**  
-🔗 [Data_Structures_and_Algorithms](https://github.com/AngelosFikias0/Data_Structures_and_Algorithms)  
+🔗 [GitHub Repository](https://github.com/AngelosFikias0/Data_Structures_and_Algorithms)  
+
 📜 **Description**:  
-A comprehensive library of **data structures** and **algorithms** in **Java** designed to solve computational problems efficiently. Focused on clarity and educational value.  
-💡 **Key Highlights**:  
-- Implemented algorithms like **QuickSort**, **DFS**, and **dynamic programming**.  
-- Focused on **code efficiency** and scalability for real-world applications.  
+A comprehensive library of **data structures** and **algorithms** in **Java**, designed for solving computational problems efficiently.  
+
+💡 **Key Features**:  
+- Implemented algorithms such as **QuickSort, DFS, and Dynamic Programming**.  
+- Focused on **code efficiency and scalability** for real-world applications.  
+
 💻 **Technologies**:  
-`Java`, `OOP`, `Algorithms and Data Structures`
+`Java`, `OOP`, `Algorithms and Data Structures`  
 
 ---
 
 ## **🎓 Student Management System: Java Desktop App with Persistent Storage**  
-🔗 [Student_Management_System](https://github.com/AngelosFikias0/Student_Management_System)  
+🔗 [GitHub Repository](https://github.com/AngelosFikias0/Student_Management_System)  
+
 📜 **Description**:  
-A **desktop application** built in **Java** to manage student and course data using **Java Serialization** for persistent storage. Provides an intuitive **Swing-based GUI** for seamless user experience.  
-💡 **Key Highlights**:  
-- Utilized **Java Serialization** for reliable data storage.  
-- Designed a user-friendly interface using **Java Swing**.  
+A **desktop application** for managing student and course data, leveraging **Java Serialization** for persistent storage. Features a **Swing-based GUI** for an intuitive user experience.  
+
+💡 **Key Features**:  
+- **Java Serialization** for reliable data storage.  
+- User-friendly **Java Swing interface** for easy interaction.  
+
 💻 **Technologies**:  
-`Java`, `Swing`, `Java File Handling`, `Java Serialization`, `Java Generics`
+`Java`, `Swing`, `Java File Handling`, `Java Serialization`, `Java Generics`  
 
 ---
 
 ## **🚗 Safe Car Insurance System: Policy & Claim Management with OOP**  
-🔗 [Safe_Car_Insurance_System](https://github.com/AngelosFikias0/Safe_Car_Insurance_System)  
+🔗 [GitHub Repository](https://github.com/AngelosFikias0/Safe_Car_Insurance_System)  
+
 📜 **Description**:  
-A **simulation system** for managing car insurance policies and claims, demonstrating proficiency in complex data structures and logical frameworks for scalable data management.  
-💡 **Key Highlights**:  
-- Implemented from previous **system analysis** using **BPMN** and **UML**.  
-- Designed frameworks for **policy and claim management** using object-oriented principles.  
-- Focused on **scalable data structures** for long-term growth.  
+A **car insurance management system** implementing **policy and claim tracking**, demonstrating expertise in **OOP, UML, and BPMN**.  
+
+💡 **Key Features**:  
+- Developed based on **BPMN and UML system analysis**.  
+- **Object-oriented framework** for policy and claim management.  
+- Scalable data structures for long-term maintainability.  
+
 💻 **Technologies**:  
-`Java`, `UML`, `BPMN`
+`Java`, `UML`, `BPMN`  
+
 ---
 
 ## **🤝 Let's Connect & Collaborate!**  
