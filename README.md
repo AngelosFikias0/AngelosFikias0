@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Angelos Fikias | Software Engineer 🚀</h1>
 
-<br> <!-- Adds some space before the typing effect -->
+<br>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=400&color=800080&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Aspiring+Solutions+Architect;Developer+%7C+Problem+Solver;Building+Scalable+%26+Reliable+Systems" alt="Typing SVG">
@@ -319,3 +319,8 @@ I'm passionate about technology and always open to new opportunities, discussion
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 🚀 *Let’s build, innovate, and create something extraordinary together!*  
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="48%">
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="48%">
+</p>
