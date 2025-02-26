@@ -33,7 +33,7 @@ Hi, I'm Angelos Fikias! 🚀 Passionate about software development, system archi
 
 ---
 
-### **📊 GitHub Stats**
+### **GitHub Stats📊**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelosFikias0&layout=compact&theme=cobalt" alt="Top Languages" width="42%">
   <img src="https://github-readme-stats.vercel.app/api?username=AngelosFikias0&theme=transparent" alt="GitHub Stats" width="50%">
