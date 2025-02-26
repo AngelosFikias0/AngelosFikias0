@@ -88,7 +88,7 @@
 ## **📊 GitHub Stats**  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelosFikias0&layout=compact&theme=cobalt" alt="Top Languages" width="37%" style="vertical-align: middle;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelosFikias0&layout=compact&theme=cobalt" alt="Top Languages" width="36%" style="vertical-align: middle;">
   <img src="https://github-readme-stats.vercel.app/api?username=AngelosFikias0&theme=transparent" alt="GitHub Stats" width="45%" style="vertical-align: middle;">
 </p>
 
