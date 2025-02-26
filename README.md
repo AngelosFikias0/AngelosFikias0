@@ -148,14 +148,9 @@
 ✅ **HubSpot Sales Software** – CRM Fundamentals (*HubSpot Academy*)  
 
 </div>
- 
----
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/1a54039f4b20775f07cf6d6eb59e24fb35cd16c4999686d16d6adc12928e11f5/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f32643061663963393064316231313037333133636332306264613031353438612f74756d626c725f6f757477786e616e7070317537396f326c6f315f313238302e67696676" width="600" />
-</p>
 
 ---
+
 # **🚀 Projects Portfolio 🛠️**  
 
 ## **🏃 Runners App: Scalable Spring Boot API for Running Analytics**  
@@ -319,8 +314,7 @@ I'm passionate about technology and always open to new opportunities, discussion
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
-  <span style="display: inline-block; vertical-align: middle; font-size: 18px;">
-    🚀 <i>Let’s build, innovate, and create something extraordinary together!</i>
-  </span>
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="48%" style="display: inline-block; vertical-align: middle;">
+  🚀 <i>Let’s build, innovate, and create something extraordinary together!</i>
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="120">
 </p>
