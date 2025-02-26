@@ -1,5 +1,7 @@
 <h1 align="center">🚀 Angelos Fikias | Software Engineer 🚀</h1>
 
+<br> <!-- Adds some space before the typing effect -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=400&color=800080&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Aspiring+Solutions+Architect;Developer+%7C+Problem+Solver;Building+Scalable+%26+Reliable+Systems" alt="Typing SVG">
 </p>
