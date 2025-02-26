@@ -12,12 +12,13 @@
 
 🚀 Passionate about **software engineering, system architecture, and data-driven solutions**, I thrive on solving complex problems and building scalable, high-performance applications. Currently, I'm deep-diving into **Spring Boot, cloud computing, and system design** to refine my expertise.  
 
-### **💡 A bit about me:**  
-- 🌱 **Currently Learning**: Spring Boot, AWS, and advanced system design.  
-- 🔭 **Interests**: Software architecture, backend engineering, and open-source contributions.
 <p>
   <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="280" align="right">
 </p>
+
+### **💡 A bit about me:**  
+- 🌱 **Currently Learning**: Spring Boot, AWS, and advanced system design.  
+- 🔭 **Interests**: Software architecture, backend engineering, and open-source contributions.
 - 💬 **Ask me about**: Programming, tech trends, or any challenges you're facing!  
 - 📫 **Connect with me**:  
   - ✉️ [Email](mailto:angelosfikias@gmail.com)  
