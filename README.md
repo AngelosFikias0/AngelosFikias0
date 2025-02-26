@@ -132,13 +132,7 @@
 
 ## 📜 Certifications: 
 - ✅ **ASP.NET Core 3.1** – Full Training (*freeCodeCamp*)  
-- ✅ **HubSpot Sales Software** – CRM Fundamentals (*HubSpot Academy*)  
-
----
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/8720e34720788284c87a51e1e438e814c756e197586d03148c53ab821d73994a/68747470733a2f2f632e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966" width="500" />
-</p>
+- ✅ **HubSpot Sales Software** – CRM Fundamentals (*HubSpot Academy*)
 
 ---
 
@@ -290,6 +284,11 @@ A **simulation system** for managing **car insurance policies & claims**, built 
 
 ---
 
+<p align="center">
+  <img src="https://camo.githubusercontent.com/8720e34720788284c87a51e1e438e814c756e197586d03148c53ab821d73994a/68747470733a2f2f632e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966" width="500" />
+</p>
+
+---
 ## **🚀 Let's Connect and Collaborate! 🤝**  
 
 I'm passionate about technology and always open to new opportunities, discussions, and collaborations. Whether it's brainstorming project ideas, diving into the latest tech trends, or just geeking out over code—let’s connect!  
