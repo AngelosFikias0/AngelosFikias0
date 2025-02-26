@@ -64,20 +64,6 @@
   <img src="https://img.shields.io/badge/-BPMN-FFCC00?style=for-the-badge&logo=gnu-bash&logoColor=black" alt="BPMN" />
 </p>
 
-</div>
-
----
-
-## **📊 GitHub Stats**  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelosFikias0&layout=compact&theme=cobalt" alt="Top Languages" width="55%">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngelosFikias0&theme=transparent" alt="GitHub Stats" width="55%">
-</p>
-
----
-<div align="center">
-  
 ### **🚀 DevOps & Cloud**  
 <p>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
@@ -96,6 +82,15 @@
 </p>
 
 </div>
+
+---
+
+## **📊 GitHub Stats**  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelosFikias0&layout=compact&theme=cobalt" alt="Top Languages" width="55%">
+  <img src="https://github-readme-stats.vercel.app/api?username=AngelosFikias0&theme=transparent" alt="GitHub Stats" width="55%">
+</p>
 
 ---
 
