@@ -39,23 +39,6 @@
   <img src="https://img.shields.io/badge/-BPMN-FFCC00?style=flat-square&logo=gnu-bash&logoColor=black" alt="BPMN" />
 </p>
 
-### **DevOps & Cloud**  
-<p align="left">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/-OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white" alt="OpenStack" />
-</p>
-
-### **Development & Tools**  
-<p align="left">
-  <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
-
 ---
 
 ## **📊 GitHub Stats**  
@@ -67,71 +50,43 @@
 
 ---
 
-## **💻 Tech Stack & Tools**  
-
-### **🖥️ Frontend Development**  
-- **Languages & Frameworks**: HTML, CSS, JavaScript, React  
-
-### **⚙️ Backend Development**  
-- **Languages & Frameworks**: Java, Spring Boot, PHP, Python, C#, ASP.NET  
-- **Databases**: MySQL, PostgreSQL, H2, SQLite, NoSQL  
-
 ### **🚀 DevOps & Cloud**  
-- **Containerization & Orchestration**: Docker, Kubernetes  
-- **CI/CD Pipelines**: GitHub Actions  
-- **Cloud & Virtualization**: OpenStack, VirtualBox, Docker  
+<p align="left">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/-OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white" alt="OpenStack" />
+</p>  
 
-### **🛠️ Development Tools**  
-- **IDEs**: PyCharm, IntelliJ, VS Code, Visual Studio, Eclipse, CodeBlocks  
-- **Version Control**: Git, GitHub, GitLab  
-
-### **📊 Data & Analytics**  
-- **Data Visualization & BI**: Tableau, Power BI  
-- **Data Science & Analysis**: RapidMiner, SageMath, Microsoft Excel  
-- **Enterprise Systems**: SAP ERP, Salesforce CRM, HubSpot CRM  
-
-### **🎨 Design & Software Modeling**  
-- **3D Design**: 3ds Max  
-- **Software Design & Modeling**: Visual Paradigm  
-
-### **🌐 Web Development & CMS**  
-- **Web Development**: WordPress  
-
-### **🖥️ Operating Systems**  
-- **Linux** (Ubuntu Server, Ubuntu Desktop, Mint), **Windows**, **Windows Server**, **Android**  
-
-### **🔍 Networking & Security**  
-- **Tools**: PuTTY, Wireshark  
-
-### **🛠️ Workflow & BPM Automation**  
-- **Tools**: Camunda
+### **🛠️ Development & Tools**  
+<p align="left">
+  <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>  
   
 ---
 
 ## 🌟 Soft Skills  
 
-🚀 **Teamwork** – Thrives in collaborative environments, ensuring seamless coordination and clear task division. Actively contributes to group success by fostering open communication and mutual support.  
-
-🗣️ **Communication** – Breaks down complex technical concepts into clear, digestible insights for both technical and non-technical audiences. Skilled in delivering engaging presentations and reports.  
-
-🧩 **Problem-Solving** – Approaches challenges with a structured mindset, identifying root causes and crafting effective solutions. Enjoys tackling complex issues with a mix of logic and creativity.  
-
-⏳ **Time Management** – Balances multiple responsibilities efficiently, meeting deadlines while maintaining high performance. Masters prioritization and avoids procrastination like a pro.  
-
-🔄 **Adaptability** – Learns and applies new technologies on the fly, quickly adjusting to evolving challenges. Thrives in fast-paced, ever-changing environments.  
-
-👑 **Leadership** – Leads by example, ensuring projects stay on track and team members stay motivated. Drives high-quality outcomes through clear direction and accountability.   
+- 🚀 **Teamwork** – Thrives in collaborative environments, ensuring seamless coordination and clear task division. Actively contributes to group success by fostering open communication and mutual support.  
+- 🗣️ **Communication** – Breaks down complex technical concepts into clear, digestible insights for both technical and non-technical audiences. Skilled in delivering engaging presentations and reports.  
+- 🧩 **Problem-Solving** – Approaches challenges with a structured mindset, identifying root causes and crafting effective solutions. Enjoys tackling complex issues with a mix of logic and creativity.  
+- ⏳ **Time Management** – Balances multiple responsibilities efficiently, meeting deadlines while maintaining high performance. Masters prioritization and avoids procrastination like a pro.  
+- 🔄 **Adaptability** – Learns and applies new technologies on the fly, quickly adjusting to evolving challenges. Thrives in fast-paced, ever-changing environments.  
+- 👑 **Leadership** – Leads by example, ensuring projects stay on track and team members stay motivated. Drives high-quality outcomes through clear direction and accountability.   
 
 ---
 
 ## 🎓 Education  
 
-🎓 **Bachelor of Science in Applied Computer Science**  
-📍 *University of Macedonia*  
+-🎓 **Bachelor of Science in Applied Computer Science**  (*University of Macedonia*) 
 
-📜 **Certifications**  
-✅ **ASP.NET Core 3.1** – Comprehensive Training Completed (*freeCodeCamp*)  
-✅ **HubSpot Sales Software** – Customer Relationship Management (CRM) (*HubSpot Academy*)  
+-📜 **Certifications :**  
+  - ✅ **ASP.NET Core 3.1** – Comprehensive Training Completed (*freeCodeCamp*)  
+  - ✅ **HubSpot Sales Software** – Customer Relationship Management (CRM) (*HubSpot Academy*)  
  
 
 ---
@@ -139,6 +94,7 @@
 
 ## **🏃 Runners App: Scalable Spring Boot API for Running Analytics**  
 🔗 [Runners_App](https://github.com/AngelosFikias0/Runners_App)  
+
 📜 **Description**:  
 A high-performance **RESTful API** built with **Spring Boot**, designed for tracking and analyzing running statistics. Optimized for **scalability** with a modular architecture and seamless integration with an **H2 in-memory database**.  
 
@@ -152,6 +108,7 @@ A high-performance **RESTful API** built with **Spring Boot**, designed for trac
 
 ## **🌐 Java Network Services Hub: Multi-Protocol Networking with Secure Logging**  
 🔗 [Java_Network_Services_Hub](https://github.com/AngelosFikias0/Java_Network_Services_Hub)  
+
 📜 **Description**:  
 A **modular networking suite** supporting multiple network protocols, featuring a **graphical service launcher**, **real-time logging**, and **multi-threading** for high performance. Integrates **JDBC with PostgreSQL** for structured data storage and analytics.  
 
@@ -167,6 +124,7 @@ A **modular networking suite** supporting multiple network protocols, featuring 
 
 ## **🕵️ Crime Management System: Graph-Based Suspect Analysis in Java**  
 🔗 [Crime_Management_System](https://github.com/AngelosFikias0/Crime_Management_System)  
+
 📜 **Description**:  
 A **Java-based investigative tool** utilizing **graph theory** for suspect tracking and relationship analysis, powered by **JUNG** for network visualization.  
 
@@ -181,6 +139,7 @@ A **Java-based investigative tool** utilizing **graph theory** for suspect track
 
 ## **🔑 Interactive Role-Based Web App: Secure Authentication & User Management**  
 🔗 [Interactive_Role_Based_Web_App](https://github.com/AngelosFikias0/Interactive_Role_Based_Web_App)  
+
 📜 **Description**:  
 A **secure and scalable web app** featuring **role-based access control** with CRUD functionalities for user and post management.  
 
@@ -195,6 +154,7 @@ A **secure and scalable web app** featuring **role-based access control** with C
 
 ## **📚 Student Records Web Portal: Scalable CRUD System with PHP & MySQL**  
 🔗 [Student_Records_Web_Portal](https://github.com/AngelosFikias0/Student_Records_Web_Portal)  
+
 📜 **Description**:  
 A **database-driven CRUD application** designed for managing student records with an optimized backend for **reliable database interactions**.  
 
@@ -209,6 +169,7 @@ A **database-driven CRUD application** designed for managing student records wit
 
 ## **📝 Python Text Editor: Lightweight Tkinter-Based Desktop Application**  
 🔗 [Python_Text_Editor](https://github.com/AngelosFikias0/Python_Text_Editor)  
+
 📜 **Description**:  
 A **simple yet functional text editor** built using **Python Tkinter**, supporting file management and font customization.  
 
@@ -222,6 +183,7 @@ A **simple yet functional text editor** built using **Python Tkinter**, supporti
 
 ## **🌦️ Weather App: Real-Time Forecast with OpenWeatherMap API**  
 🔗 [Weather_App](https://github.com/AngelosFikias0/Weather_App)  
+
 📜 **Description**:  
 A **real-time weather forecasting app** leveraging the **OpenWeatherMap API**, designed for a **responsive and user-friendly UI**.  
 
@@ -235,6 +197,7 @@ A **real-time weather forecasting app** leveraging the **OpenWeatherMap API**, d
 
 ## **🧩 Java Data Structures & Algorithms Library: Optimized Computational Solutions**  
 🔗 [Data_Structures_and_Algorithms](https://github.com/AngelosFikias0/Data_Structures_and_Algorithms)  
+
 📜 **Description**:  
 A **comprehensive Java library** implementing **core data structures** and **algorithms**, optimized for performance and clarity.  
 
@@ -248,6 +211,7 @@ A **comprehensive Java library** implementing **core data structures** and **alg
 
 ## **🎓 Student Management System: Java Desktop App with Persistent Storage**  
 🔗 [Student_Management_System](https://github.com/AngelosFikias0/Student_Management_System)  
+
 📜 **Description**:  
 A **desktop-based student management system** utilizing **Java Serialization** for persistent data storage with an intuitive **Swing GUI**.  
 
@@ -261,6 +225,7 @@ A **desktop-based student management system** utilizing **Java Serialization** f
 
 ## **🚗 Safe Car Insurance System: Policy & Claim Management with OOP**  
 🔗 [Safe_Car_Insurance_System](https://github.com/AngelosFikias0/Safe_Car_Insurance_System)  
+
 📜 **Description**:  
 A **simulation system** for managing **car insurance policies & claims**, built using object-oriented design principles.  
 
@@ -283,5 +248,8 @@ I'm passionate about technology and always open to new opportunities, discussion
 ⚡ **LeetCode**: [angelosfikias](https://leetcode.com/u/angelosfikias/)  
 
 ---
+
+### 🐍 GitHub Contribution Snake
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 🚀 *Let’s build, innovate, and create something extraordinary together!*  
