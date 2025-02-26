@@ -6,20 +6,30 @@
 
 ---
 
-## **👋 Hey there! I'm Angelos Fikias**  
+<table>
+  <tr>
+    <td>
+      <h2>👋 Hey there! I'm Angelos Fikias</h2>
+      <p>🚀 Passionate about <strong>software engineering, system architecture, and data-driven solutions</strong>, I thrive on solving complex problems and building scalable, high-performance applications. Currently, I'm deep-diving into <strong>Spring Boot, cloud computing, and system design</strong> to refine my expertise.</p>
 
-🚀 Passionate about **software engineering, system architecture, and data-driven solutions**, I thrive on solving complex problems and building scalable, high-performance applications. Currently, I'm deep-diving into **Spring Boot, cloud computing, and system design** to refine my expertise.  
-
-### **💡 A bit about me:**  
-- 🌱 **Currently Learning**: Spring Boot, AWS, and advanced system design.  
-- 🔭 **Interests**: Software architecture, backend engineering, and open-source contributions.  
-- 💬 **Ask me about**: Programming, tech trends, or any challenges you're facing!  
-- 📫 **Connect with me**:  
-  - ✉️ [Email](mailto:angelosfikias@gmail.com)  
-  - 💼 [LinkedIn](https://www.linkedin.com/in/angelos-fikias/)  
-  - 🏆 [LeetCode](https://leetcode.com/u/angelosfikias/)  
-
----
+      <h3>💡 A bit about me:</h3>
+      <ul>
+        <li>🌱 <strong>Currently Learning</strong>: Spring Boot, AWS, and advanced system design.</li>
+        <li>🔭 <strong>Interests</strong>: Software architecture, backend engineering, and open-source contributions.</li>
+        <li>💬 <strong>Ask me about</strong>: Programming, tech trends, or any challenges you're facing!</li>
+        <li>📫 <strong>Connect with me</strong>:</li>
+        <ul>
+          <li>✉️ <a href="mailto:angelosfikias@gmail.com">Email</a></li>
+          <li>💼 <a href="https://www.linkedin.com/in/angelos-fikias/">LinkedIn</a></li>
+          <li>🏆 <a href="https://leetcode.com/u/angelosfikias/">LeetCode</a></li>
+        </ul>
+      </ul>
+    </td>
+    <td align="center">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2llNzRwaXE0cmZyZWdwbzk1eGdqNzZqdHpwOTRkYjRobWw1aHhnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C299iw7dL1YF7oni9e/giphy.gif" width="300">
+    </td>
+  </tr>
+</table>
 
 ## **🛠️ Tech Stack & Tools**  
 
@@ -96,19 +106,40 @@
 
 ---
 
+<p align="center">
+  <img src="https://camo.githubusercontent.com/1a54039f4b20775f07cf6d6eb59e24fb35cd16c4999686d16d6adc12928e11f5/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f32643061663963393064316231313037333133636332306264613031353438612f74756d626c725f6f757477786e616e7070317537396f326c6f315f313238302e67696676" width="600" />
+</p>
+
+---
+
 ## 🌟 Soft Skills  
 
 <div align="center">
 
-| 🚀 **Teamwork**         | 🗣️ **Communication**    | 🧩 **Problem-Solving**  |
-|------------------------|----------------------|----------------------|
-| I collaborate smoothly, keep communication open, and ensure everyone’s on the same page. | I simplify complex ideas so anyone can understand—technical or not. | I break problems down, find the root cause, and craft effective solutions. |
+<table>
+  <tr>
+    <th>🚀 Teamwork</th>
+    <th>🗣️ Communication</th>
+    <th>🧩 Problem-Solving</th>
+  </tr>
+  <tr>
+    <td>I collaborate smoothly, keep communication open, and ensure everyone’s on the same page.</td>
+    <td>I simplify complex ideas so anyone can understand—technical or not.</td>
+    <td>I break problems down, find the root cause, and craft effective solutions.</td>
+  </tr>
+  <tr>
+    <th>⏳ Time Management</th>
+    <th>🔄 Adaptability</th>
+    <th>👑 Leadership</th>
+  </tr>
+  <tr>
+    <td>I prioritize effectively, balance tasks, and meet deadlines.</td>
+    <td>I learn new tech fast and adapt to challenges effortlessly.</td>
+    <td>I take charge, keep teams on track, and ensure high-quality results.</td>
+  </tr>
+</table>
 
-| ⏳ **Time Management**  | 🔄 **Adaptability**   | 👑 **Leadership**    |
-|------------------------|----------------------|----------------------|
-| I prioritize effectively, balance tasks, and meet deadlines. | I learn new tech fast and adapt to challenges effortlessly. | I take charge, keep teams on track, and ensure high-quality results. |
-
-</div>  
+</div> 
 
 ---
 
