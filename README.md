@@ -1,86 +1,155 @@
-# Angelos Fikias - Computer Science Student
+<h1 align="center">🚀 Angelos Fikias | Software Engineer 🚀</h1>
 
-### **Hi there! 👋 I'm Angelos Fikias**  
-
-Hi, I'm Angelos Fikias! 🚀 Passionate about software development, system architecture, and data-driven solutions, I thrive on solving complex problems and building scalable systems. Currently deep-diving into Spring Boot, cloud computing, and system design to craft high-performance applications. 
-
-- 🌱 **Currently**: Working on exciting projects and expanding my skill set.
-- 🔭 **Interests**: Software development, data science, machine learning, and open-source contributions.
-- 💬 **Ask me about**: Programming, tech trends, or anything else – I love engaging in meaningful discussions!
-- 📫 **Reach me**: [angelosfikias@gmail.com](mailto:angelosfikias@gmail.com) | [LinkedIn](https://www.linkedin.com/in/angelos-fikias/) | [LeetCode](https://leetcode.com/u/angelosfikias/)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=500&height=50&lines=Aspiring+Solutions+Architect;Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG">
+</p>
 
 ---
+
+## **👋 Hey there! I'm Angelos Fikias**  
+
+🚀 Passionate about **software engineering, system architecture, and data-driven solutions**, I thrive on solving complex problems and building scalable, high-performance applications. Currently, I'm deep-diving into **Spring Boot, cloud computing, and system design** to refine my expertise.  
+
+### **💡 A bit about me:**  
+- 🌱 **Currently Learning**: Spring Boot, AWS, and advanced system design.  
+- 🔭 **Interests**: Software architecture, backend engineering, and open-source contributions.  
+- 💬 **Ask me about**: Programming, tech trends, or any challenges you're facing!  
+- 📫 **Connect with me**:  
+  - ✉️ [Email](mailto:angelosfikias@gmail.com)  
+  - 💼 [LinkedIn](https://www.linkedin.com/in/angelos-fikias/)  
+  - 🏆 [LeetCode](https://leetcode.com/u/angelosfikias/)  
 
 ### **Programming Languages, Libraries & Frameworks 🖥️**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/-NoSQL-008000?style=flat-square&logo=mongodb&logoColor=white" alt="NoSQL" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/-UML-8CA1AF?style=flat-square&logo=uml&logoColor=white" alt="UML" />
-  <img src="https://img.shields.io/badge/-BPMN-FFCC00?style=flat-square&logo=gnu-bash&logoColor=black" alt="BPMN" />
-</p>
+## **💻 Tech Stack**
 
----
-
-### **GitHub Stats📊**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelosFikias0&layout=compact&theme=cobalt" alt="Top Languages" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngelosFikias0&theme=transparent" alt="GitHub Stats" width="55%">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/NoSQL-008000?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/UML-8CA1AF?style=for-the-badge&logo=uml&logoColor=white" alt="UML" />
+  <img src="https://img.shields.io/badge/BPMN-FFCC00?style=for-the-badge&logo=gnu-bash&logoColor=black" alt="BPMN" />
 </p>
 
 ---
 
-### **Tech Stacks I Work With**
-- **Frontend**: HTML, CSS, JavaScript, React  
-- **Backend**: Java, Spring Boot, PHP, Python, C#, ASP.NET  
-- **Databases**: MySQL, PostgreSQL, H2, SQLite, NoSQL  
-- **DevOps**: Docker, Kubernetes, GitHub Actions  
-- **Cloud & Virtualization**: OpenStack, VirtualBox, Docker  
+## **📊 GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AngelosFikias0&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="50%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AngelosFikias0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelosFikias0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
+</p>
 
 ---
 
-### **Development Tools**
-- **IDEs**: PyCharm, IntelliJ, VS Code, Visual Studio, Eclipse, CodeBlocks  
-- **Version Control**: Git, GitHub, GitLab  
-- **CI/CD**: GitHub Actions  
+## **🛠️ Tech Stack & Tools**  
 
-### **Data & Analytics**
-- **Data Visualization & BI**: Tableau, PowerBI  
-- **Data Science & Analysis**: RapidMiner, SageMath, Microsoft Excel  
-- **Enterprise Systems**: SAP ERP, Salesforce CRM, HubSpot CRM  
+---
 
-### **Design & Development**
-- **3D Design**: 3ds Max  
-- **Software Design**: Visual Paradigm  
-- **Web Development**: WordPress  
+### 🚀 **Core Technologies**  
+💻 **Frontend**:  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
 
-### **Operating Systems**
-- **Linux** (Ubuntu Server, Ubuntu desktop, Mint), **Windows**, **Windows Server**, **Android**  
+⚙️ **Backend**:  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
 
-### **Utilities**
-- **Networking & Security**: PuTTY, Wireshark  
-- **Local Web Development**: Xampp  
-- **Virtualization**: VirtualBox, Docker  
+🗄️ **Databases**:  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
 
-### **Database Management**
-- **MySQL**, **MariaDB**, **H2**, **PostgreSQL**, **SQLite**, **NoSQL**  
+---
 
-### **DevOps & Containerization**
-- **Docker**, **Kubernetes**  
+### ☁️ **Cloud & DevOps**  
+☁️ **Cloud & Virtualization**:  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
+![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=flat&logo=openstack&logoColor=white)  
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)  
 
-### **BPM & Workflow Automation**
-- **Camunda**  
+📦 **Containerization & Orchestration**:  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
+
+🚀 **CI/CD & Automation**:  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)  
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat&logo=gitlab&logoColor=white)  
+
+🔄 **Version Control**:  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)  
+
+---
+
+### 📊 **Data & Business Intelligence**  
+📈 **Data Analytics & Visualization**:  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black)  
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
+
+📊 **Data Science & Modeling**:  
+![RapidMiner](https://img.shields.io/badge/RapidMiner-FF6F00?style=flat&logoColor=white)  
+![SageMath](https://img.shields.io/badge/SageMath-8CA1AF?style=flat&logoColor=white)  
+
+🏢 **Enterprise Systems**:  
+![SAP ERP](https://img.shields.io/badge/SAP_ERP-0FAAFF?style=flat&logo=sap&logoColor=white)  
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)  
+![HubSpot CRM](https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white)  
+
+---
+
+### 🔧 **Development Tools & IDEs**  
+🛠 **IDEs**:  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)  
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)  
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse-ide&logoColor=white)  
+
+📜 **Software Design & BPM**:  
+![Visual Paradigm](https://img.shields.io/badge/Visual_Paradigm-8CA1AF?style=flat&logoColor=white)  
+![Camunda](https://img.shields.io/badge/Camunda-FF0000?style=flat&logo=camunda&logoColor=white)  
+
+🌍 **Web Development**:  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)  
+
+---
+
+### 🖥 **Operating Systems**  
+💻 **OS**:  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=black)  
+
+---
+
+### 🔐 **Networking & Security**  
+🛡 **Tools**:  
+![PuTTY](https://img.shields.io/badge/PuTTY-000000?style=flat&logo=putty&logoColor=white)  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)   
 
 ---
 
@@ -233,14 +302,13 @@ A **simulation system** for managing car insurance policies and claims, demonstr
 `Java`, `UML`, `BPMN`
 ---
 
-## **Let's Connect and Collaborate! 🤝**
+## **🤝 Let's Connect & Collaborate!**  
 
-I'm passionate about technology and always open to new opportunities and collaborations. Feel free to reach out if you want to discuss project ideas, tech trends, or simply chat about coding.  
+I'm always open to exciting **tech discussions, collaborations, and new opportunities**. Whether it’s about **projects, software architecture, or problem-solving**, feel free to reach out!  
+
 📧 **Email**: [angelosfikias@gmail.com](mailto:angelosfikias@gmail.com)  
-🔗 **LinkedIn**: [Angelos Fikias](https://www.linkedin.com/in/angelos-fikias/)  
-🔗 **GitHub**: [AngelosFikias0](https://github.com/AngelosFikias0)  
-🔗 **LeetCode**: [angelosfikias](https://leetcode.com/u/angelosfikias/)  
+💼 **LinkedIn**: [Angelos Fikias](https://www.linkedin.com/in/angelos-fikias/)  
+🐙 **GitHub**: [AngelosFikias0](https://github.com/AngelosFikias0)  
+🏆 **LeetCode**: [angelosfikias](https://leetcode.com/u/angelosfikias/)  
 
----
-
-Let’s connect and create something extraordinary! 🚀
+🚀 **Let’s build something extraordinary!**
