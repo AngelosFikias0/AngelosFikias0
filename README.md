@@ -31,6 +31,8 @@ Hi, I'm Angelos Fikias! 🚀 Passionate about software development, system archi
   <img src="https://img.shields.io/badge/-BPMN-FFCC00?style=flat-square&logo=gnu-bash&logoColor=black" alt="BPMN" />
 </p>
 
+---
+
 ### **📊 GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelosFikias0&layout=compact&theme=cobalt" alt="Top Languages" width="42%">
@@ -64,7 +66,7 @@ Hi, I'm Angelos Fikias! 🚀 Passionate about software development, system archi
 - **Web Development**: WordPress  
 
 ### **Operating Systems**
-- **Linux** (Ubuntu Server), **Windows**, **Windows Server**, **Android**  
+- **Linux** (Ubuntu Server, Ubuntu desktop, Mint), **Windows**, **Windows Server**, **Android**  
 
 ### **Utilities**
 - **Networking & Security**: PuTTY, Wireshark  
@@ -96,150 +98,147 @@ Hi, I'm Angelos Fikias! 🚀 Passionate about software development, system archi
 ## Education 🎓
 
 - **Degree**: Bachelor of Science in Applied Computer Science - University of Macedonia  
-- **Certifications**:  
-  - HubSpot Sales Software - Customer Relationship Management (CRM)  
-  - ASP.NET Core 3.1 – Comprehensive Training Completed  
+- **Certifications**:
+  - ASP.NET Core 3.1 – Comprehensive Training Completed
+  - HubSpot Sales Software - Customer Relationship Management (CRM)    
 
 ---
 
 # **Projects Portfolio 🛠️**
 
-## **1. Runners App: Scalable Spring Boot API for Running Analytics**  
+## **🏃 Runners App: Scalable Spring Boot API for Running Analytics**  
 🔗 [Runners_App](https://github.com/AngelosFikias0/Runners_App)  
-**📜 Description**:  
+📜 **Description**:  
 A high-performance **RESTful API** developed using **Spring Boot**, tailored for logging, tracking, and analyzing running statistics. Optimized for scalability, with modular architecture and seamless integration with an **H2 in-memory database**.  
-**💡 Key Highlights**:  
+💡 **Key Highlights**:  
 - **Scalable RESTful API** built with Spring Boot.  
 - Optimized **CRUD operations** for efficient data management.  
 - Modular architecture for easy future feature expansion.  
-**💻 Technologies**:  
+💻 **Technologies**:  
 `Java`, `Spring Boot`, `Maven`, `H2 Database`
 
 ---
 
-## **2. Java Network Services Hub: Multi-Protocol Networking with Secure Logging**  
+## **🌐 Java Network Services Hub: Multi-Protocol Networking with Secure Logging**  
 🔗 [Java_Network_Services_Hub](https://github.com/AngelosFikias0/Java_Network_Services_Hub)  
-**📜 Description**:  
+📜 **Description**:  
 A **powerful modular networking suite** designed for seamless management of **multi-protocol network services**. Features a **graphical service launcher**, real-time logging, and advanced **multi-threading** for high-performance execution. Integrates **JDBC with PostgreSQL** for structured data storage and analytics.  
-**💡 Key Highlights**:  
+💡 **Key Highlights**:  
 - **Multi-threaded network services**: Supports **HTTP, TCP, UDP, and RMI**.  
 - **Graphical Service Manager**: Intuitive UI with real-time service monitoring.  
 - **JDBC-powered PostgreSQL integration**: Logs and analyzes network activity.  
 - **Distributed Computing Capabilities**: **RMI implementation** for remote execution.  
 - **Highly scalable architecture** with efficient resource management.  
-**💻 Technologies**:  
+💻 **Technologies**:  
 `Java`, `Sockets`, `RMI`, `Swing`, `JDBC`, `PostgreSQL`, `Multi-threading`, `Concurrency`, `Distributed Computing`
 
 ---
 
-## **3. Crime Management System: Graph-Based Suspect Analysis in Java**  
+## **🕵️ Crime Management System: Graph-Based Suspect Analysis in Java**  
 🔗 [Crime_Management_System](https://github.com/AngelosFikias0/Crime_Management_System)  
-**📜 Description**:  
+📜 **Description**:  
 An advanced **Java-based Crime Management System** simulating an investigative platform for tracking and analyzing suspect data. Incorporates **graph analysis** with **JUNG** for network visualization and insights into suspect relationships.  
-**💡 Key Highlights**:  
+💡 **Key Highlights**:  
 - Utilized **graph theory** to visualize suspect networks.  
 - **Triangular closure analysis** to suggest potential suspect connections.  
 - Interactive **data visualization** and robust **file handling** for persistent data storage.  
-**💻 Technologies**:  
+💻 **Technologies**:  
 `Java`, `Java Swing`, `Java File Handling`, `JUNG`, `Graph Theory`, `Data Structures & Algorithms`
 
 ---
 
-## **4. Interactive Role-Based Web App: Secure Authentication & User Management**  
+## **🔑 Interactive Role-Based Web App: Secure Authentication & User Management**  
 🔗 [Interactive_Role_Based_Web_App](https://github.com/AngelosFikias0/Interactive_Role_Based_Web_App)  
-**📜 Description**:  
+📜 **Description**:  
 A secure and scalable web application featuring **role-based access control** and **CRUD functionalities** for managing users and posts. Emphasizes security and modern web development practices.  
-**💡 Key Highlights**:  
+💡 **Key Highlights**:  
 - Developed **role-based access control** with distinct privileges for users and admins.  
 - **Secure authentication mechanisms** for protecting sensitive data.  
 - Focused on **scalability** and seamless user experience.  
-**💻 Technologies**:  
-`PHP`, `MySQL`, `HTML`, `CSS`, `Apache Server`
+💻 **Technologies**:  
+`PHP`, `MySQL`, `HTML`, `CSS`, `Apache Server`, `Authentication`
 
 ---
 
-## **5. Student Records Web Portal: Scalable CRUD System with PHP & MySQL**  
+## **📚 Student Records Web Portal: Scalable CRUD System with PHP & MySQL**  
 🔗 [Student_Records_Web_Portal](https://github.com/AngelosFikias0/Student_Records_Web_Portal)  
-**📜 Description**:  
+📜 **Description**:  
 A **database-driven CRUD application** for managing student records, featuring seamless **frontend-backend integration**. Optimized for **reliable database interactions** and future scalability.  
-**💡 Key Highlights**:  
+💡 **Key Highlights**:  
 - Optimized **database operations** for speed and reliability.  
 - **Robust backend integration** using PHP and MySQL.  
 - Designed for easy **scalability** with future analytical features.  
-**💻 Technologies**:  
+💻 **Technologies**:  
 `PHP`, `MySQL`, `JavaScript`, `HTML`, `CSS`, `Apache Server`
 
 ---
 
-## **6. Python Text Editor: Lightweight Tkinter-Based Desktop Application**  
+## **📝 Python Text Editor: Lightweight Tkinter-Based Desktop Application**  
 🔗 [Python_Text_Editor](https://github.com/AngelosFikias0/Python_Text_Editor)  
-**📜 Description**:  
+📜 **Description**:  
 A lightweight **desktop text editor** built with **Python Tkinter**, supporting features like file saving, font customization, and an intuitive interface. Highlights Python’s GUI development capabilities.  
-**💡 Key Highlights**:  
+💡 **Key Highlights**:  
 - Designed a functional **text editor** with a focus on GUI development.  
 - **Modular code structure** for reusability in future desktop apps.  
-**💻 Technologies**:  
+💻 **Technologies**:  
 `Python`, `Tkinter`
 
 ---
 
-## **7. Weather App: Real-Time Forecast with OpenWeatherMap API**  
+## **🌦️ Weather App: Real-Time Forecast with OpenWeatherMap API**  
 🔗 [Weather_App](https://github.com/AngelosFikias0/Weather_App)  
-**📜 Description**:  
+📜 **Description**:  
 A dynamic weather application utilizing the **OpenWeatherMap API** to fetch real-time data. Focuses on **responsive design** and **UI/UX** for mobile-friendly accessibility.  
-**💡 Key Highlights**:  
+💡 **Key Highlights**:  
 - **API integration** for dynamic data updates.  
 - Designed for a **responsive interface**, optimized for both desktop and mobile.  
-**💻 Technologies**:  
+💻 **Technologies**:  
 `CSS`, `HTML`, `JavaScript`
 
 ---
 
-## **8. Java Data Structures & Algorithms Library: Optimized Computational Solutions**  
+## **🧩 Java Data Structures & Algorithms Library: Optimized Computational Solutions**  
 🔗 [Data_Structures_and_Algorithms](https://github.com/AngelosFikias0/Data_Structures_and_Algorithms)  
-**📜 Description**:  
+📜 **Description**:  
 A comprehensive library of **data structures** and **algorithms** in **Java** designed to solve computational problems efficiently. Focused on clarity and educational value.  
-**💡 Key Highlights**:  
+💡 **Key Highlights**:  
 - Implemented algorithms like **QuickSort**, **DFS**, and **dynamic programming**.  
 - Focused on **code efficiency** and scalability for real-world applications.  
-**💻 Technologies**:  
-`Java`, `OOP`, `Algortihms and data structures`
+💻 **Technologies**:  
+`Java`, `OOP`, `Algorithms and Data Structures`
 
 ---
 
-## **9. Student Management System: Java Desktop App with Persistent Storage**  
+## **🎓 Student Management System: Java Desktop App with Persistent Storage**  
 🔗 [Student_Management_System](https://github.com/AngelosFikias0/Student_Management_System)  
-**📜 Description**:  
+📜 **Description**:  
 A **desktop application** built in **Java** to manage student and course data using **Java Serialization** for persistent storage. Provides an intuitive **Swing-based GUI** for seamless user experience.  
-**💡 Key Highlights**:  
+💡 **Key Highlights**:  
 - Utilized **Java Serialization** for reliable data storage.  
 - Designed a user-friendly interface using **Java Swing**.  
-**💻 Technologies**:  
+💻 **Technologies**:  
 `Java`, `Swing`, `Java File Handling`, `Java Serialization`, `Java Generics`
 
 ---
 
-## **10. Safe Car Insurance System: Policy & Claim Management with OOP**  
+## **🚗 Safe Car Insurance System: Policy & Claim Management with OOP**  
 🔗 [Safe_Car_Insurance_System](https://github.com/AngelosFikias0/Safe_Car_Insurance_System)  
-**📜 Description**:  
+📜 **Description**:  
 A **simulation system** for managing car insurance policies and claims, demonstrating proficiency in complex data structures and logical frameworks for scalable data management.  
-**💡 Key Highlights**:  
+💡 **Key Highlights**:  
 - Designed frameworks for **policy and claim management** using object-oriented principles.  
 - Focused on **scalable data structures** for long-term growth.  
-**💻 Technologies**:  
+💻 **Technologies**:  
 `Java`, `UML`, `BPMN`
 ---
 
-## Let's Connect and Collaborate! 🤝
+## **Let's Connect and Collaborate! 🤝**
 
-I'm passionate about technology and always open to new opportunities and collaborations. Feel free to reach out if you want to discuss project ideas, tech trends, or simply chat about coding.
-
-My repositories reflect my journey as a developer, and I'm eager to learn from and contribute to the community. Let’s build something amazing together!
-
-📧 Email: [angelosfikias@gmail.com](mailto:angelosfikias@gmail.com)  
-🔗 LinkedIn: [Angelos Fikias](https://www.linkedin.com/in/angelos-fikias/)  
-🔗 GitHub: [AngelosFikias0](https://github.com/AngelosFikias0)  
-🔗 LeetCode: [angelosfikias](https://leetcode.com/u/angelosfikias/)  
+I'm passionate about technology and always open to new opportunities and collaborations. Feel free to reach out if you want to discuss project ideas, tech trends, or simply chat about coding.  
+📧 **Email**: [angelosfikias@gmail.com](mailto:angelosfikias@gmail.com)  
+🔗 **LinkedIn**: [Angelos Fikias](https://www.linkedin.com/in/angelos-fikias/)  
+🔗 **GitHub**: [AngelosFikias0](https://github.com/AngelosFikias0)  
+🔗 **LeetCode**: [angelosfikias](https://leetcode.com/u/angelosfikias/)  
 
 ---
 
