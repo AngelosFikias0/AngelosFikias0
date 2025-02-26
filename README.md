@@ -12,6 +12,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="280" align="right">
 </p>
 
+<br>
+
 ## **👋 Hey there! I'm Angelos Fikias**  
 
 🚀 Passionate about **software engineering, system architecture, and data-driven solutions**, I thrive on solving complex problems and building scalable, high-performance applications. Currently, I'm deep-diving into **Spring Boot, cloud computing, and system design** to refine my expertise.  
