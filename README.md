@@ -226,6 +226,7 @@ A **desktop application** built in **Java** to manage student and course data us
 📜 **Description**:  
 A **simulation system** for managing car insurance policies and claims, demonstrating proficiency in complex data structures and logical frameworks for scalable data management.  
 💡 **Key Highlights**:  
+- Implemented from previous **system analysis** using **BPMN** and **UML**.  
 - Designed frameworks for **policy and claim management** using object-oriented principles.  
 - Focused on **scalable data structures** for long-term growth.  
 💻 **Technologies**:  
