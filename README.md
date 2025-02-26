@@ -100,12 +100,13 @@
 
 <div align="center">
 
-| 🚀 **Teamwork**         | I collaborate smoothly, keep communication open, and ensure everyone’s on the same page. |
-| 🗣️ **Communication**    | I break down complex ideas so anyone can understand, whether technical or not. |
-| 🧩 **Problem-Solving**  | I approach problems logically, find the root cause, and come up with solid solutions. |
-| ⏳ **Time Management**  | I stay on top of my tasks, prioritize effectively, and never miss deadlines. |
-| 🔄 **Adaptability**     | I learn new tech fast and adjust to changes without breaking a sweat. |
-| 👑 **Leadership**       | I take initiative, keep things on track, and make sure the team delivers quality work. |
+| 🚀 **Teamwork**         | 🗣️ **Communication**    | 🧩 **Problem-Solving**  |
+|------------------------|----------------------|----------------------|
+| I collaborate smoothly, keep communication open, and ensure everyone’s on the same page. | I simplify complex ideas so anyone can understand—technical or not. | I break problems down, find the root cause, and craft effective solutions. |
+
+| ⏳ **Time Management**  | 🔄 **Adaptability**   | 👑 **Leadership**    |
+|------------------------|----------------------|----------------------|
+| I prioritize effectively, balance tasks, and meet deadlines. | I learn new tech fast and adapt to challenges effortlessly. | I take charge, keep teams on track, and ensure high-quality results. |
 
 </div>  
 
