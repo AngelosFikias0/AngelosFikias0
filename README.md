@@ -2,7 +2,7 @@
 
 ### **Hi there! 👋 I'm Angelos Fikias**  
 
-I'm a passionate **Computer Science student** at the **University of Macedonia**, specializing in **software development, system architecture, and data-driven solutions**. My mission is to **leverage technology to build impactful systems** and contribute to the ever-evolving tech industry. I thrive on **solving complex problems, optimizing systems, and driving innovation**. Always eager to learn and grow, I enjoy collaborating with like-minded individuals to create scalable and efficient solutions. 🚀  
+Hi, I'm Angelos Fikias! 🚀 Passionate about software development, system architecture, and data-driven solutions, I thrive on solving complex problems and building scalable systems. Currently deep-diving into Spring Boot, cloud computing, and system design to craft high-performance applications. 
 
 - 🌱 **Currently**: Working on exciting projects and expanding my skill set.
 - 🔭 **Interests**: Software development, data science, machine learning, and open-source contributions.
@@ -13,29 +13,26 @@ I'm a passionate **Computer Science student** at the **University of Macedonia**
 
 ## Skills 🚀
 
-### **Programming Languages, Libraries & Frameworks 🖥️**
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/-NoSQL-008000?style=flat-square&logo=mongodb&logoColor=white" alt="NoSQL" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/-UML-8CA1AF?style=flat-square&logo=uml&logoColor=white" alt="UML" />
-  <img src="https://img.shields.io/badge/-BPMN-FFCC00?style=flat-square&logo=gnu-bash&logoColor=black" alt="BPMN" />
-</p>
+## 🚀 Programming Languages, Libraries & Frameworks  
 
-<div style="display: flex; flex-direction: row;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelosFikias0&layout=compact&theme=cobalt" style="width: 40%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=AngelosFikias0&theme=transparent" style="width: 51%;">
-</div>
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+## 📊 GitHub Stats  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelosFikias0&layout=compact&theme=cobalt)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AngelosFikias0&theme=transparent)
 
 ---
 
@@ -100,7 +97,7 @@ I'm a passionate **Computer Science student** at the **University of Macedonia**
   - HubSpot Sales Software - Customer Relationship Management (CRM)  
   - ASP.NET Core 3.1 – Comprehensive Training Completed  
 
-
+---
 
 # **Projects Portfolio 🛠️**
 
