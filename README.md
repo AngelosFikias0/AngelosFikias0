@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Angelos Fikias | Software Engineer 🚀</h1>
 
-<br> <!-- Adds some space before the typing effect -->
+<br> <!-- Adds space before the typing effect -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=400&color=800080&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Aspiring+Solutions+Architect;Developer+%7C+Problem+Solver;Building+Scalable+%26+Reliable+Systems" alt="Typing SVG">
@@ -8,11 +8,12 @@
 
 ---
 
-<p>
+<!-- This div ensures proper alignment and prevents text from overlapping the GIF -->
+<div>
   <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="280" align="right">
-</p>
+</div>
 
-<br>
+<br><br> <!-- Adds extra space before the text starts -->
 
 ## **👋 Hey there! I'm Angelos Fikias**  
 
