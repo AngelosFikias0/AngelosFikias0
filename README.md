@@ -23,38 +23,42 @@
 
 ## **🛠️ Tech Stack & Tools**  
 
-<p align="center">
-  <strong>🖥️ Frontend Development</strong><br><br>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+<div align="center">
+
+### 🚀 **Frontend Development**  
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 </p>
 
-<p align="center">
-  <strong>⚙️ Backend Development</strong><br><br>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET" />
+### ⚙️ **Backend Development**  
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
 </p>
 
-<p align="center">
-  <strong>🗄️ Databases</strong><br><br>
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/-NoSQL-008000?style=flat-square&logo=mongodb&logoColor=white" alt="NoSQL" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/-H2_DB-589636?style=flat-square&logo=h2&logoColor=white" alt="H2 Database" />
+### 🗄️ **Databases**  
+<p>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/-H2_DB-589636?style=for-the-badge&logo=h2&logoColor=white" alt="H2 Database" />
+  <img src="https://img.shields.io/badge/-NoSQL-008000?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL" />
 </p>
 
-<p align="center">
-  <strong>🛠️ Other Tools & Modeling</strong><br><br>
-  <img src="https://img.shields.io/badge/-UML-8CA1AF?style=flat-square&logo=uml&logoColor=white" alt="UML" />
-  <img src="https://img.shields.io/badge/-BPMN-FFCC00?style=flat-square&logo=gnu-bash&logoColor=black" alt="BPMN" />
+### 🔧 **Other Tools & Modeling**  
+<p>
+  <img src="https://img.shields.io/badge/-UML-8CA1AF?style=for-the-badge&logo=uml&logoColor=white" alt="UML" />
+  <img src="https://img.shields.io/badge/-BPMN-FFCC00?style=for-the-badge&logo=gnu-bash&logoColor=black" alt="BPMN" />
 </p>
+
+</div>
 
 ---
 
@@ -88,24 +92,36 @@
 
 ## 🌟 Soft Skills  
 
-- 🚀 **Teamwork** – Thrives in collaborative environments, ensuring seamless coordination and clear task division. Actively contributes to group success by fostering open communication and mutual support.  
-- 🗣️ **Communication** – Breaks down complex technical concepts into clear, digestible insights for both technical and non-technical audiences. Skilled in delivering engaging presentations and reports.  
-- 🧩 **Problem-Solving** – Approaches challenges with a structured mindset, identifying root causes and crafting effective solutions. Enjoys tackling complex issues with a mix of logic and creativity.  
-- ⏳ **Time Management** – Balances multiple responsibilities efficiently, meeting deadlines while maintaining high performance. Masters prioritization and avoids procrastination like a pro.  
-- 🔄 **Adaptability** – Learns and applies new technologies on the fly, quickly adjusting to evolving challenges. Thrives in fast-paced, ever-changing environments.  
-- 👑 **Leadership** – Leads by example, ensuring projects stay on track and team members stay motivated. Drives high-quality outcomes through clear direction and accountability.   
+<div align="center">
+
+| 🚀 **Teamwork**         | I collaborate smoothly, keep communication open, and ensure everyone’s on the same page. |
+|------------------------|----------------------------------------------------------------------------------|
+| 🗣️ **Communication**    | I break down complex ideas so anyone can understand, whether technical or not. |
+| 🧩 **Problem-Solving**  | I approach problems logically, find the root cause, and come up with solid solutions. |
+| ⏳ **Time Management**  | I stay on top of my tasks, prioritize effectively, and never miss deadlines. |
+| 🔄 **Adaptability**     | I learn new tech fast and adjust to changes without breaking a sweat. |
+| 👑 **Leadership**       | I take initiative, keep things on track, and make sure the team delivers quality work. |
+
+</div>  
 
 ---
 
 ## 🎓 Education  
 
-- 🎓 **Bachelor of Science in Applied Computer Science**  (*University of Macedonia*) 
+<div align="center">
 
-- 📜 **Certifications :**  
-  - ✅ **ASP.NET Core 3.1** – Comprehensive Training Completed (*freeCodeCamp*)  
-  - ✅ **HubSpot Sales Software** – Customer Relationship Management (CRM) (*HubSpot Academy*)  
+🎓 **Bachelor of Science in Applied Computer Science**  
+📍 *University of Macedonia*  
+
+---
+
+📜 **Certifications**  
+
+✅ **ASP.NET Core 3.1** – Full Training (*freeCodeCamp*)  
+✅ **HubSpot Sales Software** – CRM Fundamentals (*HubSpot Academy*)  
+
+</div>
  
-
 ---
 # **🚀 Projects Portfolio 🛠️**  
 
