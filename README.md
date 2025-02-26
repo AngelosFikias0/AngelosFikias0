@@ -14,16 +14,16 @@
 
 ### **💡 A bit about me:**  
 - 🌱 **Currently Learning**: Spring Boot, AWS, and advanced system design.  
-- 🔭 **Interests**: Software architecture, backend engineering, and open-source contributions.  
+- 🔭 **Interests**: Software architecture, backend engineering, and open-source contributions.
+<p>
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="280" align="right">
+</p>
 - 💬 **Ask me about**: Programming, tech trends, or any challenges you're facing!  
 - 📫 **Connect with me**:  
   - ✉️ [Email](mailto:angelosfikias@gmail.com)  
   - 💼 [LinkedIn](https://www.linkedin.com/in/angelos-fikias/)  
   - 🏆 [LeetCode](https://leetcode.com/u/angelosfikias/)
 
-<p>
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="280" align="right">
-</p>
 ---
 
 ## **🛠️ Tech Stack & Tools**  
