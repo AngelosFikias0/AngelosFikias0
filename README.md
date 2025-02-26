@@ -18,7 +18,7 @@
 
 ### **💡 A bit about me:**  
 - 🌱 **Currently Learning**: Spring Boot, AWS, and advanced system design.  
-- 🔭 **Interests**: Software architecture, backend engineering, and open-source contributions.
+- 🔭 **Interests**: Software architecture, backend engineering, and cloud computing.
 - 💬 **Ask me about**: Programming, tech trends, or any challenges you're facing!  
 - 📫 **Connect with me**:  
   - ✉️ [Email](mailto:angelosfikias@gmail.com)  
@@ -276,7 +276,6 @@ I'm passionate about technology and always open to new opportunities, discussion
 
 📧 **Email**: [angelosfikias@gmail.com](mailto:angelosfikias@gmail.com)  
 🔗 **LinkedIn**: [Angelos Fikias](https://www.linkedin.com/in/angelos-fikias/)  
-💻 **GitHub**: [AngelosFikias0](https://github.com/AngelosFikias0)  
 ⚡ **LeetCode**: [angelosfikias](https://leetcode.com/u/angelosfikias/)  
 
 ---
