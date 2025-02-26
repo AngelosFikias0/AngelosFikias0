@@ -76,9 +76,10 @@
 </p>
 
 ---
-
+<div align="center">
+  
 ### **🚀 DevOps & Cloud**  
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
@@ -86,7 +87,7 @@
 </p>
 
 ### **🛠️ Development & Tools**  
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" />
   <img src="https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
@@ -94,6 +95,7 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
+</div>
 ---
 
 ## 🌟 Soft Skills  
@@ -128,20 +130,14 @@
 ---
 
 ## 🎓 Education  
-
-<div align="left">
-
-🎓 **Bachelor of Science in Applied Computer Science**  
-📍 *University of Macedonia*  
+**Bachelor of Science in Applied Computer Science**  
+📍 University of Macedonia  
 
 ---
 
-📜 **Certifications**  
-
-✅ **ASP.NET Core 3.1** – Full Training (*freeCodeCamp*)  
-✅ **HubSpot Sales Software** – CRM Fundamentals (*HubSpot Academy*)  
-
-</div>
+## 📜 Certifications  
+- ✅ **ASP.NET Core 3.1** – Full Training (*freeCodeCamp*)  
+- ✅ **HubSpot Sales Software** – CRM Fundamentals (*HubSpot Academy*)  
 
 ---
 
