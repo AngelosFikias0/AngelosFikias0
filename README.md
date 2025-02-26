@@ -307,7 +307,7 @@ I'm passionate about technology and always open to new opportunities, discussion
 ---
 
 ### 🐍 GitHub Contribution Snake  
-![Snake animation](https://github.com/AngelosFikias/AngelosFikias/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AngelosFikias0/AngelosFikias0/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   🚀 <i>Let’s build, innovate, and create something extraordinary together!</i>
