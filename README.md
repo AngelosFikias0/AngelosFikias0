@@ -21,20 +21,37 @@
 
 ---
 
-## **🛠️ Tech Stack**  
+## **🛠️ Tech Stack & Tools**  
 
-### **Languages & Frameworks**  
-<p align="left">
+<p align="center">
+  <strong>🖥️ Frontend Development</strong><br><br>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+</p>
+
+<p align="center">
+  <strong>⚙️ Backend Development</strong><br><br>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+</p>
+
+<p align="center">
+  <strong>🗄️ Databases</strong><br><br>
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/-NoSQL-008000?style=flat-square&logo=mongodb&logoColor=white" alt="NoSQL" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/-H2_DB-589636?style=flat-square&logo=h2&logoColor=white" alt="H2 Database" />
+</p>
+
+<p align="center">
+  <strong>🛠️ Other Tools & Modeling</strong><br><br>
   <img src="https://img.shields.io/badge/-UML-8CA1AF?style=flat-square&logo=uml&logoColor=white" alt="UML" />
   <img src="https://img.shields.io/badge/-BPMN-FFCC00?style=flat-square&logo=gnu-bash&logoColor=black" alt="BPMN" />
 </p>
@@ -82,9 +99,9 @@
 
 ## 🎓 Education  
 
--🎓 **Bachelor of Science in Applied Computer Science**  (*University of Macedonia*) 
+- 🎓 **Bachelor of Science in Applied Computer Science**  (*University of Macedonia*) 
 
--📜 **Certifications :**  
+- 📜 **Certifications :**  
   - ✅ **ASP.NET Core 3.1** – Comprehensive Training Completed (*freeCodeCamp*)  
   - ✅ **HubSpot Sales Software** – Customer Relationship Management (CRM) (*HubSpot Academy*)  
  
