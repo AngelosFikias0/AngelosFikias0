@@ -96,6 +96,7 @@
 </p>
 
 </div>
+
 ---
 
 ## 🌟 Soft Skills  
