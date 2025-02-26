@@ -101,7 +101,6 @@
 <div align="center">
 
 | 🚀 **Teamwork**         | I collaborate smoothly, keep communication open, and ensure everyone’s on the same page. |
-|------------------------|----------------------------------------------------------------------------------|
 | 🗣️ **Communication**    | I break down complex ideas so anyone can understand, whether technical or not. |
 | 🧩 **Problem-Solving**  | I approach problems logically, find the root cause, and come up with solid solutions. |
 | ⏳ **Time Management**  | I stay on top of my tasks, prioritize effectively, and never miss deadlines. |
