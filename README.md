@@ -131,7 +131,7 @@
 ---
 
 ## 🎓 Education:
-- 📍**Bachelor of Science in Applied Computer Science - University of Macedonia **  
+- 📍 **Bachelor of Science in Applied Computer Science - University of Macedonia**  
 
 ---
 
