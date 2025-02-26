@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Angelos Fikias | Software Engineer 🚀</h1>
+<h1 align="center">  🚀 Angelos Fikias | Software Engineer 💻 </h1>
 
 <br>
 
@@ -107,13 +107,13 @@
 ---
 
 # 🎓 Education  
-📍 **B.Sc. in Applied Computer Science** – University of Macedonia  
+- **B.Sc. in Applied Computer Science** – University of Macedonia  
 
 ---
 
 # 📜 Certifications  
-✅ **ASP.NET Core 3.1** – Full Training (*freeCodeCamp*)  
-✅ **HubSpot Sales Software** – CRM Fundamentals (*HubSpot Academy*)  
+- **ASP.NET Core 3.1** – Full Training (*freeCodeCamp*)  
+- **HubSpot Sales Software** – CRM Fundamentals (*HubSpot Academy*)  
 
 ---
 
