@@ -318,9 +318,9 @@ I'm passionate about technology and always open to new opportunities, discussion
 ### 🐍 GitHub Contribution Snake
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
-🚀 *Let’s build, innovate, and create something extraordinary together!*  
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="48%">
-  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="48%">
+  <span style="display: inline-block; vertical-align: middle; font-size: 18px;">
+    🚀 <i>Let’s build, innovate, and create something extraordinary together!</i>
+  </span>
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="48%" style="display: inline-block; vertical-align: middle;">
 </p>
