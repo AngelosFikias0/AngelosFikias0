@@ -130,13 +130,12 @@
 
 ---
 
-## 🎓 Education  
-**Bachelor of Science in Applied Computer Science**  
-📍 University of Macedonia  
+## 🎓 Education:
+- 📍**Bachelor of Science in Applied Computer Science - University of Macedonia **  
 
 ---
 
-## 📜 Certifications  
+## 📜 Certifications: 
 - ✅ **ASP.NET Core 3.1** – Full Training (*freeCodeCamp*)  
 - ✅ **HubSpot Sales Software** – CRM Fundamentals (*HubSpot Academy*)  
 
