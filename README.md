@@ -78,26 +78,20 @@
 ---
 
 ### **🚀 DevOps & Cloud**  
-<div class="badges">
+<p align="center">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/-OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white" alt="OpenStack" />
-</div>
+</p>
 
 ### **🛠️ Development & Tools**  
-<div class="badges">
+<p align="center">
   <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" />
   <img src="https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</div>
-  
----
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/8720e34720788284c87a51e1e438e814c756e197586d03148c53ab821d73994a/68747470733a2f2f632e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966" width="500" />
 </p>
 
 ---
@@ -148,6 +142,12 @@
 ✅ **HubSpot Sales Software** – CRM Fundamentals (*HubSpot Academy*)  
 
 </div>
+
+---
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/8720e34720788284c87a51e1e438e814c756e197586d03148c53ab821d73994a/68747470733a2f2f632e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966" width="500" />
+</p>
 
 ---
 
