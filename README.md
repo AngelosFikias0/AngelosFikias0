@@ -16,10 +16,13 @@ I'm a passionate **Computer Science student** at the **University of Macedonia**
 ### **Programming Languages, Libraries & Frameworks 🖥️**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/-NoSQL-008000?style=flat-square&logo=mongodb&logoColor=white" alt="NoSQL" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -37,66 +40,67 @@ I'm a passionate **Computer Science student** at the **University of Macedonia**
 ---
 
 ### **Tech Stacks I Work With**
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Java, Spring Boot, PHP, Python, C#, ASP.NET
-- **Databases**: MySQL, PostgreSQL, H2, SQLite
-- **DevOps**: Docker, Kubernetes, GitHub Actions
+- **Frontend**: HTML, CSS, JavaScript, React  
+- **Backend**: Java, Spring Boot, PHP, Python, C#, ASP.NET  
+- **Databases**: MySQL, PostgreSQL, H2, SQLite, NoSQL  
+- **DevOps**: Docker, Kubernetes, GitHub Actions  
+- **Cloud & Virtualization**: OpenStack, VirtualBox, Docker  
 
 ---
 
 ### **Development Tools**
-- **IDEs**: PyCharm, IntelliJ, VS Code, Visual Studio, Eclipse, CodeBlocks
-- **Version Control**: Git, GitHub, GitLab
-- **CI/CD**: GitHub Actions
+- **IDEs**: PyCharm, IntelliJ, VS Code, Visual Studio, Eclipse, CodeBlocks  
+- **Version Control**: Git, GitHub, GitLab  
+- **CI/CD**: GitHub Actions  
 
 ### **Data & Analytics**
-- **Data Visualization & BI**: Tableau, PowerBI
-- **Data Science & Analysis**: RapidMiner, SageMath, Microsoft Excel
-- **Enterprise Systems**: SAP ERP, Salesforce CRM, HubSpot CRM
+- **Data Visualization & BI**: Tableau, PowerBI  
+- **Data Science & Analysis**: RapidMiner, SageMath, Microsoft Excel  
+- **Enterprise Systems**: SAP ERP, Salesforce CRM, HubSpot CRM  
 
 ### **Design & Development**
-- **3D Design**: 3ds Max
-- **Software Design**: Visual Paradigm
-- **Web Development**: WordPress
+- **3D Design**: 3ds Max  
+- **Software Design**: Visual Paradigm  
+- **Web Development**: WordPress  
 
 ### **Operating Systems**
-- **Linux**, **Windows**, **Android**
+- **Linux** (Ubuntu Server), **Windows**, **Windows Server**, **Android**  
 
 ### **Utilities**
-- **Networking & Security**: PuTTY, Wireshark
-- **Local Web Development**: Xampp
-- **Virtualization**: VirtualBox, Docker
+- **Networking & Security**: PuTTY, Wireshark  
+- **Local Web Development**: Xampp  
+- **Virtualization**: VirtualBox, Docker  
 
 ### **Database Management**
-- **MySQL**, **MariaDB**, **H2**, **PostgreSQL**, **SQLite**
+- **MySQL**, **MariaDB**, **H2**, **PostgreSQL**, **SQLite**, **NoSQL**  
 
 ### **DevOps & Containerization**
-- **Docker**, **Kubernetes**
+- **Docker**, **Kubernetes**  
 
 ### **BPM & Workflow Automation**
-- **Camunda**
+- **Camunda**  
 
 ---
 
 ## Soft Skills 💡
 
-- **Teamwork**: Collaborated on multiple group projects, ensuring effective communication and division of tasks.
-- **Communication**: Presented project findings and technical concepts clearly to both technical and non-technical audiences.
-- **Problem-Solving**: Demonstrated ability to troubleshoot and resolve complex technical issues.
-- **Time Management**: Successfully balanced academic workload with project deadlines, maintaining high performance in both areas.
-- **Adaptability**: Quickly learned and applied new technologies and frameworks as needed.
-- **Leadership**: Led team projects, ensuring timely delivery and high-quality outcomes.
+- **Teamwork**: Collaborated on multiple group projects, ensuring effective communication and division of tasks.  
+- **Communication**: Presented project findings and technical concepts clearly to both technical and non-technical audiences.  
+- **Problem-Solving**: Demonstrated ability to troubleshoot and resolve complex technical issues.  
+- **Time Management**: Successfully balanced academic workload with project deadlines, maintaining high performance in both areas.  
+- **Adaptability**: Quickly learned and applied new technologies and frameworks as needed.  
+- **Leadership**: Led team projects, ensuring timely delivery and high-quality outcomes.  
 
 ---
 
 ## Education 🎓
 
-- **Degree**: Bachelor of Science in Applied Computer Science - University of Macedonia
-- **Certifications**: 
-  - HubSpot Sales Software - Customer Relationship Management (CRM)
-  - ASP.NET Core 3.1 – Comprehensive Training Completed
+- **Degree**: Bachelor of Science in Applied Computer Science - University of Macedonia  
+- **Certifications**:  
+  - HubSpot Sales Software - Customer Relationship Management (CRM)  
+  - ASP.NET Core 3.1 – Comprehensive Training Completed  
 
----
+
 
 # **Projects Portfolio 🛠️**
 
