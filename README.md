@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Angelos Fikias | Software Engineer 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=500&height=50&lines=Aspiring+Solutions+Architect;Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Aspiring+Solutions+Architect;Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG">
 </p>
 
 ---
