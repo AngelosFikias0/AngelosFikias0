@@ -94,49 +94,30 @@
 
 ---
 
-## 🌟 Soft Skills  
+# 🌟 Soft Skills  
 
-<div align="center">
+| 🚀 **Teamwork**       | 🗣️ **Communication**       | 🧩 **Problem-Solving**     |
+|----------------------|------------------------|----------------------|
+| Collaborate effectively, ensure open communication, and align team efforts. | Simplify complex ideas for both technical and non-technical audiences. | Analyze issues, identify root causes, and implement efficient solutions. |
 
-<table>
-  <tr>
-    <th>🚀 Teamwork</th>
-    <th>🗣️ Communication</th>
-    <th>🧩 Problem-Solving</th>
-  </tr>
-  <tr>
-    <td>I collaborate smoothly, keep communication open, and ensure everyone’s on the same page.</td>
-    <td>I simplify complex ideas so anyone can understand—technical or not.</td>
-    <td>I break problems down, find the root cause, and craft effective solutions.</td>
-  </tr>
-  <tr>
-    <th>⏳ Time Management</th>
-    <th>🔄 Adaptability</th>
-    <th>👑 Leadership</th>
-  </tr>
-  <tr>
-    <td>I prioritize effectively, balance tasks, and meet deadlines.</td>
-    <td>I learn new tech fast and adapt to challenges effortlessly.</td>
-    <td>I take charge, keep teams on track, and ensure high-quality results.</td>
-  </tr>
-</table>
-
-</div> 
+| ⏳ **Time Management** | 🔄 **Adaptability**      | 👑 **Leadership**          |
+|----------------------|------------------------|----------------------|
+| Prioritize tasks, balance workloads, and meet deadlines consistently. | Learn new technologies quickly and adjust to challenges smoothly. | Take initiative, guide teams, and ensure high-quality outcomes. |
 
 ---
 
-## 🎓 Education:
-- 📍 **Bachelor of Science in Applied Computer Science - University of Macedonia**  
+# 🎓 Education  
+📍 **B.Sc. in Applied Computer Science** – University of Macedonia  
 
 ---
 
-## 📜 Certifications: 
-- ✅ **ASP.NET Core 3.1** – Full Training (*freeCodeCamp*)  
-- ✅ **HubSpot Sales Software** – CRM Fundamentals (*HubSpot Academy*)
+# 📜 Certifications  
+✅ **ASP.NET Core 3.1** – Full Training (*freeCodeCamp*)  
+✅ **HubSpot Sales Software** – CRM Fundamentals (*HubSpot Academy*)  
 
 ---
 
-# **🚀 Projects Portfolio 🛠️**  
+# 🚀 Projects Portfolio  
 
 ## **🏃 Runners App: Scalable Spring Boot API for Running Analytics**  
 🔗 [Runners_App](https://github.com/AngelosFikias0/Runners_App)  
