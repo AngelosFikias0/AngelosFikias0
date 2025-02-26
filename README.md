@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Angelos Fikias | Software Engineer 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Aspiring+Solutions+Architect;Developer+%7C+Problem+Solver;Building+Scalable+%26+Reliable+Systems" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=400&color=FFD700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Aspiring+Solutions+Architect;Developer+%7C+Problem+Solver;Building+Scalable+%26+Reliable+Systems" alt="Typing SVG">
 </p>
 
 ---
@@ -61,7 +61,7 @@
 ## **📊 GitHub Stats**  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelosFikias0&layout=compact&theme=cobalt" alt="Top Languages" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelosFikias0&layout=compact&theme=cobalt" alt="Top Languages" width="55%">
   <img src="https://github-readme-stats.vercel.app/api?username=AngelosFikias0&theme=transparent" alt="GitHub Stats" width="55%">
 </p>
 
@@ -105,7 +105,7 @@
 
 ### **🛠️ Workflow & BPM Automation**  
 - **Tools**: Camunda
-- 
+  
 ---
 
 ## 🌟 Soft Skills  
@@ -141,9 +141,11 @@
 🔗 [Runners_App](https://github.com/AngelosFikias0/Runners_App)  
 📜 **Description**:  
 A high-performance **RESTful API** built with **Spring Boot**, designed for tracking and analyzing running statistics. Optimized for **scalability** with a modular architecture and seamless integration with an **H2 in-memory database**.  
+
 💡 **Key Highlights**:  
 - **Scalable RESTful API** with efficient **CRUD operations**.  
-- **Modular architecture** for easy future expansions.  
+- **Modular architecture** for easy future expansions.
+  
 💻 **Technologies**: `Java`, `Spring Boot`, `Maven`, `H2 Database`  
 
 ---  
@@ -152,11 +154,13 @@ A high-performance **RESTful API** built with **Spring Boot**, designed for trac
 🔗 [Java_Network_Services_Hub](https://github.com/AngelosFikias0/Java_Network_Services_Hub)  
 📜 **Description**:  
 A **modular networking suite** supporting multiple network protocols, featuring a **graphical service launcher**, **real-time logging**, and **multi-threading** for high performance. Integrates **JDBC with PostgreSQL** for structured data storage and analytics.  
+
 💡 **Key Highlights**:  
 - Supports **HTTP, TCP, UDP, and RMI** with multi-threaded execution.  
 - **Graphical Service Manager** for real-time monitoring.  
 - **PostgreSQL-backed logging** for analytics.  
-- **Distributed computing capabilities** with **RMI implementation**.  
+- **Distributed computing capabilities** with **RMI implementation**.
+  
 💻 **Technologies**: `Java`, `Sockets`, `RMI`, `Swing`, `JDBC`, `PostgreSQL`, `Multi-threading`, `Concurrency`, `Distributed Computing`  
 
 ---  
@@ -165,10 +169,12 @@ A **modular networking suite** supporting multiple network protocols, featuring 
 🔗 [Crime_Management_System](https://github.com/AngelosFikias0/Crime_Management_System)  
 📜 **Description**:  
 A **Java-based investigative tool** utilizing **graph theory** for suspect tracking and relationship analysis, powered by **JUNG** for network visualization.  
+
 💡 **Key Highlights**:  
 - **Graph-based suspect analysis** for investigative insights.  
 - **Triangular closure analysis** to suggest hidden connections.  
 - **Interactive visualization** with robust **file handling**.  
+
 💻 **Technologies**: `Java`, `Swing`, `JUNG`, `Graph Theory`, `Data Structures & Algorithms`  
 
 ---  
@@ -177,10 +183,12 @@ A **Java-based investigative tool** utilizing **graph theory** for suspect track
 🔗 [Interactive_Role_Based_Web_App](https://github.com/AngelosFikias0/Interactive_Role_Based_Web_App)  
 📜 **Description**:  
 A **secure and scalable web app** featuring **role-based access control** with CRUD functionalities for user and post management.  
+
 💡 **Key Highlights**:  
 - **Role-based authentication** for users & admins.  
 - **Secure login mechanisms** for data protection.  
 - **Scalable architecture** for long-term usability.  
+
 💻 **Technologies**: `PHP`, `MySQL`, `HTML`, `CSS`, `Apache Server`, `Authentication`  
 
 ---  
@@ -189,10 +197,12 @@ A **secure and scalable web app** featuring **role-based access control** with C
 🔗 [Student_Records_Web_Portal](https://github.com/AngelosFikias0/Student_Records_Web_Portal)  
 📜 **Description**:  
 A **database-driven CRUD application** designed for managing student records with an optimized backend for **reliable database interactions**.  
+
 💡 **Key Highlights**:  
 - **Efficient database operations** with MySQL.  
 - **Backend-frontend integration** using PHP.  
 - **Scalable design** for future analytical features.  
+
 💻 **Technologies**: `PHP`, `MySQL`, `JavaScript`, `HTML`, `CSS`, `Apache Server`  
 
 ---  
@@ -201,9 +211,11 @@ A **database-driven CRUD application** designed for managing student records wit
 🔗 [Python_Text_Editor](https://github.com/AngelosFikias0/Python_Text_Editor)  
 📜 **Description**:  
 A **simple yet functional text editor** built using **Python Tkinter**, supporting file management and font customization.  
+
 💡 **Key Highlights**:  
 - **GUI-based text editor** with essential features.  
 - **Modular architecture** for future enhancements.  
+
 💻 **Technologies**: `Python`, `Tkinter`  
 
 ---  
@@ -212,9 +224,11 @@ A **simple yet functional text editor** built using **Python Tkinter**, supporti
 🔗 [Weather_App](https://github.com/AngelosFikias0/Weather_App)  
 📜 **Description**:  
 A **real-time weather forecasting app** leveraging the **OpenWeatherMap API**, designed for a **responsive and user-friendly UI**.  
+
 💡 **Key Highlights**:  
 - **Live weather data fetching** via API.  
 - **Optimized UI/UX** for both desktop and mobile.  
+
 💻 **Technologies**: `CSS`, `HTML`, `JavaScript`  
 
 ---  
@@ -223,9 +237,11 @@ A **real-time weather forecasting app** leveraging the **OpenWeatherMap API**, d
 🔗 [Data_Structures_and_Algorithms](https://github.com/AngelosFikias0/Data_Structures_and_Algorithms)  
 📜 **Description**:  
 A **comprehensive Java library** implementing **core data structures** and **algorithms**, optimized for performance and clarity.  
+
 💡 **Key Highlights**:  
 - Implements **sorting algorithms, DFS, dynamic programming**, and more.  
 - **Efficient, scalable, and structured codebase**.  
+
 💻 **Technologies**: `Java`, `OOP`, `Algorithms & Data Structures`  
 
 ---  
@@ -234,9 +250,11 @@ A **comprehensive Java library** implementing **core data structures** and **alg
 🔗 [Student_Management_System](https://github.com/AngelosFikias0/Student_Management_System)  
 📜 **Description**:  
 A **desktop-based student management system** utilizing **Java Serialization** for persistent data storage with an intuitive **Swing GUI**.  
+
 💡 **Key Highlights**:  
 - **Data persistence** via Java Serialization.  
 - **User-friendly interface** for student & course management.  
+
 💻 **Technologies**: `Java`, `Swing`, `Java File Handling`, `Java Serialization`, `Java Generics`  
 
 ---  
@@ -245,10 +263,12 @@ A **desktop-based student management system** utilizing **Java Serialization** f
 🔗 [Safe_Car_Insurance_System](https://github.com/AngelosFikias0/Safe_Car_Insurance_System)  
 📜 **Description**:  
 A **simulation system** for managing **car insurance policies & claims**, built using object-oriented design principles.  
+
 💡 **Key Highlights**:  
 - **Developed from system analysis** using **BPMN & UML**.  
 - **Policy and claim management framework** with structured data.  
 - **Scalable architecture** for expansion.  
+
 💻 **Technologies**: `Java`, `UML`, `BPMN`  
 
 ---
