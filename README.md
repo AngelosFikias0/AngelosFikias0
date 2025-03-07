@@ -1,4 +1,4 @@
-<h1 align="center">  🚀 Angelos Fikias | Software Engineer 💻 </h1>
+# 🚀 Angelos Fikias | Software Engineer 💻
 
 <br>
 
@@ -8,26 +8,26 @@
 
 ---
 
-## **👋 Hey there! I'm Angelos Fikias**  
+## 👋 Hey there! I'm Angelos Fikias
 
-🚀 Passionate about **software engineering, system architecture, and data-driven solutions**, I thrive on solving complex problems and building scalable, high-performance applications. Currently, I'm deep-diving into **Spring Boot, cloud computing, and system design** to refine my expertise.  
+🚀 Passionate about **software engineering, system architecture**, and **data-driven solutions**, I thrive on solving complex problems and building scalable, high-performance applications. Currently, I’m deep-diving into **Spring Boot**, **cloud computing**, and **system design** to refine my expertise.
 
-<p>
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="280" align="right">
+<p align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="280">
 </p>
 
-### **💡 A bit about me:**  
+### 💡 A bit about me:
 - 🌱 **Currently Learning**: Spring Boot, AWS, and advanced system design.  
-- 🔭 **Interests**: Software architecture, backend engineering, and cloud computing.
-- 💬 **Ask me about**: Programming, tech trends, or any challenges you're facing!  
-- 📫 **Connect with me**:  
-  - ✉️ [Email](mailto:angelosfikias@gmail.com)  
-  - 💼 [LinkedIn](https://www.linkedin.com/in/angelos-fikias/)  
+- 🔭 **Interests**: Software architecture, backend engineering, cloud computing.
+- 💬 **Ask me about**: Programming, tech trends, or any challenges you're facing!
+- 📫 **Connect with me**:
+  - ✉️ [Email](mailto:angelosfikias@gmail.com)
+  - 💼 [LinkedIn](https://www.linkedin.com/in/angelos-fikias/)
   - 🏆 [LeetCode](https://leetcode.com/u/angelosfikias/)
 
 ---
 
-## **🛠️ Tech Stack & Tools**  
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/-BPMN-FFCC00?style=for-the-badge&logo=gnu-bash&logoColor=black" alt="BPMN" />
 </p>
 
-### **🚀 DevOps & Cloud**  
+### 🚀 **DevOps & Cloud**  
 <p>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
@@ -72,7 +72,7 @@
   <img src="https://img.shields.io/badge/-OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white" alt="OpenStack" />
 </p>
 
-### **🛠️ Development & Tools**  
+### 🛠️ **Development & Tools**  
 <p>
   <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" />
   <img src="https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
@@ -85,7 +85,7 @@
 
 ---
 
-## **📊 GitHub Stats**  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelosFikias0&layout=compact&theme=cobalt" alt="Top Languages" width="36%" style="vertical-align: middle;">
