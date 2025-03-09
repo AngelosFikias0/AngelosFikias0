@@ -112,8 +112,8 @@
 ---
 
 # 📜 Certifications  
-- **ASP.NET Core 3.1** – Full Training (*freeCodeCamp*)  
-- **HubSpot Sales Software** – CRM Fundamentals (*HubSpot Academy*)  
+- **Complete C# Programming Master Class** – C#, ASP.NET (*Udemy*)
+- **HubSpot Sales Software** – CRM Fundamentals (*HubSpot Academy*)
 
 ---
 
