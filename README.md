@@ -95,14 +95,12 @@
 ---
 
 # 🌟 Soft Skills  
-
-| 🚀 **Teamwork**       | 🗣️ **Communication**       | 🧩 **Problem-Solving**     |
-|----------------------|------------------------|----------------------|
-| Collaborate effectively, ensure open communication, and align team efforts. | Simplify complex ideas for both technical and non-technical audiences. | Analyze issues, identify root causes, and implement efficient solutions. |
-
-| ⏳ **Time Management** | 🔄 **Adaptability**      | 👑 **Leadership**          |
-|----------------------|------------------------|----------------------|
-| Prioritize tasks, balance workloads, and meet deadlines consistently. | Learn new technologies quickly and adjust to challenges smoothly. | Take initiative, guide teams, and ensure high-quality outcomes. |
+- **Teamwork**: Collaborate and align with the team.  
+- **Communication**: Explain ideas clearly to all audiences.  
+- **Problem-Solving**: Identify and solve issues efficiently.  
+- **Time Management**: Prioritize tasks and meet deadlines.  
+- **Adaptability**: Quickly learn and adapt to changes.  
+- **Leadership**: Guide teams and drive results.  
 
 ---
 
@@ -112,13 +110,12 @@
 ---
 
 # 📜 Certifications  
-- **Complete C# Programming Master Class** – C#, ASP.NET (*Udemy*)
-- **HubSpot Sales Software** – CRM Fundamentals (*HubSpot Academy*)
+- **Complete C# Programming Master Class** – (*Udemy*)  
+- **HubSpot Sales Software** – CRM Fundamentals (*HubSpot Academy*)  
 
 ---
 
 # 🚀 Projects Portfolio  
-
 ## **🏃 Runners App: Scalable Spring Boot API for Running Analytics**  
 🔗 [Runners_App](https://github.com/AngelosFikias0/Runners_App)  
 
