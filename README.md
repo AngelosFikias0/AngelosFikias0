@@ -115,10 +115,7 @@
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: flex-start;">
-  <h2>🚀 Projects Portfolio</h2>
-  <img src="https://i.gifer.com/Ry6p.gif" width="60" style="margin-left: 10px;">
-</div>
+# 🚀 Projects Portfolio  
 
 ## **🏃 Runners App: Scalable Spring Boot API for Running Analytics**  
 🔗 [Runners_App](https://github.com/AngelosFikias0/Runners_App)  
