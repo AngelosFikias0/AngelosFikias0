@@ -115,13 +115,13 @@
 
 ---
 
-<p align="right">
-  <img src="https://i.gifer.com/Ry6p.gif" width="280">
-</p>
-
 # 🚀 Projects Portfolio  
 ## **🏃 Runners App: Scalable Spring Boot API for Running Analytics**  
 🔗 [Runners_App](https://github.com/AngelosFikias0/Runners_App)  
+
+<p align="right">
+  <img src="https://i.gifer.com/Ry6p.gif" width="280">
+</p>
 
 📜 **Description**:  
 A high-performance **RESTful API** built with **Spring Boot**, designed for tracking and analyzing running statistics. Optimized for **scalability** with a modular architecture and seamless integration with an **H2 in-memory database**.  
