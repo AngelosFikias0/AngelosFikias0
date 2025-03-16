@@ -125,18 +125,18 @@
 
 ---
 
+# 📜 Certifications  
+🎖️ **Complete C# Programming Master Class** – *Udemy*  
+🎖️ **HubSpot Sales Software – CRM Fundamentals** – *HubSpot Academy*  
+
+---
+
 # 📖 Studies & Research  
 ### 📚 **Designing Data-Intensive Applications**  
 📖 *The Big Ideas Behind Reliable, Scalable, and Maintainable Systems*  
 ✍️ **Author:** *Martin Kleppmann*  
 
 🔍 *Studying advanced concepts in distributed systems, database internals, scalability, and data consistency to architect high-performance backend solutions.*  
-
----
-
-# 📜 Certifications  
-🎖️ **Complete C# Programming Master Class** – *Udemy*  
-🎖️ **HubSpot Sales Software – CRM Fundamentals** – *HubSpot Academy*  
 
 ---
 
