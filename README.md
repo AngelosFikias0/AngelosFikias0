@@ -120,22 +120,23 @@
 ---
 
 # 🎓 Education  
-- **B.Sc. in Applied Computer Science** – University of Macedonia  
+### 🎓 **B.Sc. in Applied Computer Science**  
+📍 *University of Macedonia*  
 
 ---
 
-## 📖 Studies & Research  
-### 📚 Designing Data-Intensive Applications  
-*The Big Ideas Behind Reliable, Scalable, and Maintainable Systems*  
-**Author:** Martin Kleppmann  
+# 📖 Studies & Research  
+## 📚 **Designing Data-Intensive Applications**  
 
-🔍 Exploring core principles of distributed systems, database internals, scalability, and data consistency to build high-performance backend architectures.  
+📖 *The Big Ideas Behind Reliable, Scalable, and Maintainable Systems* - **Author:** *Martin Kleppmann*  
+
+🔍 *Deep dive into distributed systems, database internals, scalability, and data consistency to design robust and high-performance backend architectures.*  
 
 ---
 
 # 📜 Certifications  
-- **Complete C# Programming Master Class** – *Udemy*  
-- **HubSpot Sales Software – CRM Fundamentals** – *HubSpot Academy*  
+✅ **Complete C# Programming Master Class** – *Udemy*  
+✅ **HubSpot Sales Software – CRM Fundamentals** – *HubSpot Academy*  
 
 ---
 
