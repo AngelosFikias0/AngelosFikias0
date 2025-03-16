@@ -126,9 +126,8 @@
 ---
 
 # 📖 Studies & Research  
-## 📚 **Designing Data-Intensive Applications**  
 
-📖 *The Big Ideas Behind Reliable, Scalable, and Maintainable Systems* - **Author:** *Martin Kleppmann*  
+📚 **Designing Data-Intensive Applications** : *The Big Ideas Behind Reliable, Scalable, and Maintainable Systems* - **Author:** *Martin Kleppmann*  
 
 🔍 *Deep dive into distributed systems, database internals, scalability, and data consistency to design robust and high-performance backend architectures.*  
 
