@@ -1,4 +1,4 @@
-# 🚀 Angelos Fikias | Software Engineer 💻
+# 💻 Angelos Fikias | Software Engineer 
 
 <br>
 
@@ -17,13 +17,13 @@
 </p>
 
 ### 💡 A bit about me:
-- 🌱 **Currently Learning**: Spring Boot, AWS, and advanced system design.  
-- 🔭 **Interests**: Software architecture, backend engineering, cloud computing.
-- 💬 **Ask me about**: Programming, tech trends, or any challenges you're facing!
+- **Currently Learning**: Spring Boot, AWS, and advanced system design.  
+- **Interests**: Software architecture, backend engineering, cloud computing.
+- **Ask me about**: Programming, tech trends, or any challenges you're facing!
 - 📫 **Connect with me**:
-  - ✉️ [Email](mailto:angelosfikias@gmail.com)
-  - 💼 [LinkedIn](https://www.linkedin.com/in/angelos-fikias/)
-  - 🏆 [LeetCode](https://leetcode.com/u/angelosfikias/)
+  - [Email](mailto:angelosfikias@gmail.com)
+  - [LinkedIn](https://www.linkedin.com/in/angelos-fikias/)
+  - [LeetCode](https://leetcode.com/u/angelosfikias/)
 
 ---
 
@@ -121,8 +121,7 @@
 ---
 
 # 🎓 Education  
-### 🎓 **B.Sc. in Applied Computer Science**  
-📍 *University of Macedonia*  
+### 🎓 **B.Sc. in Applied Computer Science** *University of Macedonia*  
 
 ---
 
@@ -133,11 +132,8 @@
 ---
 
 # 📖 Studies & Research  
-### 📚 **Designing Data-Intensive Applications**  
-📖 *The Big Ideas Behind Reliable, Scalable, and Maintainable Systems*  
-✍️ **Author:** *Martin Kleppmann*  
-
-🔍 *Studying advanced concepts in distributed systems, database internals, scalability, and data consistency to architect high-performance backend solutions.*  
+### **Designing Data-Intensive Applications** *The Big Ideas Behind Reliable, Scalable, and Maintainable Systems* **Author:** *Martin Kleppmann*  
+*Studying advanced concepts in distributed systems, database internals, scalability, and data consistency to architect high-performance backend solutions.*  
 
 ---
 
