@@ -17,7 +17,7 @@
 </p>
 
 ### 💡 A bit about me:
-- **Currently Learning**: Spring Boot, AWS, and advanced system design.  
+- **Currently Working On**: Spring Boot, AWS, and advanced system design.  
 - **Interests**: Software architecture, backend engineering, cloud computing.
 - **Ask me about**: Programming, tech trends, or any challenges you're facing!
 - 📫 **Connect with me**:
