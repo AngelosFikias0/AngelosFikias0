@@ -27,77 +27,57 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## 🛠️ Tech Stack & Tools
 
-<div align="center">
-
-### 🚀 **Main Tech Stack**  
-<p>
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
+### 🚀 Main Tech Stack
+- ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-### 🎨 **Frontend Development**  
-<p>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+### 🎨 Frontend Development
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-### ⚙️ **Backend Development**  
-<p>
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-</p>
+### ⚙️ Backend Development
+- ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+- ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
-### 🗄️ **Databases**  
-<p>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/-H2_DB-589636?style=for-the-badge&logo=h2&logoColor=white" alt="H2 Database" />
-  <img src="https://img.shields.io/badge/-NoSQL-008000?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL" />
-</p>
+### 🗄️ Databases
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+- ![H2 Database](https://img.shields.io/badge/-H2_DB-589636?style=for-the-badge&logo=h2&logoColor=white)
+- ![NoSQL](https://img.shields.io/badge/-NoSQL-008000?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-### 🔧 **Modeling & Architecture**  
-<p>
-  <img src="https://img.shields.io/badge/-UML-8CA1AF?style=for-the-badge&logo=uml&logoColor=white" alt="UML" />
-  <img src="https://img.shields.io/badge/-BPMN-FFCC00?style=for-the-badge&logo=gnu-bash&logoColor=black" alt="BPMN" />
-</p>
+### 🔧 Modeling & Architecture
+- ![UML](https://img.shields.io/badge/-UML-8CA1AF?style=for-the-badge&logo=uml&logoColor=white)
+- ![BPMN](https://img.shields.io/badge/-BPMN-FFCC00?style=for-the-badge&logo=gnu-bash&logoColor=black)
 
 ---
 
-### ☁️ **DevOps & Cloud**  
-<p>
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/-OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white" alt="OpenStack" />
-</p>
+### ☁️ DevOps & Cloud
+- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+- ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
-### 🛠️ **Development & Tools**  
-<p>
-  <img src="https://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white" alt="Eclipse" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-</div>
+### 🛠️ Development & Tools
+- ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+- ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -140,151 +120,167 @@ In-depth exploration of distributed systems, database internals, data consistenc
 
 ---
 
-# 🚀 Projects Portfolio  
+# 🚀 Projects Portfolio: Selected Highlights  
 
-## **🏃 Runners App: Scalable Spring Boot API for Running Analytics**  
+---
+
+## 📱 TikiPark – Mobile Android Parking App in Java  
+🔗 [TikiPark Repository](https://github.com/AngelosFikias0/TikiPark)  
+
+**Description:**  
+Smart Android parking assistant app developed in **Java** with a **PHP/MySQL backend**, featuring **secure role-based authentication**, **real-time parking slot management and booking**, **offline caching via SQLite**, and **Google Maps API integration** for seamless urban parking experience.
+
+**Key Highlights:**  
+- Secure login with role-based authorization (Admin/User)  
+- Real-time parking availability and booking system  
+- Offline support through local SQLite caching  
+- Interactive maps using Google Maps API  
+- Wallet management implemented, designed for future Stripe payment integration  
+- **Impact:** Implemented offline caching with SQLite to ensure seamless user experience despite intermittent network connectivity.
+
+**Technologies:** `Java`, `Android SDK`, `PHP`, `MySQL`, `SQLite`, `Google Maps API`, `Apache Server`, `Authentication`, `ACID compliance`
+
+---
+
+## 🏃 Runners App – Scalable Spring Boot API for Running Analytics  
 🔗 [Runners_App](https://github.com/AngelosFikias0/Runners_App)  
 
-**Description**:  
-A high-performance **RESTful API** built with **Spring Boot**, designed for tracking and analyzing running statistics. Optimized for **scalability** with a modular architecture and seamless integration with an **H2 in-memory database**.  
+**Description:**  
+High-performance **RESTful API** built with **Spring Boot**, designed for tracking and analyzing running statistics. Optimized for scalability with modular architecture and integration with an **H2 in-memory database** for testing.
 
-**Key Highlights**:  
-- **Scalable RESTful API** with efficient **CRUD operations**.  
-- **Modular architecture** for easy future expansions.
-  
-**Technologies**: `Java`, `Spring Boot`, `Maven`, `H2 Database`  
+**Key Highlights:**  
+- Efficient, scalable RESTful API with comprehensive CRUD functionality  
+- Modular design facilitating future enhancements  
+- Clean and maintainable codebase  
+- **Impact:** Designed modular architecture enabling future features to be added with minimal disruption.
 
----  
+**Technologies:** `Java`, `Spring Boot`, `Maven`, `H2 Database`  
 
-## **🌐 Java Network Services Hub: Multi-Protocol Networking with Secure Logging**  
+---
+
+## 🌐 Java Network Services Hub – Multi-Protocol Networking with Secure Logging  
 🔗 [Java_Network_Services_Hub](https://github.com/AngelosFikias0/Java_Network_Services_Hub)  
 
-**Description**:  
-A **modular networking suite** supporting multiple network protocols, featuring a **graphical service launcher**, **real-time logging**, and **multi-threading** for high performance. Integrates **JDBC with PostgreSQL** for structured data storage and analytics.  
+**Description:**  
+Robust, modular networking suite supporting multiple protocols (**HTTP, TCP, UDP, RMI**), featuring multi-threaded service execution, real-time graphical monitoring, and structured logging using **JDBC with PostgreSQL**.
 
-**Key Highlights**:  
-- Supports **HTTP, TCP, UDP, and RMI** with multi-threaded execution.  
-- **Graphical Service Manager** for real-time monitoring.  
-- **PostgreSQL-backed logging** for analytics.  
-- **Distributed computing capabilities** with **RMI implementation**.
-  
-**Technologies**: `Java`, `Sockets`, `RMI`, `Swing`, `JDBC`, `PostgreSQL`, `Multi-threading`, `Concurrency`, `Distributed Computing`  
+**Key Highlights:**  
+- Multi-protocol support with concurrency and distributed computing  
+- Real-time graphical service manager  
+- Persistent PostgreSQL logging for analytics  
+- Secure, scalable architecture  
+- **Impact:** Utilized multi-threading and concurrency control to handle simultaneous protocol services efficiently.
 
----  
+**Technologies:** `Java`, `Sockets`, `RMI`, `Swing`, `JDBC`, `PostgreSQL`, `Multi-threading`, `Distributed Computing`  
 
-## **🕵️ Crime Management System: Graph-Based Suspect Analysis in Java**  
+---
+
+## 🕵️ Crime Management System – Graph-Based Suspect Analysis Tool  
 🔗 [Crime_Management_System](https://github.com/AngelosFikias0/Crime_Management_System)  
 
-**Description**:  
-A **Java-based investigative tool** utilizing **graph theory** for suspect tracking and relationship analysis, powered by **JUNG** for network visualization.  
+**Description:**  
+Java-based investigative application leveraging **graph theory** and the **JUNG library** to analyze suspect relationships and uncover hidden connections through **triangular closure**.
 
-**Key Highlights**:  
-- **Graph-based suspect analysis** for investigative insights.  
-- **Triangular closure analysis** to suggest hidden connections.  
-- **Interactive visualization** with robust **file handling**.  
+**Key Highlights:**  
+- Graph visualization for suspect network analysis  
+- Advanced relationship inference using graph algorithms  
+- Interactive UI with file handling and data persistence  
+- **Impact:** Applied graph algorithms to reveal hidden suspect connections, improving investigative insight accuracy.
 
-**Technologies**: `Java`, `Swing`, `JUNG`, `Graph Theory`, `Data Structures & Algorithms`  
+**Technologies:** `Java`, `Swing`, `JUNG`, `Graph Theory`, `Data Structures & Algorithms`, `Serialization`, `Generics`
 
----  
+---
 
-## **🔑 Interactive Role-Based Web App: Secure Authentication & User Management**  
+## 🔑 Interactive Role-Based Web App – Secure Authentication & User Management  
 🔗 [Interactive_Role_Based_Web_App](https://github.com/AngelosFikias0/Interactive_Role_Based_Web_App)  
 
-**Description**:  
-A **secure and scalable web app** featuring **role-based access control** with CRUD functionalities for user and post management.  
+**Description:**  
+Secure, scalable web application with **role-based access control**, implementing user and post CRUD operations alongside strong authentication mechanisms.
 
-**Key Highlights**:  
-- **Role-based authentication** for users & admins.  
-- **Secure login mechanisms** for data protection.  
-- **Scalable architecture** for long-term usability.  
+**Key Highlights:**  
+- Role-based authentication for different user levels  
+- Secure login and session management  
+- Clean and maintainable PHP/MySQL backend  
+- **Impact:** Implemented robust role-based access control to safeguard sensitive features and user data.
 
-**Technologies**: `PHP`, `MySQL`, `HTML`, `CSS`, `Apache Server`, `Authentication`  
+**Technologies:** `PHP`, `MySQL`, `HTML`, `CSS`, `Apache Server`, `Authentication`, `Blog Features` 
 
----  
+---
 
-## **📚 Student Records Web Portal: Scalable CRUD System with PHP & MySQL**  
+## 📚 Student Records Web Portal – Scalable CRUD System  
 🔗 [Student_Records_Web_Portal](https://github.com/AngelosFikias0/Student_Records_Web_Portal)  
 
-**Description**:  
-A **database-driven CRUD application** designed for managing student records with an optimized backend for **reliable database interactions**.  
+**Description:**  
+Database-driven web application designed for efficient student record management with a PHP backend optimized for reliable MySQL operations.
 
-**Key Highlights**:  
-- **Efficient database operations** with MySQL.  
-- **Backend-frontend integration** using PHP.  
-- **Scalable design** for future analytical features.  
+**Key Highlights:**  
+- Robust CRUD operations with MySQL  
+- Backend/frontend integration for seamless user experience  
+- Scalable design for future data analytics features  
+- **Impact:** Developed scalable backend architecture to support expanding data and future analytics integration.
 
-**Technologies**: `PHP`, `MySQL`, `JavaScript`, `HTML`, `CSS`, `Apache Server`  
+**Technologies:** `PHP`, `MySQL`, `JavaScript`, `HTML`, `CSS`, `Apache Server`
 
----  
+---
 
-## **📝 Python Text Editor: Lightweight Tkinter-Based Desktop Application**  
-🔗 [Python_Text_Editor](https://github.com/AngelosFikias0/Python_Text_Editor)  
-
-**Description**:  
-A **simple yet functional text editor** built using **Python Tkinter**, supporting file management and font customization.  
-
-**Key Highlights**:  
-- **GUI-based text editor** with essential features.  
-- **Modular architecture** for future enhancements.  
-
-**Technologies**: `Python`, `Tkinter`  
-
----  
-
-## **🌦️ Weather App: Real-Time Forecast with OpenWeatherMap API**  
-🔗 [Weather_App](https://github.com/AngelosFikias0/Weather_App)  
-
-**Description**:  
-A **real-time weather forecasting app** leveraging the **OpenWeatherMap API**, designed for a **responsive and user-friendly UI**.  
-
-**Key Highlights**:  
-- **Live weather data fetching** via API.  
-- **Optimized UI/UX** for both desktop and mobile.  
-
-**Technologies**: `CSS`, `HTML`, `JavaScript`  
-
----  
-
-## **🧩 Java Data Structures & Algorithms Library: Optimized Computational Solutions**  
+## 🧩 Java Data Structures & Algorithms Library – Optimized Implementations  
 🔗 [Data_Structures_and_Algorithms](https://github.com/AngelosFikias0/Data_Structures_and_Algorithms)  
 
-**Description**:  
-A **comprehensive Java library** implementing **core data structures** and **algorithms**, optimized for performance and clarity.  
+**Description:**  
+Comprehensive Java library implementing core data structures and algorithms, optimized for performance, clarity, and real-world applicability.
 
-**Key Highlights**:  
-- Implements **sorting algorithms, DFS, dynamic programming**, and more.  
-- **Efficient, scalable, and structured codebase**.  
+**Key Highlights:**  
+- Includes sorting algorithms, graph traversal (DFS), dynamic programming techniques  
+- Clean, modular, and scalable codebase for educational and practical use  
+- **Impact:** Optimized algorithm implementations for improved runtime efficiency and memory usage.
 
-**Technologies**: `Java`, `OOP`, `Algorithms & Data Structures`  
+**Technologies:** `Java`, `OOP`, `Algorithms & Data Structures`  
 
----  
+---
 
-## **🎓 Student Management System: Java Desktop App with Persistent Storage**  
-🔗 [Student_Management_System](https://github.com/AngelosFikias0/Student_Management_System)  
-
-**Description**:  
-A **desktop-based student management system** utilizing **Java Serialization** for persistent data storage with an intuitive **Swing GUI**.  
-
-**Key Highlights**:  
-- **Data persistence** via Java Serialization.  
-- **User-friendly interface** for student & course management.  
-
-**Technologies**: `Java`, `Swing`, `Java File Handling`, `Java Serialization`, `Java Generics`  
-
----  
-
-## **🚗 Safe Car Insurance System: Policy & Claim Management with OOP**  
+## 🚗 Safe Car Insurance System – Policy & Claim Management Simulation  
 🔗 [Safe_Car_Insurance_System](https://github.com/AngelosFikias0/Safe_Car_Insurance_System)  
 
-**Description**:  
-A **simulation system** for managing **car insurance policies & claims**, built using object-oriented design principles.  
+**Description:**  
+Simulation system for managing car insurance policies and claims, developed with strong object-oriented principles and designed from comprehensive system analysis using **BPMN** and **UML**.
 
-**Key Highlights**:  
-- **Developed from system analysis** using **BPMN & UML**.  
-- **Policy and claim management framework** with structured data.  
-- **Scalable architecture** for expansion.  
+**Key Highlights:**  
+- Policy and claim lifecycle management  
+- System modeled with UML diagrams and BPMN workflows  
+- Scalable architecture for potential extensions  
+- **Impact:** Applied BPMN and UML to model complex workflows, enhancing system clarity and maintainability.
 
-**Technologies**: `Java`, `UML`, `BPMN`  
+**Technologies:** `Java`, `UML`, `BPMN`, `Visual Paradigm`, `Camunda`  
+
+---
+
+## 🌦️ Weather App – Real-Time Forecast Using OpenWeatherMap API  
+🔗 [Weather_App](https://github.com/AngelosFikias0/Weather_App)  
+
+**Description:**  
+Responsive web app delivering real-time weather forecasts by consuming the **OpenWeatherMap API** with an optimized UI for desktop and mobile.
+
+**Key Highlights:**  
+- Live weather data fetching  
+- Responsive and clean UI/UX design  
+- **Impact:** Optimized API integration to deliver fast, accurate forecasts with minimal latency.
+
+**Technologies:** `JavaScript`, `HTML`, `CSS`, `OpenWeatherMap API integration`
+
+---
+
+## 📝 Python Text Editor – Lightweight Tkinter Desktop App  
+🔗 [Python_Text_Editor](https://github.com/AngelosFikias0/Python_Text_Editor)  
+
+**Description:**  
+Minimalistic, GUI-based text editor built with **Python Tkinter**, supporting basic file operations and font customization.
+
+**Key Highlights:**  
+- Simple, intuitive user interface  
+- Modular code for future feature additions  
+- **Impact:** Designed modular architecture enabling easy addition of new features and customization.
+
+**Technologies:** `Python`, `Tkinter`  
 
 ---
 
