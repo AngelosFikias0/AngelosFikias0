@@ -116,7 +116,7 @@ High-performance **RESTful API** built with **Spring Boot**, designed for tracki
 - Clean and maintainable codebase  
 - **Impact:** Designed modular architecture enabling future features to be added with minimal disruption.
 
-**Technologies:** `Java`, `Spring Boot`, `Maven`, `H2 Database`  
+**Technologies:** `Java`, `REST APIs`,`Spring Boot`, `Maven`, `H2 Database`  
 
 ---
 
