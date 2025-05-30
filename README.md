@@ -83,7 +83,7 @@ In-depth exploration of distributed systems, database internals, data consistenc
 ---
 
 # 🎤 Conferences
-**JPrime** (Sofia, Bulgaria) • **TechSaloniki** (Thessaloniki, Greece)
+**JPrime** (Sofia, Bulgaria) • **TechSaloniki** (Thessaloniki, Greece) • **DevOps and Cloud** (Accenture, Thessaloniki) • **Introduction to Blockchain** (IEEE, University of Macedonia)
 
 ---
 
