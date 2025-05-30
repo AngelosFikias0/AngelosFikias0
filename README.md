@@ -70,7 +70,7 @@ Focused on information systems, software engineering, and applied computing.
 ---
 
 # 📜 Certifications  
-- **Complete C# Programming Master Class** – *Udemy*  
+- **Complete C# Programming Masterclass** – *Udemy*  
 - **HubSpot Sales Software – CRM Fundamentals** – *HubSpot Academy*
 
 ---
@@ -79,6 +79,11 @@ Focused on information systems, software engineering, and applied computing.
 ### **Designing Data-Intensive Applications**  
 **Author:** *Martin Kleppmann*  
 In-depth exploration of distributed systems, database internals, data consistency, and scalability. Focused on building reliable, high-performance backend architectures. 
+
+---
+
+# 🎤 Conferences
+**JPrime** (Sofia, Bulgaria) • **TechSaloniki** (Thessaloniki, Greece)
 
 ---
 
