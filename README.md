@@ -117,12 +117,13 @@ Smart Android parking assistant app developed in **Java** with a **PHP/MySQL bac
 High-performance **RESTful API** built with **Spring Boot**, designed for tracking and analyzing running statistics. Optimized for scalability with modular architecture and integration with an **H2 in-memory database** for testing.
 
 **Key Highlights:**  
-- Efficient, scalable RESTful API with comprehensive CRUD functionality  
+- Efficient, scalable RESTful API with comprehensive CRUD functionality
+- Spring MVC Architecture – Clean separation of controller, service, and data layers for testability and scalability.  
 - Modular design facilitating future enhancements  
 - Clean and maintainable codebase  
 - **Impact:** Designed modular architecture enabling future features to be added with minimal disruption.
 
-**Technologies:** `Java`, `REST APIs`, `Spring Boot`, `Maven`, `H2 Database`  
+**Technologies:** `Java`, `REST APIs`, `Spring Boot`, `Maven`, `H2 Database`, `MVC`  
 
 ---
 
