@@ -70,8 +70,14 @@ Focused on information systems, software engineering, and applied computing.
 ---
 
 # 📜 Certifications  
-- **Complete C# Programming Masterclass** – *Udemy*  
+- **Complete C# Programming Masterclass** – *Udemy*
+- **ASP.NET Core 3.1 – Comprehensive Training Completed** – *freeCodeCamp*  
 - **HubSpot Sales Software – CRM Fundamentals** – *HubSpot Academy*
+
+---
+
+# 🎤 Conferences
+**JPrime** (Sofia, Bulgaria) • **TechSaloniki** (Thessaloniki, Greece) • **DevOps and Cloud** (Accenture, Thessaloniki) • **Introduction to Blockchain** (IEEE, University of Macedonia)
 
 ---
 
@@ -79,11 +85,6 @@ Focused on information systems, software engineering, and applied computing.
 ### **Designing Data-Intensive Applications**  
 **Author:** *Martin Kleppmann*  
 In-depth exploration of distributed systems, database internals, data consistency, and scalability. Focused on building reliable, high-performance backend architectures. 
-
----
-
-# 🎤 Conferences
-**JPrime** (Sofia, Bulgaria) • **TechSaloniki** (Thessaloniki, Greece) • **DevOps and Cloud** (Accenture, Thessaloniki) • **Introduction to Blockchain** (IEEE, University of Macedonia)
 
 ---
 
