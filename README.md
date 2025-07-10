@@ -12,10 +12,6 @@
 
 🚀 Passionate about **system architecture, infrastructure** and **data-driven solutions**. I thrive on solving complex problems and building scalable, high-performance applications. Currently, I’m deep-diving into **devops**, **cloud computing**, and **full-stack development** to refine my expertise.
 
-<p align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="280">
-</p>
-
 ### 📫 **Connect with me**:
   - [Email](mailto:angelosfikias@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/angelos-fikias/)
@@ -249,7 +245,7 @@ Minimalistic, GUI-based text editor built with **Python Tkinter**, supporting ba
 ---
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/8720e34720788284c87a51e1e438e814c756e197586d03148c53ab821d73994a/68747470733a2f2f632e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966" width="500" />
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500" />
 </p>
 
 ---
