@@ -249,15 +249,6 @@ Minimalistic, GUI-based text editor built with **Python Tkinter**, supporting ba
 </p>
 
 ---
-## **Let's Connect and Collaborate! 🤝**  
-
-I'm passionate about technology and always open to new opportunities, discussions, and collaborations. Whether it's brainstorming project ideas, diving into the latest tech trends, or just geeking out over code—let’s connect!  
-
-📧 **Email**: [angelosfikias@gmail.com](mailto:angelosfikias@gmail.com)  
-🔗 **LinkedIn**: [Angelos Fikias](https://www.linkedin.com/in/angelos-fikias/)  
-⚡ **LeetCode**: [angelosfikias](https://leetcode.com/u/angelosfikias/)  
-
----
 
 <p align="center">
   <i>Let’s build, innovate, and create something extraordinary together!</i>
