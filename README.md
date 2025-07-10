@@ -10,7 +10,7 @@
 
 ## 👋 Hey there! I'm Angelos Fikias
 
-🚀 Passionate about **system architecture, infrastructure** and **data-driven solutions**, I thrive on solving complex problems and building scalable, high-performance applications. Currently, I’m deep-diving into **devops**, **cloud computing**, and **full-stack development** to refine my expertise.
+🚀 Passionate about **system architecture, infrastructure** and **data-driven solutions**. I thrive on solving complex problems and building scalable, high-performance applications. Currently, I’m deep-diving into **devops**, **cloud computing**, and **full-stack development** to refine my expertise.
 
 <p align="right">
   <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="280">
