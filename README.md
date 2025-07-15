@@ -245,12 +245,6 @@ Minimalistic, GUI-based text editor built with **Python Tkinter**, supporting ba
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500" />
-</p>
-
----
-
-<p align="center">
   <i>Let’s build, innovate, and create something extraordinary together!</i>
   <br>
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="120">
