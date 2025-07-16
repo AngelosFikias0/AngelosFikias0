@@ -72,13 +72,6 @@ Focused on information systems, software engineering, and applied computing.
 
 ---
 
-# 📖 Studies & Research  
-### **Designing Data-Intensive Applications**  
-**Author:** *Martin Kleppmann*  
-In-depth exploration of distributed systems, database internals, data consistency, and scalability. Focused on building reliable, high-performance backend architectures. 
-
----
-
 # 🚀 Projects Portfolio: Selected Highlights  
 
 ---
