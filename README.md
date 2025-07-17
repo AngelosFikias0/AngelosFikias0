@@ -15,7 +15,6 @@
 ### 📫 **Connect with me**:
   - [Email](mailto:angelosfikias@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/angelos-fikias/)
-  - [LeetCode](https://leetcode.com/u/angelosfikias/)
 
 ---
 
@@ -43,13 +42,7 @@
 
 ---
 
-# 🌟 Soft Skills  
-- **Teamwork**: Collaborate and align with the team.  
-- **Communication**: Explain ideas clearly to all audiences.  
-- **Problem-Solving**: Identify and solve issues efficiently.  
-- **Time Management**: Prioritize tasks and meet deadlines.  
-- **Adaptability**: Quickly learn and adapt to changes.  
-- **Leadership**: Guide teams and drive results.  
+# 🌟 Experience
 
 ---
 
