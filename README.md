@@ -10,7 +10,7 @@
 
 ## 👋 Hey there! I'm Angelos Fikias
 
-🚀 Passionate about **system architecture, infrastructure** and **data-driven solutions**. I thrive on solving complex problems and building scalable, high-performance applications. Currently, I’m deep-diving into **devops**, **cloud computing**, and **full-stack development** to refine my expertise.
+🚀 Passionate about system architecture, infrastructure, and data-driven solutions. I thrive on solving complex problems and building scalable, high-performance applications. Currently deep-diving into DevOps, cloud computing, and full-stack development to sharpen my expertise and expand my impact.
 
 ### 📫 **Connect with me**:
   - [Email](mailto:angelosfikias@gmail.com)
@@ -153,37 +153,6 @@ Secure, scalable web application with **role-based access control**, implementin
 
 ---
 
-## 📚 Student Records Web Portal – Scalable CRUD System  
-🔗 [Student_Records_Web_Portal](https://github.com/AngelosFikias0/Student_Records_Web_Portal)  
-
-**Description:**  
-Database-driven web application designed for efficient student record management with a PHP backend optimized for reliable MySQL operations.
-
-**Key Highlights:**  
-- Robust CRUD operations with MySQL  
-- Backend/frontend integration for seamless user experience  
-- Scalable design for future data analytics features  
-- **Impact:** Developed scalable backend architecture to support expanding data and future analytics integration.
-
-**Technologies:** `PHP`, `MySQL`, `JavaScript`, `HTML`, `CSS`, `Apache Server`
-
----
-
-## 🧩 Java Data Structures & Algorithms Library – Optimized Implementations  
-🔗 [Data_Structures_and_Algorithms](https://github.com/AngelosFikias0/Data_Structures_and_Algorithms)  
-
-**Description:**  
-Comprehensive Java library implementing core data structures and algorithms, optimized for performance, clarity, and real-world applicability.
-
-**Key Highlights:**  
-- Includes sorting algorithms, graph traversal (DFS), dynamic programming techniques  
-- Clean, modular, and scalable codebase for educational and practical use  
-- **Impact:** Optimized algorithm implementations for improved runtime efficiency and memory usage.
-
-**Technologies:** `Java`, `OOP`, `Algorithms & Data Structures`  
-
----
-
 ## 🚗 Safe Car Insurance System – Policy & Claim Management Simulation  
 🔗 [Safe_Car_Insurance_System](https://github.com/AngelosFikias0/Safe_Car_Insurance_System)  
 
@@ -197,36 +166,6 @@ Simulation system for managing car insurance policies and claims, developed with
 - **Impact:** Applied BPMN and UML to model complex workflows, enhancing system clarity and maintainability.
 
 **Technologies:** `Java`, `UML`, `BPMN`, `Visual Paradigm`, `Camunda`  
-
----
-
-## 🌦️ Weather App – Real-Time Forecast Using OpenWeatherMap API  
-🔗 [Weather_App](https://github.com/AngelosFikias0/Weather_App)  
-
-**Description:**  
-Responsive web app delivering real-time weather forecasts by consuming the **OpenWeatherMap API** with an optimized UI for desktop and mobile.
-
-**Key Highlights:**  
-- Live weather data fetching  
-- Responsive and clean UI/UX design  
-- **Impact:** Optimized API integration to deliver fast, accurate forecasts with minimal latency.
-
-**Technologies:** `JavaScript`, `HTML`, `CSS`, `OpenWeatherMap API integration`
-
----
-
-## 📝 Python Text Editor – Lightweight Tkinter Desktop App  
-🔗 [Python_Text_Editor](https://github.com/AngelosFikias0/Python_Text_Editor)  
-
-**Description:**  
-Minimalistic, GUI-based text editor built with **Python Tkinter**, supporting basic file operations and font customization.
-
-**Key Highlights:**  
-- Simple, intuitive user interface  
-- Modular code for future feature additions  
-- **Impact:** Designed modular architecture enabling easy addition of new features and customization.
-
-**Technologies:** `Python`, `Tkinter`  
 
 ---
 
