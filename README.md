@@ -43,7 +43,7 @@ Currently focused on mastering **DevOps**, **Cloud Computing**, and **Full-Stack
 
 ---
 
-# 🌟 Experience
+# 💼 Experience
 
 ---
 
