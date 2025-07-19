@@ -11,7 +11,7 @@
 ## 👋 Hey there! I'm Angelos Fikias
 
 🚀 I'm a systems-minded engineer passionate about architecture, infrastructure, and data-driven solutions. I thrive on turning complex problems into elegant, scalable, and high-performance systems. 
-Currently focused on mastering **DevOps**, **Cloud Computing**, and **Full-Stack Development** to deliver production-grade solutions end-to-end.
+Currently focused on mastering **Full-Stack Development**, **Cloud Computing**, and **DevOps** to deliver production-grade solutions end-to-end.
 
 ### 📫 **Connect with me**:
   - [Email](mailto:angelosfikias@gmail.com)
