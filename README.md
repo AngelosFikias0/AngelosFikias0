@@ -1,4 +1,4 @@
-# 💻 Angelos Fikias |  DevOps Engineering | Cloud Infrastructure | Full-Stack Development 
+# 💻 Angelos Fikias
 
 <br>
 
