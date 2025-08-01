@@ -49,17 +49,17 @@ Currently focused on mastering **Full-Stack Development**, **DevOps** and **Clou
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
-## 🛠️ DevOps Engineer Intern  
+### 🛠️ DevOps Engineer Intern  
 **Dataviva**, Thessaloniki — *10/2025 to 12/2025*  
 Focus: DevOps, Cloud Infrastructure, Automation, CI/CD, Software Development
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
-## **B.Sc. in Applied Computer Science**  
+### **B.Sc. in Applied Computer Science**  
 **University of Macedonia**, 2022–2026  
 GPA: 7.34 / 10  
 Focus: Information Systems, Software Engineering, Applied Computing
@@ -67,14 +67,14 @@ Focus: Information Systems, Software Engineering, Applied Computing
 
 ---
 
-# 📜 Certifications  
+## 📜 Certifications  
 - **Complete C# Programming Masterclass** – *Udemy*
 - **ASP.NET Core 3.1 – Comprehensive Training Completed** – *freeCodeCamp*  
 - **HubSpot Sales Software – CRM Fundamentals** – *HubSpot Academy*
 
 ---
 
-# 🎤 Conferences
+## 🎤 Conferences
 **JPrime** (Sofia, Bulgaria) • **TechSaloniki** (Thessaloniki, Greece) • **DevOps and Cloud** (Accenture, Thessaloniki) • **Introduction to Blockchain** (IEEE, University of Macedonia)
 
 ---
