@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=2000&pause=300&color=800080&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Angelos+Fikias;Full-Stack+Devops+Cloud;Building+and+Deploying+Scalable+Systems" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=2000&pause=300&color=800080&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Devops+Cloud;Building+and+Deploying+Scalable+Systems" alt="Typing SVG"/>
 </p>
 
 ---
