@@ -10,8 +10,8 @@
 
 ## 👋 Hey there! I'm Angelos Fikias
 
-🚀 I'm a systems-minded engineer passionate about architecture, infrastructure, and data-driven solutions. I thrive on turning complex problems into elegant, scalable, and high-performance systems.  
-Currently focused on mastering **Full-Stack Development**, **DevOps**, and **Cloud Computing** to deliver production-grade solutions end-to-end.
+🚀 I'm a systems-minded engineer passionate about architecture, infrastructure, and data-driven solutions. I thrive on turning complex problems into elegant, scalable and high-performance systems.  
+Currently focused on mastering **Full-Stack Development**, **DevOps** and **Cloud Computing** to deliver production-grade solutions end-to-end.
 
 ---
 
