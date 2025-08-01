@@ -10,7 +10,7 @@
 
 ## 👋 Hey there! I'm Angelos Fikias
 
-🚀 I'm a systems-thinker blending software engineering, cloud, and DevOps to deliver scalable and resilient applications with a focus on clean architecture and real-world performance.
+🚀 I'm a systems-thinker blending Software Engineering, Cloud, and DevOps to deliver scalable and resilient applications with a focus on clean architecture and real-world performance.
 Currently focused on mastering **Full-Stack Development**, **DevOps** and **Cloud Computing** to deliver production-grade solutions end-to-end.
 
 ### ⚡ What I Do
