@@ -193,19 +193,9 @@ Simulation system for managing car insurance policies and claims, developed with
 
 ---
 <div align="center">
-
   <!-- GitHub Trophies -->
   <img 
     src="https://github-profile-trophy.vercel.app/?username=AngelosFikias0&theme=tokyonight&layout=compact&margin-w=10&no-bg=true&no-frame=true" 
     alt="GitHub Trophies"
   />
-
-  <br><br>
-
-  <!-- Visitor Badge -->
-  <img 
-    src="https://visitor-badge.laobi.icu/badge?page_id=AngelosFikias0.AngelosFikias0" 
-    alt="Visitor Badge"
-  />
-
 </div>
