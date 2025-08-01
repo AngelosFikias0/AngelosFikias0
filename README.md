@@ -51,8 +51,6 @@ Currently focused on mastering **Full-Stack Development**, **DevOps** and **Clou
 **Dataviva**, Thessaloniki — *10/2025 to 12/2025*  
 Focus: DevOps, Cloud Infrastructure, Automation, CI/CD, Software Development
 
-- 
-
 ---
 
 # 🎓 Education
@@ -185,4 +183,9 @@ Simulation system for managing car insurance policies and claims, developed with
   <i>Let’s build, innovate, and create something extraordinary together!</i>
   <br>
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="120">
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AngelosFikias0&theme=gruvbox&margin-w=10&no-bg=true&no-frame=true" />
 </p>
