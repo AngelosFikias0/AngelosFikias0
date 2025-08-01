@@ -77,7 +77,7 @@ Focus: Information Systems, Software Engineering, Applied Computing
 <ul>
   <li><strong>Complete C# Programming Masterclass</strong> – <em>Udemy</em>  
   </li>
-  <li><strong>ASP.NET Core 3.1 – Comprehensive Training Completed</strong> – <em>YouTube</em>  
+  <li><strong>ASP.NET Core 3.1 – Comprehensive Training Completed</strong> – <em>freeCodeCamp</em>  
   </li>
   <li><strong>HubSpot Sales Software – CRM Fundamentals</strong> – <em>HubSpot Academy</em>  
   </li>
