@@ -76,13 +76,10 @@ Focus: Information Systems, Software Engineering, Applied Computing
 ## 📜 Certifications  
 <ul>
   <li><strong>Complete C# Programming Masterclass</strong> – <em>Udemy</em>  
-    <a href="https://www.udemy.com/certificate/UC-213fa1b7-c6c5-4afe-832d-bd9e499739d1/" style="color: inherit; text-decoration: none;">🔗 Certificate</a>
   </li>
   <li><strong>ASP.NET Core 3.1 – Comprehensive Training Completed</strong> – <em>YouTube</em>  
-    <a href="https://www.youtube.com/watch?v=C5cnZ-gZy2I" style="color: inherit; text-decoration: none;">🔗 Video</a>
   </li>
   <li><strong>HubSpot Sales Software – CRM Fundamentals</strong> – <em>HubSpot Academy</em>  
-    <a href="https://academy.hubspot.com/courses/hubspot-sales-hub-software" style="color: inherit; text-decoration: none;">🔗 Course</a>
   </li>
 </ul>
 
