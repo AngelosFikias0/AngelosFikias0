@@ -44,7 +44,7 @@ Currently focused on mastering **Full-Stack Development**, **DevOps** and **Clou
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AngelosFikias0&theme=radical&layout=compact&margin-w=10&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AngelosFikias0&theme=tokyonight&layout=compact&margin-w=10&no-bg=true&no-frame=true" />
 </p>
 
 ---
