@@ -10,8 +10,10 @@
 
 ## 👋 Hey there! I'm Angelos Fikias
 
-🚀 I'm a systems-minded engineer passionate about architecture, infrastructure, and data-driven solutions. I thrive on turning complex problems into elegant, scalable, and high-performance systems. 
+🚀 I'm a systems-minded engineer passionate about architecture, infrastructure, and data-driven solutions. I thrive on turning complex problems into elegant, scalable, and high-performance systems.  
 Currently focused on mastering **Full-Stack Development**, **DevOps**, and **Cloud Computing** to deliver production-grade solutions end-to-end.
+
+---
 
 ### 📫 **Connect with me**:
   - [Email](mailto:angelosfikias@gmail.com)
@@ -45,12 +47,21 @@ Currently focused on mastering **Full-Stack Development**, **DevOps**, and **Clo
 
 # 💼 Experience
 
+## 🛠️ DevOps Engineer Intern  
+**Dataviva**, Thessaloniki — *10/2025 to 12/2025*  
+Focus: DevOps, Cloud Infrastructure, Automation, CI/CD, Software Development
+
+- 
+
 ---
 
-# 🎓 Education  
-### **B.Sc. in Applied Computer Science**  
-**University of Macedonia**  
-Focused on information systems, software engineering, and applied computing.
+# 🎓 Education
+
+## **B.Sc. in Applied Computer Science**  
+**University of Macedonia**, 2022–2026  
+GPA: 7.34 / 10  
+Focus: Information Systems, Software Engineering, Applied Computing
+
 
 ---
 
