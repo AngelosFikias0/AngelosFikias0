@@ -10,14 +10,20 @@
 
 ## 👋 Hey there! I'm Angelos Fikias
 
-🚀 I'm a systems-minded engineer passionate about architecture, infrastructure, and data-driven solutions. I thrive on turning complex problems into elegant, scalable and high-performance systems.  
+🚀 I'm a systems-thinker blending software engineering, cloud, and DevOps to deliver scalable and resilient applications with a focus on clean architecture and real-world performance.
 Currently focused on mastering **Full-Stack Development**, **DevOps** and **Cloud Computing** to deliver production-grade solutions end-to-end.
+
+### ⚡ What I Do
+- 🧠 Design backend systems with Java + Spring Boot using clean architecture.
+- ☁️ Automate CI/CD pipelines with Docker, GitHub Actions & Kubernetes.
+- 📊 Build scalable APIs & cloud-native services on AWS & Azure.
+- 🔍 Apply modeling (UML, BPMN) for real-world system clarity and precision.
 
 ---
 
 ### 📫 **Connect with me**:
-  - [Email](mailto:angelosfikias@gmail.com)
-  - [LinkedIn](https://www.linkedin.com/in/angelos-fikias/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelosfikias@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelos-fikias/)
 
 ---
 
@@ -68,22 +74,25 @@ Focus: Information Systems, Software Engineering, Applied Computing
 ---
 
 ## 📜 Certifications  
-- **Complete C# Programming Masterclass** – *Udemy*
-- **ASP.NET Core 3.1 – Comprehensive Training Completed** – *freeCodeCamp*  
-- **HubSpot Sales Software – CRM Fundamentals** – *HubSpot Academy*
+- [**Complete C# Programming Masterclass** – *Udemy*](https://www.udemy.com/certificate/UC-213fa1b7-c6c5-4afe-832d-bd9e499739d1/)  
+- [**ASP.NET Core 3.1 – Comprehensive Training Completed** – *YouTube*](https://www.youtube.com/watch?v=C5cnZ-gZy2I)  
+- [**HubSpot Sales Software – CRM Fundamentals** – *HubSpot Academy*](https://academy.hubspot.com/courses/hubspot-sales-hub-software)  
 
 ---
 
-## 🎤 Conferences
-**JPrime** (Sofia, Bulgaria) • **TechSaloniki** (Thessaloniki, Greece) • **DevOps and Cloud** (Accenture, Thessaloniki) • **Introduction to Blockchain** (IEEE, University of Macedonia)
+## 🎤 Conferences  
+- **JPrime** (Sofia, Bulgaria) – Explored modern Java and tech trends 
+- **TechSaloniki** (Thessaloniki, Greece) – Connected with top devs in Northern Greece  
+- **DevOps and Cloud @ Accenture** – Hands-on presentation with CI/CD and Cloud tooling  
+- **Intro to Blockchain @ IEEE** – Dived into blockchain principles & real-world applications  
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ---
 
-## 📱 TikiPark – Mobile Android Parking App in Java  
+### 📱 TikiPark – Mobile Android Parking App in Java  
 🔗 [TikiPark Repository](https://github.com/AngelosFikias0/TikiPark)  
 
 **Description:**  
@@ -101,7 +110,7 @@ Smart Android parking assistant app developed in **Java** with a **PHP/MySQL bac
 
 ---
 
-## 🏃 Runners App – Scalable Spring Boot API for Running Analytics  
+### 🏃 Runners App – Scalable Spring Boot API for Running Analytics  
 🔗 [Runners_App](https://github.com/AngelosFikias0/Runners_App)  
 
 **Description:**  
@@ -118,7 +127,7 @@ High-performance **RESTful API** built with **Spring Boot**, designed for tracki
 
 ---
 
-## 🌐 Java Network Services Hub – Multi-Protocol Networking with Secure Logging  
+### 🌐 Java Network Services Hub – Multi-Protocol Networking with Secure Logging  
 🔗 [Java_Network_Services_Hub](https://github.com/AngelosFikias0/Java_Network_Services_Hub)  
 
 **Description:**  
@@ -135,7 +144,7 @@ Robust, modular networking suite supporting multiple protocols (**HTTP, TCP, UDP
 
 ---
 
-## 🕵️ Crime Management System – Graph-Based Suspect Analysis Tool  
+### 🕵️ Crime Management System – Graph-Based Suspect Analysis Tool  
 🔗 [Crime_Management_System](https://github.com/AngelosFikias0/Crime_Management_System)  
 
 **Description:**  
@@ -151,7 +160,7 @@ Java-based investigative application leveraging **graph theory** and the **JUNG 
 
 ---
 
-## 🔑 Interactive Role-Based Web App – Secure Authentication & User Management  
+### 🔑 Interactive Role-Based Web App – Secure Authentication & User Management  
 🔗 [Interactive_Role_Based_Web_App](https://github.com/AngelosFikias0/Interactive_Role_Based_Web_App)  
 
 **Description:**  
@@ -167,7 +176,7 @@ Secure, scalable web application with **role-based access control**, implementin
 
 ---
 
-## 🚗 Safe Car Insurance System – Policy & Claim Management Simulation  
+### 🚗 Safe Car Insurance System – Policy & Claim Management Simulation  
 🔗 [Safe_Car_Insurance_System](https://github.com/AngelosFikias0/Safe_Car_Insurance_System)  
 
 **Description:**  
@@ -187,4 +196,8 @@ Simulation system for managing car insurance policies and claims, developed with
   <i>Let’s build, innovate, and create something extraordinary together!</i>
   <br>
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="120">
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AngelosFikias0.AngelosFikias0" alt="Visitor badge" />
 </p>
