@@ -39,8 +39,8 @@ Currently focused on mastering **Full-Stack Development**, **DevOps** and **Clou
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelosFikias0&layout=compact&theme=cobalt" alt="Top Languages" width="36%" style="vertical-align: middle;">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngelosFikias0&theme=transparent&hide=issues" alt="GitHub Stats" width="46%" style="vertical-align: middle;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelosFikias0&layout=compact&theme=cobalt" alt="Top Languages" height="180" style="vertical-align: middle;">
+  <img src="https://github-readme-stats.vercel.app/api?username=AngelosFikias0&theme=transparent&hide=issues" alt="GitHub Stats" height="180" style="vertical-align: middle;">
 </p>
 
 <p align="center">
