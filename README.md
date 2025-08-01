@@ -192,16 +192,20 @@ Simulation system for managing car insurance policies and claims, developed with
 **Technologies:** `Java`, `UML`, `BPMN`, `Visual Paradigm`, `Camunda`  
 
 ---
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AngelosFikias0&theme=tokyonight&layout=compact&margin-w=10&no-bg=true&no-frame=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Let’s build, innovate, and create something extraordinary together!</i>
-  <br>
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="120">
-</p>
+  <!-- GitHub Trophies -->
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=AngelosFikias0&theme=tokyonight&layout=compact&margin-w=10&no-bg=true&no-frame=true" 
+    alt="GitHub Trophies"
+  />
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AngelosFikias0.AngelosFikias0" alt="Visitor badge" />
-</p>
+  <br><br>
+
+  <!-- Visitor Badge -->
+  <img 
+    src="https://visitor-badge.laobi.icu/badge?page_id=AngelosFikias0.AngelosFikias0" 
+    alt="Visitor Badge"
+  />
+
+</div>
