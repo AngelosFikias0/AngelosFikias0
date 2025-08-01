@@ -43,10 +43,8 @@ Currently focused on mastering **Full-Stack Development**, **DevOps** and **Clou
   <img src="https://github-readme-stats.vercel.app/api?username=AngelosFikias0&theme=transparent&hide=issues" alt="GitHub Stats" width="45%" style="vertical-align: middle;">
 </p>
 
-### 🏆 GitHub Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AngelosFikias0&theme=darkmode&layout=compact&margin-w=10&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AngelosFikias0&theme=radical&layout=compact&margin-w=10&no-bg=true&no-frame=true" />
 </p>
 
 ---
