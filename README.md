@@ -190,12 +190,3 @@ Simulation system for managing car insurance policies and claims, developed with
 - **Impact:** Applied BPMN and UML to model complex workflows, enhancing system clarity and maintainability.
 
 **Technologies:** `Java`, `UML`, `BPMN`, `Visual Paradigm`, `Camunda`  
-
----
-<div align="center">
-  <!-- GitHub Trophies -->
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=AngelosFikias0&theme=tokyonight&layout=compact&margin-w=10&no-bg=true&no-frame=true" 
-    alt="GitHub Trophies"
-  />
-</div>
