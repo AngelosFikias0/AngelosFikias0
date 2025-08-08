@@ -16,13 +16,10 @@
 
 **Full-Stack Architecture**  
 I design and build end-to-end systems that are modular, scalable, and production-ready. That makes me effective at owning and delivering complete projects.
-
 **DevOps Engineering**  
 I streamline delivery with CI/CD, Docker and infrastructure as code. Faster releases, better traceability, fewer bottlenecks.
-
 **Cloud Infrastructure**  
 I deploy to various cloud platforms with a focus on scalability, availability and cost-efficiency, crucial for systems that need to grow reliably.
-
 **Engineering Quality**  
 Clean code, solid documentation and full lifecycle ownership from idea to deployment.
 
