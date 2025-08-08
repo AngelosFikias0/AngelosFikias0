@@ -10,14 +10,26 @@
 
 ## 👋 Hey there! I'm Angelos Fikias
 
-🚀 I'm a systems-thinker engineer blending Software Engineering, Cloud, and DevOps to deliver scalable and resilient applications with a focus on clean architecture and real-world performance.
-Currently focused on mastering **Full-Stack Development**, **DevOps** and **Cloud Computing** to deliver production-grade solutions end-to-end.
+🚀 I'm a Computer Science student at the University of Macedonia, focused on building and deploying scalable, maintainable software that solves real problems with precision.
 
 ### ⚡ What I Do
-- 🧠 Design backend systems with Java + Spring Boot using clean architecture.
-- ☁️ Automate CI/CD pipelines with Docker, GitHub Actions & Kubernetes.
-- 📊 Build scalable APIs & cloud-native services on AWS & Azure.
-- 🔍 Apply modeling (UML, BPMN) for real-world system clarity and precision.
+
+**Full-Stack Architecture**  
+I design and build end-to-end systems that are modular, scalable, and production-ready. That makes me effective at owning and delivering complete projects.
+
+**DevOps Engineering**  
+I streamline delivery with CI/CD, Docker and infrastructure as code. Faster releases, better traceability, fewer bottlenecks.
+
+**Cloud Infrastructure**  
+I deploy to various cloud platforms with a focus on scalability, availability and cost-efficiency, crucial for systems that need to grow reliably.
+
+**Engineering Quality**  
+Clean code, solid documentation and full lifecycle ownership from idea to deployment.
+
+---
+
+💡 **What makes me valuable:**  
+I bring development, delivery and infrastructure together. I don't just build features — I create systems that work, ship fast and scale.
 
 ---
 
@@ -161,7 +173,7 @@ Java-based investigative application leveraging **graph theory** and the **JUNG 
 
 ---
 
-### 🔑 Interactive Role-Based Web App – Secure Authentication & User Management  
+### 🔑 Interactive Role-Based Blog Web App – Secure Authentication & User Management  
 🔗 [Interactive_Role_Based_Web_App](https://github.com/AngelosFikias0/Interactive_Role_Based_Web_App)  
 
 **Description:**  
