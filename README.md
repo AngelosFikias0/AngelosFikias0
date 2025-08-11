@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=2000&pause=300&color=800080&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software%20Engineering%20%2B%20DevOps%20%2B%20Cloud%20Infrastructure;Building%20and%20Deploying%20Scalable%20Systems" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=2000&pause=300&color=800080&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Engineering;Devops+Cloud+Infrastructure;Building+and+Deploying+Scalable+Systems" alt="Typing SVG"/>
 </p>
 
 ---
