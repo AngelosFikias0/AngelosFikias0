@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-![Software Engineering · DevOps · Cloud Infrastructure — Building and Deploying Scalable Systems](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=2000&pause=300&color=800080&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software%20Engineering%20%E2%80%A2%20DevOps%20%E2%80%A2%20Cloud%20Infrastructure;Building%20and%20Deploying%20Scalable%20Systems)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=2000&pause=300&color=800080&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software%20Engineering%20%2B%20DevOps%20%2B%20Cloud%20Infrastructure;Building%20and%20Deploying%20Scalable%20Systems" alt="Typing SVG"/>
 </p>
 
 ---
