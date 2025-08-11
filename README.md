@@ -74,7 +74,7 @@ Focus: DevOps, Cloud Infrastructure, Automation, CI/CD, Software Development
 ### **B.Sc. in Applied Computer Science**  
 **University of Macedonia**, 2022–2026  
 GPA: 7.34 / 10  
-Focus: Information Systems, Software Engineering, Applied Computing
+B.Sc. in Applied Computer Science specializing in Information Systems, building expertise in software engineering, infastructure, data systems and IT strategy at the University of Macedonia.
 
 
 ---
