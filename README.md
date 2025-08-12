@@ -75,7 +75,7 @@ Focus: DevOps, Cloud Infrastructure, Automation, CI/CD, Software Development
 **University of Macedonia** | 2022–2026  
 GPA: 7.34 / 10  
 
-Specialization in Information Systems, developing expertise in software engineering, infrastructure, data systems, and IT strategy.
+Specialization in Information Systems, developing expertise in software engineering, infrastructure, data systems and IT strategy.
 
 ---
 
