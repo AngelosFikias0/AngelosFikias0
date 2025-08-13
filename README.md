@@ -64,8 +64,11 @@ I bring development, delivery and infrastructure together. I don't just build fe
 ## 💼 Experience
 
 ### 🛠️ DevOps Engineer Intern  
-**Dataviva**, Thessaloniki — *10/2025 to 12/2025*  
-Focus: DevOps, Cloud Infrastructure, Automation, CI/CD, Software Development
+**Dataviva**, Thessaloniki - *10/2025 to 12/2025*  
+**Focus:** DevOps, Cloud Infrastructure, Automation, CI/CD, Software Development  
+- Built and optimized CI/CD pipelines for faster and more reliable deployments.  
+- Automated infrastructure provisioning using Docker and infrastructure as code tools.  
+- Assisted in deploying and scaling workloads on cloud platforms with a focus on cost efficiency and performance.  
 
 ---
 
