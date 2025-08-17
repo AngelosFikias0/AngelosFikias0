@@ -23,8 +23,8 @@ I streamline delivery with CI/CD, Docker and infrastructure as code. Faster rele
 **Cloud Infrastructure**  
 I deploy to various cloud platforms with a focus on scalability, availability and cost-efficiency, crucial for systems that need to grow reliably.
 
-**Engineering Quality**  
-Clean code, solid documentation and full lifecycle ownership from idea to deployment.
+**Collaboration and Ownership**  
+I contribute to team projects with clear communication, structured organization and accountability. I take responsibility for tasks and help keep progress consistent.
 
 💡 **What makes me valuable:**  
 I bring development, delivery and infrastructure together. I don't just build features, I create systems that work, ship fast and scale.
