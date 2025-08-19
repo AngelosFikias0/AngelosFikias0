@@ -82,15 +82,12 @@ Specialization in Information Systems, developing expertise in software engineer
 
 ---
 
-## 📜 Certifications  
-<ul>
-  <li><strong>Complete C# Programming Masterclass</strong> – <em>Udemy</em>  
-  </li>
-  <li><strong>ASP.NET Core 3.1 – Comprehensive Training Completed</strong> – <em>freeCodeCamp</em>  
-  </li>
-  <li><strong>HubSpot Sales Software – CRM Fundamentals</strong> – <em>HubSpot Academy</em>  
-  </li>
-</ul>
+## 📜 Certifications
+
+- **Enterprise Design Thinking Practitioner** – *IBM*  
+- **Complete C# Programming Masterclass** – *Udemy*  
+- **ASP.NET Core 3.1 – Comprehensive Training Completed** – *freeCodeCamp*  
+- **HubSpot Sales Software – CRM Fundamentals** – *HubSpot Academy*
 
 ---
 
