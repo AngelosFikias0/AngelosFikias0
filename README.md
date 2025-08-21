@@ -83,6 +83,7 @@ Specialization in Information Systems, developing expertise in software engineer
 ---
 
 ## 📜 Certifications
+- **Oracle Java Foundations** – *Oracle* 
 - **Agile Explorer** – *IBM*  
 - **Enterprise Design Thinking Practitioner** – *IBM*  
 - **Complete C# Programming Masterclass** – *Udemy*  
