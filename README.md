@@ -83,7 +83,7 @@ Specialization in Information Systems, developing expertise in software engineer
 ---
 
 ## 📜 Certifications
-
+- **Agile Explorer** – *IBM*  
 - **Enterprise Design Thinking Practitioner** – *IBM*  
 - **Complete C# Programming Masterclass** – *Udemy*  
 - **ASP.NET Core 3.1 – Comprehensive Training Completed** – *freeCodeCamp*  
