@@ -85,6 +85,8 @@ Specialization in Information Systems, developing expertise in software engineer
 ## 📜 Certifications
 - **Oracle Java Foundations** – *Oracle*
 - **DevOps Foundations** – *LinkedIn*
+- **Enterprise Architecture Foundations** – *LinkedIn*
+- **Software Architecture Foundations** – *LinkedIn*
 - **Data Fundamentals** – *IBM*
 - **Introduction to Cybersecurity** – *Cisco* 
 - **Agile Explorer** – *IBM*  
