@@ -80,11 +80,14 @@ Specialization in Information Systems, developing expertise in software engineer
 ---
 
 ## 📜 Certifications
-- **Oracle Java Foundations** – *Oracle*
 - **DevOps Foundations** – *LinkedIn*
+- **Full-Stack Java Developer with Spring Boot and React** – *Udemy*
 - **Enterprise Architecture Foundations** – *LinkedIn*
 - **Software Architecture Foundations** – *LinkedIn*
+- **Oracle Java Foundations** – *Oracle*
 - **Data Fundamentals** – *IBM*
+- **Learning ITIL** – *CompTIA*
+- **A Beginner's Guide to Public Cloud Options** – *LinkedIn*
 - **Introduction to Cybersecurity** – *Cisco* 
 - **Agile Explorer** – *IBM*  
 - **Enterprise Design Thinking Practitioner** – *IBM*  
