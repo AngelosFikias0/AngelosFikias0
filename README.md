@@ -10,21 +10,7 @@
 
 ## 👋 Hey there! I'm Angelos Fikias
 
-🚀 I'm a Computer Science student at the University of Macedonia, focused on building and deploying scalable, maintainable software that solves real problems with precision.
-
-### ⚡ What I Do
-
-**Software Engineering**  
-I design and build end-to-end systems that are modular, scalable, and production-ready. That makes me effective at owning and delivering complete projects.
-
-**DevOps Engineering**  
-I streamline delivery with CI/CD, Docker and infrastructure as code. Faster releases, better traceability, fewer bottlenecks.
-
-**Cloud Infrastructure**  
-I deploy to various cloud platforms with a focus on scalability, availability and cost-efficiency, crucial for systems that need to grow reliably.
-
-**Collaboration and Ownership**  
-I contribute to team projects with clear communication, structured organization and accountability. I take responsibility for tasks and help keep progress consistent.
+🚀 Computer Science student at the University of Macedonia with focus on software engineering, DevOps and cloud infrastructure. I build scalable, maintainable systems that solve real problems with precision, bridging development, delivery and infrastructure to ship production-ready solutions quickly and reliably, while driving ownership, accountability and leadership within agile teams.
 
 ---
 
