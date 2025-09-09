@@ -71,9 +71,11 @@ Specialization in Information Systems, developing expertise in software engineer
 - **Enterprise Architecture Foundations** – *LinkedIn*
 - **Software Architecture Foundations** – *LinkedIn*
 - **Oracle Java Foundations** – *Oracle*
+- **Google Cloud Data and Storage Foundations** – *LinkedIn* 
 - **Data Fundamentals** – *IBM*
 - **Learning ITIL** – *CompTIA*
 - **A Beginner's Guide to Public Cloud Options** – *LinkedIn*
+- **Fintech Masterclass** – *CFTE* 
 - **Introduction to Cybersecurity** – *Cisco* 
 - **Agile Explorer** – *IBM*  
 - **Enterprise Design Thinking Practitioner** – *IBM*  
