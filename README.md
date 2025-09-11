@@ -64,7 +64,6 @@ GPA: 7.34 / 10
 Specialization in Information Systems, developing expertise in software engineering, infrastructure, data systems and IT strategy.
 
 ---
-
 ## 📜 Certifications
 - **DevOps Foundations** – *LinkedIn*
 - **Full-Stack Java Developer with Spring Boot and React** – *Udemy*
@@ -75,7 +74,9 @@ Specialization in Information Systems, developing expertise in software engineer
 - **Data Fundamentals** – *IBM*
 - **Learning ITIL** – *CompTIA*
 - **A Beginner's Guide to Public Cloud Options** – *LinkedIn*
-- **Fintech Masterclass** – *CFTE* 
+- **Fintech Masterclass** – *CFTE*
+- **Corporate Finance Foundations** – *NASBA*
+- **Introduction to Risk Management** – *Project Management Institute* 
 - **Introduction to Cybersecurity** – *Cisco* 
 - **Agile Explorer** – *IBM*  
 - **Enterprise Design Thinking Practitioner** – *IBM*  
