@@ -65,7 +65,11 @@ Specialization in Information Systems, developing expertise in software engineer
 
 ---
 ## 📜 Certifications
+- **DevOps Professional Certificate** – *PagerDuty*
 - **DevOps Foundations** – *LinkedIn*
+- **DevOps Foundations: Infrastructure as Code** – *LinkedIn*
+- **DevOps Foundations: Continuous Delivery/Continuous Integration** – *CompTIA*
+- **DevOps Foundations: Site Reliability Engineering** – *LinkedIn*
 - **Full-Stack Java Developer with Spring Boot and React** – *Udemy*
 - **Enterprise Architecture Foundations** – *LinkedIn*
 - **Software Architecture Foundations** – *LinkedIn*
