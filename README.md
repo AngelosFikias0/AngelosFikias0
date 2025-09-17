@@ -66,6 +66,7 @@ Specialization in Information Systems, developing expertise in software engineer
 ---
 ## 📜 Certifications
 - **DevOps Professional Certificate** – *PagerDuty*
+- **Atlassian Agile Project Management Professional Certificate** – *Atlassian*
 - **DevOps Foundations** – *LinkedIn*
 - **DevOps Foundations: Infrastructure as Code** – *LinkedIn*
 - **DevOps Foundations: Continuous Delivery/Continuous Integration** – *CompTIA*
@@ -74,14 +75,20 @@ Specialization in Information Systems, developing expertise in software engineer
 - **Enterprise Architecture Foundations** – *LinkedIn*
 - **Software Architecture Foundations** – *LinkedIn*
 - **Oracle Java Foundations** – *Oracle*
+- **Cloud Architecture: Core Concepts** – *LinkedIn*
+- **GenAI and Predictive AI Architecture Foundations** – *LinkedIn*
 - **Google Cloud Data and Storage Foundations** – *LinkedIn* 
 - **Data Fundamentals** – *IBM*
 - **Learning ITIL** – *CompTIA*
 - **A Beginner's Guide to Public Cloud Options** – *LinkedIn*
+- **Consulting Foundations** – *PMI*
+- **Effectively Leading Digital Transformation** – *IIBA*
 - **Fintech Masterclass** – *CFTE*
 - **Corporate Finance Foundations** – *NASBA*
 - **Introduction to Risk Management** – *Project Management Institute* 
-- **Introduction to Cybersecurity** – *Cisco* 
+- **Introduction to Cybersecurity** – *Cisco*
+- **Agile Foundations** – *IIBA*
+- **Scrum: The Basics** – *PMI*
 - **Agile Explorer** – *IBM*  
 - **Enterprise Design Thinking Practitioner** – *IBM*  
 - **Complete C# Programming Masterclass** – *Udemy*  
