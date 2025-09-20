@@ -10,7 +10,7 @@
 
 ## 👋 Hey there! I'm Angelos Fikias
 
-🚀 Computer Science student at the University of Macedonia with focus on software engineering, DevOps and cloud infrastructure. I build scalable, maintainable systems that solve real problems with precision, bridging development, delivery and infrastructure to ship production-ready solutions quickly and reliably, while driving ownership, accountability and leadership within agile teams.
+Computer Science student at the University of Macedonia, focused on software engineering, DevOps and cloud infrastructure. I build scalable, maintainable systems that solve real problems. I bridge development, delivery and infrastructure to ship production-ready solutions quickly and reliably, driving ownership, accountability and leadership in agile teams.
 
 ---
 
@@ -49,19 +49,19 @@
 ### 🛠️ DevOps Engineer Intern  
 **Dataviva**, Thessaloniki - *10/2025 to 12/2025*  
 **Focus:** DevOps, Cloud Infrastructure, Automation, CI/CD, Software Development  
-- Built and optimized CI/CD pipelines for faster and more reliable deployments.  
-- Automated infrastructure provisioning using Docker and infrastructure as code tools.  
-- Assisted in deploying and scaling workloads on cloud platforms with a focus on cost efficiency and performance.  
+- 
 
 ---
 
 ## 🎓 Education
 
-### B.Sc. in Applied Computer Science  
-**University of Macedonia** | 2022–2026  
-GPA: 7.34 / 10  
+### Bachelor's Degree, Applied Computer Science – Specialization: Information Systems
+**University of Macedonia** | Oct 2022 – Sep 2026  
+**GPA:** 7.39  
 
-Specialization in Information Systems, developing expertise in software engineering, infrastructure, data systems and IT strategy.
+- Building expertise in software engineering, IT infrastructure, data systems, and IT strategy.  
+- Gaining hands-on experience in business applications, technology, and modern software development practices.  
+- Delivering practical solutions for real-world business and technology challenges.  
 
 ---
 ## 📜 Certifications
@@ -108,100 +108,98 @@ Specialization in Information Systems, developing expertise in software engineer
 
 ---
 
-### 📱 TikiPark – Mobile Android Parking App in Java  
+### 📱 TikiPark – Mobile Android Parking App in Java
 🔗 [TikiPark Repository](https://github.com/AngelosFikias0/TikiPark)  
 
 **Description:**  
-Smart Android parking assistant app developed in **Java** with a **PHP/MySQL backend**, featuring **secure role-based authentication**, **real-time parking slot management and booking**, **offline caching via SQLite**, and **Google Maps API integration** for seamless urban parking experience.
+Smart Android parking assistant app developed in **Java** with a **PHP/MySQL backend**, featuring **secure role-based authentication**, **real-time parking slot management**, **offline caching via SQLite** and **Google Maps API integration**.
 
 **Key Highlights:**  
 - Secure login with role-based authorization (Admin/User)  
 - Real-time parking availability and booking system  
-- Offline support through local SQLite caching  
+- Offline support through SQLite caching  
 - Interactive maps using Google Maps API  
-- Wallet management implemented, designed for future Stripe payment integration  
-- **Impact:** Implemented offline caching with SQLite to ensure seamless user experience despite intermittent network connectivity.
+- Designed for future Stripe payment integration  
+- **Impact:** Ensured seamless user experience even during network interruptions  
 
-**Technologies:** `Java`, `Android SDK`, `PHP`, `MySQL`, `SQLite`, `Google Maps API`, `Apache Server`, `Authentication`, `ACID compliance`
+**Technologies:** Java, Android SDK, XML, PHP, MySQL, SQLite, Google Maps API, Apache Server, Git, GitHub, Android Studio, VS Code, XAMPP  
 
 ---
 
-### 🏃 Runners App – Scalable Spring Boot API for Running Analytics  
-🔗 [Runners_App](https://github.com/AngelosFikias0/Runners_App)  
+### 🏃 Runners App – Scalable Spring Boot API
+🔗 [Runners App Repository](https://github.com/AngelosFikias0/Runners_App)  
 
 **Description:**  
-High-performance **RESTful API** built with **Spring Boot**, designed for tracking and analyzing running statistics. Optimized for scalability with modular architecture and integration with an **H2 in-memory database** for testing.
+High-performance **RESTful API** for tracking and analyzing running statistics, built with **Spring Boot**, modular architecture and an **H2 in-memory database**.
 
 **Key Highlights:**  
-- Efficient, scalable RESTful API with comprehensive CRUD functionality
-- Spring MVC Architecture – Clean separation of controller, service, and data layers for testability and scalability.  
-- Modular design facilitating future enhancements  
-- Clean and maintainable codebase  
-- **Impact:** Designed modular architecture enabling future features to be added with minimal disruption.
+- Efficient RESTful API with full CRUD functionality  
+- Spring MVC architecture for clean separation of controller, service, and data layers  
+- Modular design for future extensibility  
+- **Impact:** Modular architecture allows feature expansion with minimal disruption  
 
-**Technologies:** `Java`, `REST APIs`, `Spring Boot`, `Maven`, `H2 Database`, `MVC`  
+**Technologies:** Java 17, Spring Boot 3.x, REST APIs, Spring MVC, H2 Database, Maven, Git, GitHub, IntelliJ IDEA  
 
 ---
 
-### 🌐 Java Network Services Hub – Multi-Protocol Networking with Secure Logging  
-🔗 [Java_Network_Services_Hub](https://github.com/AngelosFikias0/Java_Network_Services_Hub)  
+### 🌐 Java Network Services Hub – Multi-Protocol Networking
+🔗 [Java Network Services Hub Repository](https://github.com/AngelosFikias0/Java_Network_Services_Hub)  
 
 **Description:**  
-Robust, modular networking suite supporting multiple protocols (**HTTP, TCP, UDP, RMI**), featuring multi-threaded service execution, real-time graphical monitoring, and structured logging using **JDBC with PostgreSQL**.
+Multi-threaded Java networking suite supporting **HTTP, TCP, UDP and RMI** protocols with real-time service monitoring and persistent logging via **PostgreSQL**.
 
 **Key Highlights:**  
 - Multi-protocol support with concurrency and distributed computing  
-- Real-time graphical service manager  
-- Persistent PostgreSQL logging for analytics  
-- Secure, scalable architecture  
-- **Impact:** Utilized multi-threading and concurrency control to handle simultaneous protocol services efficiently.
+- Real-time graphical service management via Swing UI  
+- Persistent logging for network analytics  
+- **Impact:** Efficiently handled simultaneous protocol services with concurrency control  
 
-**Technologies:** `Java`, `Sockets`, `RMI`, `Swing`, `JDBC`, `PostgreSQL`, `Multi-threading`, `Distributed Computing`  
-
----
-
-### 🕵️ Crime Management System – Graph-Based Suspect Analysis Tool  
-🔗 [Crime_Management_System](https://github.com/AngelosFikias0/Crime_Management_System)  
-
-**Description:**  
-Java-based investigative application leveraging **graph theory** and the **JUNG library** to analyze suspect relationships and uncover hidden connections through **triangular closure**.
-
-**Key Highlights:**  
-- Graph visualization for suspect network analysis  
-- Advanced relationship inference using graph algorithms  
-- Interactive UI with file handling and data persistence  
-- **Impact:** Applied graph algorithms to reveal hidden suspect connections, improving investigative insight accuracy.
-
-**Technologies:** `Java`, `Swing`, `JUNG`, `Graph Theory`, `Data Structures & Algorithms`, `Serialization`, `Generics`
+**Technologies:** Java, Sockets, RMI, Swing, JDBC, PostgreSQL, Multi-threading, Distributed Computing  
 
 ---
 
-### 🔑 Interactive Role-Based Blog Web App – Secure Authentication & User Management  
-🔗 [Interactive_Role_Based_Web_App](https://github.com/AngelosFikias0/Interactive_Role_Based_Web_App)  
+### 🕵️ Crime Management System – Graph-Based Suspect Analysis
+🔗 [Crime Management System Repository](https://github.com/AngelosFikias0/Crime_Management_System)  
 
 **Description:**  
-Secure, scalable web application with **role-based access control**, implementing user and post CRUD operations alongside strong authentication mechanisms.
+Desktop Java app leveraging **graph theory** and **JUNG** to analyze suspect networks, visualize connections and infer hidden relationships.
 
 **Key Highlights:**  
-- Role-based authentication for different user levels  
+- Graph visualization and analysis of suspect networks  
+- CRUD operations with robust data handling and validation  
+- Modular, object-oriented design for maintainability  
+- **Impact:** Revealed hidden suspect connections, improving investigative insights  
+
+**Technologies:** Java, Swing, JUNG, Graph Theory, File I/O, MVC Architecture, Data Structures & Algorithms  
+
+---
+
+### 🔑 Interactive Role-Based Blog Web App
+🔗 [Interactive Role-Based Web App Repository](https://github.com/AngelosFikias0/Interactive_Role_Based_Web_App)  
+
+**Description:**  
+Full-stack LAMP web application with **role-based access control**, secure authentication and dynamic dashboards for users and admins.
+
+**Key Highlights:**  
 - Secure login and session management  
-- Clean and maintainable PHP/MySQL backend  
-- **Impact:** Implemented robust role-based access control to safeguard sensitive features and user data.
+- Role-based access for multiple user levels  
+- Scalable, maintainable backend with CRUD operations  
+- **Impact:** Safeguarded sensitive features and user data with robust access control  
 
-**Technologies:** `PHP`, `MySQL`, `HTML`, `CSS`, `Apache Server`, `Authentication`, `Blog Features` 
+**Technologies:** PHP, MySQL, HTML5, CSS, Apache Server, Linux, Git  
 
 ---
 
-### 🚗 Safe Car Insurance System – Policy & Claim Management Simulation  
-🔗 [Safe_Car_Insurance_System](https://github.com/AngelosFikias0/Safe_Car_Insurance_System)  
+### 🚗 Safe Car Insurance System – Policy & Claim Management
+🔗 [Safe Car Insurance System Repository](https://github.com/AngelosFikias0/Safe_Car_Insurance_System)  
 
 **Description:**  
-Simulation system for managing car insurance policies and claims, developed with strong object-oriented principles and designed from comprehensive system analysis using **BPMN** and **UML**.
+Simulation system for car insurance policy and claim management, designed using **UML**, **BPMN** and enterprise architecture principles.
 
 **Key Highlights:**  
-- Policy and claim lifecycle management  
+- Managed full policy and claim lifecycle with role-based access  
 - System modeled with UML diagrams and BPMN workflows  
-- Scalable architecture for potential extensions  
-- **Impact:** Applied BPMN and UML to model complex workflows, enhancing system clarity and maintainability.
+- Scalable, maintainable architecture  
+- **Impact:** Applied enterprise frameworks to model complex workflows, enhancing clarity and maintainability  
 
-**Technologies:** `Java`, `UML`, `BPMN`, `Visual Paradigm`, `Camunda`  
+**Technologies:** Java, UML, BPMN, Visual Paradigm, Camunda, Git, SDLC, Eclipse  
