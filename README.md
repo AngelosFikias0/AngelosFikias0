@@ -46,9 +46,10 @@ Computer Science student at the University of Macedonia, focused on software eng
 
 ## 💼 Experience
 
-### 🛠️ DevOps Engineer Intern  
-**Dataviva**, Thessaloniki - *10/2025 to 12/2025*  
-**Focus:** DevOps, Cloud Infrastructure, Automation, CI/CD, Software Development  
+### 🛠️ DevOps Engineer Intern
+**Dataviva**, Thessaloniki | Oct 2025 – Dec 2025  
+**Focus:** DevOps, Cloud Infrastructure, Automation, CI/CD, Software Development
+
 - 
 
 ---
