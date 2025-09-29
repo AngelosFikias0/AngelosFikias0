@@ -60,7 +60,7 @@ Computer Science student at the University of Macedonia, focused on software eng
 **University of Macedonia** | Oct 2022 – Sep 2026  
 **GPA:** 7.34  
 
-- Building expertise in software engineering, IT infrastructure, data systems, and IT strategy.  
+- Building expertise in software engineering, IT infrastructure, data systems and IT strategy.  
 - Gaining hands-on experience in business applications, technology, and modern software development practices.  
 - Delivering practical solutions for real-world business and technology challenges.  
 
