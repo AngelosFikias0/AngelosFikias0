@@ -58,7 +58,7 @@ Computer Science student at the University of Macedonia, focused on software eng
 
 ### Bachelor's Degree, Applied Computer Science – Specialization: Information Systems
 **University of Macedonia** | Oct 2022 – Sep 2026  
-**GPA:** 7.39  
+**GPA:** 7.34  
 
 - Building expertise in software engineering, IT infrastructure, data systems, and IT strategy.  
 - Gaining hands-on experience in business applications, technology, and modern software development practices.  
