@@ -95,6 +95,8 @@ Computer Science student at the University of Macedonia, focused on software eng
 - **Enterprise Design Thinking Practitioner** – *IBM*  
 - **Complete C# Programming Masterclass** – *Udemy*  
 - **HubSpot Sales Software – CRM Fundamentals** – *HubSpot Academy*
+- **Introduction to Blockchain and Smart Contracts Introduction to Blockchain and Smart Contracts** – *IEEE*
+- **Java Conference jPrime** – *jPrime*
 
 ---
 
