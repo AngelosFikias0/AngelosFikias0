@@ -50,7 +50,7 @@ Computer Science student at the University of Macedonia, focused on software eng
 **Dataviva**, Thessaloniki | Oct 2025 – Dec 2025  
 **Focus:** DevOps, Cloud Infrastructure, Automation, CI/CD, Software Development
 
-- 
+- Working on real-time decision support software, managing cloud (Azure) and on-prem environments, automating deployments and supporting CI/CD pipelines. Handling projects end-to-end, from requirements to deployment, while collaborating with dev and ops teams to deliver scalable, production-ready solutions efficiently.
 
 ---
 
@@ -65,6 +65,7 @@ Computer Science student at the University of Macedonia, focused on software eng
 - Delivering practical solutions for real-world business and technology challenges.  
 
 ---
+
 ## 📜 Certifications
 - **DevOps Professional Certificate** – *PagerDuty*
 - **Atlassian Agile Project Management Professional Certificate** – *Atlassian*
@@ -94,14 +95,8 @@ Computer Science student at the University of Macedonia, focused on software eng
 - **Enterprise Design Thinking Practitioner** – *IBM*  
 - **Complete C# Programming Masterclass** – *Udemy*  
 - **HubSpot Sales Software – CRM Fundamentals** – *HubSpot Academy*
-
----
-
-## 🎤 Conferences  
 - **JPrime** (Sofia, Bulgaria) – Explored modern Java and tech trends 
-- **TechSaloniki** (Thessaloniki, Greece) – Connected with top devs in Northern Greece  
-- **DevOps and Cloud @ Accenture** – Hands-on presentation with CI/CD and Cloud tooling  
-- **Intro to Blockchain @ IEEE** – Dived into blockchain principles & real-world applications  
+- **Intro to Blockchain @ IEEE** – Dived into blockchain principles & real-world applications
 
 ---
 
