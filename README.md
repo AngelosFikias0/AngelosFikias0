@@ -79,7 +79,8 @@ Computer Science student at the University of Macedonia, focused on software eng
 - **Cloud Architecture: Core Concepts** – *LinkedIn*
 - **Serverless Fundamentals** – *Amazon Web Services (AWS)*
 - **GenAI and Predictive AI Architecture Foundations** – *LinkedIn*
-- **Google Cloud Data and Storage Foundations** – *LinkedIn* 
+- **Google Cloud Data and Storage Foundations** – *LinkedIn*
+- **Security Fundamentals** – *Amazon Web Services (AWS)*
 - **Data Fundamentals** – *IBM*
 - **Learning ITIL** – *CompTIA*
 - **A Beginner's Guide to Public Cloud Options** – *LinkedIn*
