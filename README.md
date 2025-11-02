@@ -49,7 +49,7 @@ Computer Science student at the University of Macedonia, focused on software eng
 **Dataviva**, Thessaloniki | Oct 2025 – Dec 2025  
 **Focus:** DevOps, Cloud Infrastructure, Automation, CI/CD, Software Development
 
-- I work on Dataviva's real-time, low-code planning platform leveraging AI-driven retail forecasting and supply chain management. I manage Azure and on-prem Kubernetes environments, automate deployments and maintain CI/CD pipelines to deliver end-to-end scalable solutions in an agile environment.
+- I work on Dataviva’s real-time, low-code planning platform that leverages AI-driven retail forecasting and supply chain optimization. I manage Kubernetes and Docker environments on Linux systems, ensuring reliability and scalability across deployments. I contribute to end-to-end solution delivery in an agile setting, using Git and SVN for version control and collaborative development.
 
 ---
 
