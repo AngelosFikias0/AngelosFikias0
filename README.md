@@ -78,6 +78,7 @@ Computer Science student at the University of Macedonia, focused on software eng
 - **Oracle Java Foundations** – *Oracle*
 - **Cloud Architecture: Core Concepts** – *LinkedIn*
 - **Serverless Fundamentals** – *Amazon Web Services (AWS)*
+- **Machine Learning Foundation** – *Amazon Web Services (AWS)*
 - **GenAI and Predictive AI Architecture Foundations** – *LinkedIn*
 - **Google Cloud Data and Storage Foundations** – *LinkedIn*
 - **Security Fundamentals** – *Amazon Web Services (AWS)*
