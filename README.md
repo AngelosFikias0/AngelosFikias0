@@ -124,38 +124,6 @@ Smart Android parking assistant app developed in **Java** with a **PHP/MySQL bac
 
 ---
 
-### 🏃 Runners App – Scalable Spring Boot API
-🔗 [Runners App Repository](https://github.com/AngelosFikias0/Runners_App)  
-
-**Description:**  
-High-performance **RESTful API** for tracking and analyzing running statistics, built with **Spring Boot**, modular architecture and an **H2 in-memory database**.
-
-**Key Highlights:**  
-- Efficient RESTful API with full CRUD functionality  
-- Spring MVC architecture for clean separation of controller, service, and data layers  
-- Modular design for future extensibility  
-- **Impact:** Modular architecture allows feature expansion with minimal disruption  
-
-**Technologies:** Java 17, Spring Boot 3.x, REST APIs, Spring MVC, H2 Database, Maven, Git, GitHub, IntelliJ IDEA  
-
----
-
-### 🌐 Java Network Services Hub – Multi-Protocol Networking
-🔗 [Java Network Services Hub Repository](https://github.com/AngelosFikias0/Java_Network_Services_Hub)  
-
-**Description:**  
-Multi-threaded Java networking suite supporting **HTTP, TCP, UDP and RMI** protocols with real-time service monitoring and persistent logging via **PostgreSQL**.
-
-**Key Highlights:**  
-- Multi-protocol support with concurrency and distributed computing  
-- Real-time graphical service management via Swing UI  
-- Persistent logging for network analytics  
-- **Impact:** Efficiently handled simultaneous protocol services with concurrency control  
-
-**Technologies:** Java, Sockets, RMI, Swing, JDBC, PostgreSQL, Multi-threading, Distributed Computing  
-
----
-
 ### 🕵️ Crime Management System – Graph-Based Suspect Analysis
 🔗 [Crime Management System Repository](https://github.com/AngelosFikias0/Crime_Management_System)  
 
@@ -201,3 +169,35 @@ Simulation system for car insurance policy and claim management, designed using 
 - **Impact:** Applied enterprise frameworks to model complex workflows, enhancing clarity and maintainability  
 
 **Technologies:** Java, UML, BPMN, Visual Paradigm, Camunda, Git, SDLC, Eclipse  
+
+---
+
+### 🏃 Runners App – Scalable Spring Boot API
+🔗 [Runners App Repository](https://github.com/AngelosFikias0/Runners_App)  
+
+**Description:**  
+High-performance **RESTful API** for tracking and analyzing running statistics, built with **Spring Boot**, modular architecture and an **H2 in-memory database**.
+
+**Key Highlights:**  
+- Efficient RESTful API with full CRUD functionality  
+- Spring MVC architecture for clean separation of controller, service, and data layers  
+- Modular design for future extensibility  
+- **Impact:** Modular architecture allows feature expansion with minimal disruption  
+
+**Technologies:** Java 17, Spring Boot 3.x, REST APIs, Spring MVC, H2 Database, Maven, Git, GitHub, IntelliJ IDEA  
+
+---
+
+### 🌐 Java Network Services Hub – Multi-Protocol Networking
+🔗 [Java Network Services Hub Repository](https://github.com/AngelosFikias0/Java_Network_Services_Hub)  
+
+**Description:**  
+Multi-threaded Java networking suite supporting **HTTP, TCP, UDP and RMI** protocols with real-time service monitoring and persistent logging via **PostgreSQL**.
+
+**Key Highlights:**  
+- Multi-protocol support with concurrency and distributed computing  
+- Real-time graphical service management via Swing UI  
+- Persistent logging for network analytics  
+- **Impact:** Efficiently handled simultaneous protocol services with concurrency control  
+
+**Technologies:** Java, Sockets, RMI, Swing, JDBC, PostgreSQL, Multi-threading, Distributed Computing  
