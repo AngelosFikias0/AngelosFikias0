@@ -59,7 +59,7 @@ Focused on software engineering, DevOps and cloud infrastructure, I build scalab
 **University of Macedonia** | Oct 2022 – Sep 2026  
 **GPA:** 7.32  
 
-- Build expertise in software engineering, IT infrastructure, data systems and IT strategy. Through hands-on experience, gained a deep understanding of business applications, technology and modern software development practices. I focus on delivering practical solutions to address real-world business and technology challenges.
+- Built expertise in software engineering, IT infrastructure, data systems and IT strategy. Through hands-on experience, gained a deep understanding of business applications, technology and modern software development practices, focusing on delivering practical solutions to address real-world business and technology challenges.
 
 ---
 
