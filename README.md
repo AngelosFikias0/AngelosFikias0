@@ -10,7 +10,7 @@
 
 ## 👋 Hey there! I'm Angelos Fikias
 
-Computer Science student at the University of Macedonia, focused on software engineering, DevOps and cloud infrastructure. I build scalable, maintainable systems that solve real problems. I bridge development, delivery and infrastructure to ship production-ready solutions quickly and reliably, driving ownership, accountability and leadership in agile teams.
+Focused on software engineering, DevOps and cloud infrastructure, I build scalable, maintainable systems that solve real-world problems. I bridge development, delivery and infrastructure to ship production-ready solutions quickly and reliably, driving ownership, accountability and leadership within Agile teams.
 
 ---
 
@@ -49,7 +49,7 @@ Computer Science student at the University of Macedonia, focused on software eng
 **Dataviva**, Thessaloniki | Oct 2025 – Dec 2025  
 **Focus:** DevOps, Cloud Infrastructure, Automation, CI/CD, Software Development
 
-- I work on Dataviva’s real-time, low-code planning platform that leverages AI-driven retail forecasting and supply chain optimization. I manage Kubernetes and Docker environments on Linux systems, ensuring reliability and scalability across deployments. I contribute to end-to-end solution delivery in an agile setting, using Git and SVN for version control and collaborative development.
+- As a DevOps Engineer Intern at Dataviva, I optimize a real-time AI platform for retail forecasting and supply chain management for large enterprises. I manage Kubernetes environments with Docker, Helm and Linux, ensuring reliable and scalable deployments. I contribute to system improvements using version control systems and bash scripting. I troubleshoot issues to drive product improvements across distributed environments and integrate tools, resolving API and configuration challenges. In an Agile environment, I work closely with development and platform teams to deliver impactful solutions.
 
 ---
 
@@ -59,15 +59,14 @@ Computer Science student at the University of Macedonia, focused on software eng
 **University of Macedonia** | Oct 2022 – Sep 2026  
 **GPA:** 7.32  
 
-- Building expertise in software engineering, IT infrastructure, data systems and IT strategy.  
-- Gaining hands-on experience in business applications, technology, and modern software development practices.  
-- Delivering practical solutions for real-world business and technology challenges.  
+- Build expertise in software engineering, IT infrastructure, data systems and IT strategy. Through hands-on experience, gained a deep understanding of business applications, technology and modern software development practices. I focus on delivering practical solutions to address real-world business and technology challenges.
 
 ---
 
 ## 📜 Certifications
 - **DevOps Professional Certificate** – *PagerDuty*
 - **Atlassian Agile Project Management Professional Certificate** – *Atlassian*
+- **Introduction to Kubernetes** – *The Linux Foundation*
 - **DevOps Foundations** – *LinkedIn*
 - **DevOps Foundations: Infrastructure as Code** – *LinkedIn*
 - **DevOps Foundations: Continuous Delivery/Continuous Integration** – *CompTIA*
