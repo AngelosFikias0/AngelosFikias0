@@ -21,7 +21,7 @@ End-to-end insurance policy lifecycle management with comprehensive UML modeling
 ## 📱 Mobile & Distributed Systems
 
 ### [TikiPark - Smart Android Parking Application](https://github.com/AngelosFikias0/TikiPark)
-Production-ready Android parking ecosystem streamlining urban parking with real-time slot availability, offline-first SQLite caching, Google Maps integration, and JWT authentication. Modular backend architected for seamless payment gateway integration and API-driven extensions.  
+Production-ready Android parking ecosystem streamlining urban parking with real-time slot availability, offline-first SQLite caching, Google Maps integration, and role-based authentication. Modular backend architected for seamless payment gateway integration and API-driven extensions.  
 `Java • Android SDK • PHP • MySQL • SQLite • Google Maps API • REST`
 
 ### [Java Network Services Hub](https://github.com/AngelosFikias0/Java_Network_Services_Hub)
