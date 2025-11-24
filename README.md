@@ -2,7 +2,7 @@
 
 **DevOps Engineer Intern @ Dataviva** | Applied Computer Science @ University of Macedonia
 
-Focusing in Software Engineering, DevOps and Cloud Infrastructure.
+Focused on software engineering, DevOps and cloud infrastructure
 
 ---
 
