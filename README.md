@@ -84,10 +84,10 @@ Classic console applications demonstrating algorithmic thinking, control flow, a
 
 ## 🛠️ Tech Stack
 
-**DevOps & Cloud:** Docker • Kubernetes • Helm • GitHub Actions • Terraform • Ansible • AWS • Azure • GCP • Linux/Bash  
-**Backend:** Java • Spring Boot • Python • C# • PHP • JavaScript • React  
-**Databases:** PostgreSQL • MySQL • SQLite • NoSQL • H2  
-**Tools:** Git • Jira • Postman • Camunda • BPMN • UML • Countly • Maven
+- **DevOps & Cloud:** Docker • Kubernetes • Helm • GitHub Actions • Terraform • Ansible • AWS • Azure • GCP • Linux/Bash
+- **Backend:** Java • Spring Boot • Python • C# • PHP • JavaScript • React
+- **Databases:** PostgreSQL • MySQL • SQLite • NoSQL • H2
+- **Tools:** Git • Jira • Postman • Camunda • BPMN • UML • Countly • Maven
 
 ---
 
