@@ -10,7 +10,7 @@ Building scalable systems and cloud-native infrastructure. Focused on `DevOps`, 
 
 ### [Resource Management System - EfficienCity](https://github.com/AngelosFikias0/Resource_Management_System)
 Enterprise resource management platform enabling municipalities to track and optimize vehicles, machinery, and equipment. Centralized architecture with comprehensive allocation tracking and real-time reporting dashboards.  
-`Java • PostgreSQL • Enterprise Systems • Resource Optimization • Solutions Architecture`
+`spring boot • Java • PostgreSQL • Enterprise Systems • Resource Optimization • Solutions Architecture`
 
 ### [SafeCar Insurance Management System](https://github.com/AngelosFikias0/Safe_car_insurance_System)
 End-to-end insurance policy lifecycle management with comprehensive UML modeling, BPMN process orchestration, and enterprise architecture alignment (Zachman Framework, TOGAF). Features role-based access and automated workflows for operational efficiency.  
@@ -22,7 +22,7 @@ End-to-end insurance policy lifecycle management with comprehensive UML modeling
 
 ### [TikiPark - Smart Android Parking Application](https://github.com/AngelosFikias0/TikiPark)
 Production-ready Android parking ecosystem streamlining urban parking with real-time slot availability, offline-first SQLite caching, Google Maps integration, and role-based authentication. Modular backend architected for seamless payment gateway integration and API-driven extensions.  
-`Java • Android SDK • PHP • MySQL • SQLite • Google Maps API • REST`
+`Java • Android SDK • PHP • MySQL • SQLite • Google Maps API • REST • Mobile`
 
 ### [Java Network Services Hub](https://github.com/AngelosFikias0/Java_Network_Services_Hub)
 Multi-protocol distributed service framework supporting HTTP, TCP, UDP, and RMI communication. Implements concurrent request handling with thread pooling and Swing-based orchestration interface for unified service management.  
@@ -34,7 +34,7 @@ Multi-protocol distributed service framework supporting HTTP, TCP, UDP, and RMI 
 
 ### [Crime Intelligence Platform - Network Analysis System](https://github.com/AngelosFikias0/Crime_Management_System)
 Graph-based investigative intelligence platform leveraging JUNG library and advanced graph theory for criminal network analysis. Computes centrality metrics (betweenness, closeness, degree) to identify key suspects and uncover relationship patterns with robust data validation.  
-`Java • Swing • JUNG • Graph Theory • Network Analysis • Data Visualization • MVC`
+`Java • Swing • JUNG • Graph Theory • Network Analysis • Data Visualization • MVC • Storage & File Handling`
 
 ### [Data Structures & Algorithms Implementation Library](https://github.com/AngelosFikias0/Data_Structures_and_Algorithms)
 Comprehensive implementation library of fundamental data structures (BST, AVL trees, graphs, hash tables, heaps) and algorithms (sorting, searching, dynamic programming, graph traversal) with detailed complexity analysis and performance benchmarking.  
