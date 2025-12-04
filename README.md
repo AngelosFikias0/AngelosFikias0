@@ -10,7 +10,7 @@ Building scalable systems and cloud-native infrastructure. Focused on `DevOps`, 
 
 ### [Resource Management System - EfficienCity](https://github.com/AngelosFikias0/Resource_Management_System)
 Enterprise resource management platform enabling municipalities to track and optimize vehicles, machinery, and equipment. Centralized architecture with comprehensive allocation tracking and real-time reporting dashboards.  
-`spring boot • Java • PostgreSQL • Enterprise Systems • Resource Optimization • Solutions Architecture`
+`Spring boot • Java • PostgreSQL • Enterprise Systems • Resource Optimization • Solutions Architecture`
 
 ### [SafeCar Insurance Management System](https://github.com/AngelosFikias0/Safe_car_insurance_System)
 End-to-end insurance policy lifecycle management with comprehensive UML modeling, BPMN process orchestration, and enterprise architecture alignment (Zachman Framework, TOGAF). Features role-based access and automated workflows for operational efficiency.  
