@@ -1,6 +1,6 @@
 # Angelos Fikias
 
-**DevOps Engineer Intern @ Dataviva** | **Applied Computer Science @ University of Macedonia**
+**DevOps Engineer @ Dataviva** | **Applied Computer Science @ University of Macedonia**
 
 Building scalable systems and cloud-native infrastructure. Focused on `DevOps`, `software engineering` and `cloud engineering`.
 
