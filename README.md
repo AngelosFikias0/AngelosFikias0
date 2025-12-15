@@ -1,8 +1,11 @@
-# Angelos Fikias
+# Hi, I'm Angelos Fikias 👋
 
-**DevOps Engineer @ Dataviva** | **Applied Computer Science @ University of Macedonia**
+DevOps Engineer building enterprise systems, distributed architectures, and full-stack applications. I focus on creating scalable, production-ready solutions that solve real-world problems.
 
-Building scalable systems and cloud-native infrastructure. Focused on `DevOps`, `software engineering` and `cloud engineering`.
+**Tech Stack:** Java • Spring Boot • Kubernetes • PostgreSQL • MySQL • REST APIs • Cloud • BPMN • Javascript
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelos-fikias/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:angelosfikias@gmail.com)
 
 ---
 
@@ -10,7 +13,7 @@ Building scalable systems and cloud-native infrastructure. Focused on `DevOps`, 
 
 ### [Resource Management System - EfficienCity](https://github.com/AngelosFikias0/Resource_Management_System)
 Enterprise resource management platform enabling municipalities to track and optimize vehicles, machinery, and equipment. Centralized architecture with comprehensive allocation tracking and real-time reporting dashboards.  
-`Spring boot • Java • PostgreSQL • Enterprise Systems • Resource Optimization • Solutions Architecture`
+`Spring Boot • Java • PostgreSQL • Enterprise Systems • Resource Optimization • Solutions Architecture`
 
 ### [SafeCar Insurance Management System](https://github.com/AngelosFikias0/Safe_car_insurance_System)
 End-to-end insurance policy lifecycle management with comprehensive UML modeling, BPMN process orchestration, and enterprise architecture alignment (Zachman Framework, TOGAF). Features role-based access and automated workflows for operational efficiency.  
@@ -79,20 +82,3 @@ Lightweight cross-platform text editor with Tkinter GUI supporting multiple file
 ### [Quiz Game](https://github.com/AngelosFikias0/Quiz_game) + [Hangman](https://github.com/AngelosFikias0/Hangman_game)
 Interactive console applications demonstrating algorithmic thinking, efficient control flow patterns, and optimized data structure implementation.  
 `C • Java • Algorithms • Game Logic • Console Applications`
-
----
-
-## 🛠️ Tech Stack
-
-- **DevOps & Cloud:** Docker • Kubernetes • Helm • GitHub Actions • Terraform • Ansible • AWS • Azure • GCP • Linux/Bash
-- **Languages:** Java • Spring Boot • Python • C# • PHP • JavaScript • React
-- **Databases:** PostgreSQL • MySQL • SQLite • NoSQL • H2
-- **Tools:** ArgoCD • Jenkins • Git • Jira • Postman • Camunda • BPMN • UML • Countly • Maven
-- **Architecture & Design:** Enterprise Architecture • TOGAF • Zachman Framework • RESTful APIs • MVC • Distributed Systems • Cloud-Native Design
-
----
-
-## 📫 Connect
-
-**Email:** [angelosfikias@gmail.com](mailto:angelosfikias@gmail.com)  
-**LinkedIn:** [linkedin.com/in/angelos-fikias](https://www.linkedin.com/in/angelos-fikias/)  
