@@ -1,8 +1,8 @@
-# Hi, I'm Angelos Fikias 👋
+# Hi, I'm Angelos Fikias
 
-DevOps Engineer building enterprise systems, distributed architectures, and full-stack applications. I focus on creating scalable, production-ready solutions that solve real-world problems.
+DevOps Engineer building enterprise systems, software architectures and full-stack applications. I focus on creating scalable, production-ready solutions that solve real-world problems.
 
-**Tech Stack:** Java • Spring Boot • Kubernetes • PostgreSQL • MySQL • REST APIs • Cloud • BPMN • Javascript
+**Main Tech Stack:** Java • Spring Boot • Kubernetes • PostgreSQL • MySQL • REST APIs • Cloud • BPMN • Javascript
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelos-fikias/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:angelosfikias@gmail.com)
