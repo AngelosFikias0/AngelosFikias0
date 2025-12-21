@@ -17,9 +17,10 @@
 
 ## 📊 GitHub Stats
 
-![Angelos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AngelosFikias0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelosFikias0&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AngelosFikias0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelosFikias0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+</p>
 
 ## 📫 Connect With Me
 
