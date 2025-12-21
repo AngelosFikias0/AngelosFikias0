@@ -19,7 +19,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AngelosFikias0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelosFikias0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelosFikias0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="210"/>
 </p>
 
 ## 📫 Connect With Me
@@ -116,3 +116,8 @@ Lightweight cross-platform text editor with Tkinter GUI supporting multiple file
 Interactive console applications demonstrating algorithmic thinking, efficient control flow patterns, and optimized data structure implementation.
 
 **Tech Stack:** `C` `Java` `Algorithms` `Game Logic` `Console Applications`
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=AngelosFikias0&color=blueviolet&style=flat-square)
+
