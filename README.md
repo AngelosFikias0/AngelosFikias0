@@ -2,7 +2,7 @@
 
 I deliver end-to-end **DevOps** and **cloud solutions** designed for scale. My approach aligns development and infrastructure to drive efficiency throughout the SDLC. Beyond the stack, I operate with a focus on sustainable architecture and process improvement, ensuring systems are delivered fast today while being built to evolve for the future.
 
-## 🛠️ Tech Stack
+## 🛠️ Main Tech Stack
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-0089D6?style=for-the-badge&logo=azure&logoColor=white)
