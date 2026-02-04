@@ -1,6 +1,6 @@
 # Hi there, I'm Angelos Fikias 👋
 
-I deliver end-to-end **DevOps** and **cloud solutions** designed for scale. My approach aligns development and infrastructure to drive efficiency throughout the SDLC. Beyond the stack, I operate with a focus on sustainable architecture and process improvement, ensuring systems are delivered fast today while being built to evolve for the future.
+I build and operate **cloud and DevOps platforms** designed for scale. I connect **development, infrastructure and automation** to reduce friction across the **SDLC**. My focus is **cloud infrastructure, software and platform engineering** with an emphasis on long term maintainability and system evolution. I optimize for **speed, reliability**, and **growth**.
 
 ## 🛠️ Main Tech Stack
 
