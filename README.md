@@ -1,6 +1,6 @@
 # Hi there, I'm Angelos Fikias 👋
 
-I build and operate **cloud and DevOps platforms** designed for scale. I connect **development, infrastructure and automation** to reduce friction across the **SDLC**. My focus is **cloud infrastructure, software and platform engineering** with an emphasis on long term maintainability and system evolution. I optimize for **speed, reliability**, and **growth**.
+I build and operate **cloud and DevOps platforms** designed for scale. I connect **development, infrastructure and automation** to reduce friction across the **SDLC**. My focus is **cloud infrastructure, software and platform engineering** with an emphasis on long term maintainability and system evolution. I optimize for **speed, reliability** and **growth**.
 
 ## 🛠️ Main Tech Stack
 
