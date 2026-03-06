@@ -17,6 +17,16 @@ I build and operate **cloud and DevOps platforms** designed for scale. I connect
 
 ---
 
+## Currently @ Dataviva — Associate Platform Engineer
+
+Building and owning production platform infrastructure at scale.
+
+- 🧪 Architect distributed E2E performance testing for cloud-native workloads
+- 🚀 Ship CI/CD pipelines and cloud-native infrastructure (Kubernetes, Helm, Docker, Azure)
+- 📊 Drive observability and reliability with Prometheus & Grafana
+
+---
+
 ## 🏗️ Enterprise & System Architecture
 
 ### [Resource Management System - EfficienCity](https://github.com/AngelosFikias0/Resource_Management_System)
