@@ -22,7 +22,7 @@ I build and operate **cloud and DevOps platforms** designed for scale. I connect
 ### [Resource Management System - EfficienCity](https://github.com/AngelosFikias0/Resource_Management_System)
 Enterprise resource management platform enabling municipalities to track and optimize vehicles, machinery, and equipment. Features centralized architecture with comprehensive allocation tracking and real-time reporting dashboards.
 
-**Tech Stack:** `Enterprise Systems` `Solutions Architecture` `React` `Typescript`
+**Tech Stack:** `Enterprise Systems` `Solutions Architecture` `React` `Typescript` `Docker` `PostgreSQL` `Spring`
 
 ### [SafeCar Insurance Management System](https://github.com/AngelosFikias0/Safe_car_insurance_System)
 End-to-end insurance policy lifecycle management with comprehensive UML modeling, BPMN process orchestration, and enterprise architecture alignment (Zachman Framework, TOGAF). Implements role-based access control and automated workflows for operational efficiency.
