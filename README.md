@@ -17,7 +17,7 @@ I build and operate **cloud and DevOps platforms** designed for scale. I connect
 
 ---
 
-## Currently @ Dataviva — Associate Platform Engineer
+## Currently at Dataviva — Associate Platform Engineer
 
 Building and owning production platform infrastructure at scale.
 
