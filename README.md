@@ -117,3 +117,7 @@ Lightweight cross-platform text editor with Tkinter GUI supporting multiple file
 Interactive console applications demonstrating algorithmic thinking, efficient control flow patterns, and optimized data structure implementation.
 
 **Tech Stack:** `C` `Java` `Algorithms` `Game Logic` `Console Applications`
+
+---
+
+*More on [angelosfikias.dev](https://angelosfikias.dev)*
