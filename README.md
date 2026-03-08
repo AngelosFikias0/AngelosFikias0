@@ -30,6 +30,15 @@ Building and owning production platform infrastructure at scale.
 
 ## Main projects
 
+### ⚙️ Platform & DevOps Engineering
+
+#### [Cloud-Native E2E Performance Testing Tool](https://github.com/AngelosFikias0)
+Distributed end-to-end volume and performance testing infrastructure for cloud-native workloads at Dataviva. Automated deployment pipelines with Python, JS, Docker, Helm, and GitHub Actions to run load and performance tests at scale across microservices.
+
+**Tech Stack:** `Artillery` `Playwright` `Kubernetes` `Docker` `Helm` `GitHub Actions` `Python` `JavaScript` `Bash`
+
+---
+
 ### 🏗️ Enterprise & System Architecture
 
 #### [Resource Management System - EfficienCity](https://github.com/AngelosFikias0/Resource_Management_System)
