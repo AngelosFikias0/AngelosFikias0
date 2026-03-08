@@ -33,7 +33,7 @@ Building and owning production platform infrastructure at scale.
 ### ⚙️ Platform & DevOps Engineering
 
 #### [Cloud-Native E2E Performance Testing Tool](https://github.com/AngelosFikias0)
-Distributed end-to-end volume and performance testing infrastructure for cloud-native workloads at Dataviva. Automated deployment pipelines with Python, JS, Docker, Helm, and GitHub Actions to run load and performance tests at scale across microservices.
+Distributed end-to-end volume and performance testing infrastructure for cloud-native workloads at Dataviva. Automated deployment pipelines with Python, JS, Docker, Helm, and GitHub Actions to run load and performance tests at scale across the platform.
 
 **Tech Stack:** `Artillery` `Playwright` `Kubernetes` `Docker` `Helm` `GitHub Actions` `Python` `JavaScript` `Bash`
 
