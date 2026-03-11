@@ -83,7 +83,7 @@ Comprehensive implementation library of fundamental data structures (BST, AVL tr
 
 ### 🌐 Full-Stack Web Development
 
-#### [angelosfikias.dev - Personal Portfolio](https://github.com/AngelosFikias0/AngelosFikias0.github.io](https://github.com/AngelosFikias0)
+#### [angelosfikias.dev - Personal Portfolio](https://github.com/AngelosFikias0)
 Terminal-style personal portfolio built with vanilla HTML, CSS, and JavaScript. Features an interactive CLI, particle canvas, 3D card effects, theme switcher, and scroll animations. Zero dependencies, zero build step. Hosted on Netlify with A-grade security headers.
 
 **Tech Stack:** `HTML5` `CSS3` `Vanilla JS` `Netlify` `Cloudflare` `SEO` `Performance`
