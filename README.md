@@ -32,14 +32,21 @@ Building and owning production platform infrastructure at scale.
 
 ### ⚙️ Platform & DevOps Engineering
 
-#### [Cloud-Native Browser Load and Performance Testing Platform](https://github.com/AngelosFikias0) · Dataviva
-Built the first distributed E2E load testing platform to run real Playwright browser sessions at scale on Kubernetes - replacing synthetic HTTP simulation with actual end-user workflows under full parallel load, orchestrated via Artillery.
+#### [Cloud-Native Browser Load Testing Platform](https://github.com/AngelosFikias0) · *Dataviva*
 
-Architected a two-layer system: an internal orchestration layer and a client-facing in-pod runtime, both delivered independently. The orchestration layer manages Kubernetes Job lifecycle with automatic VU splitting across jobs, wave-based execution with pre-flight quota enforcement, and CSV-driven batch injection with row packing. A native desktop GUI handles test execution, live log streaming, process management, and artifact retrieval. Each run gets isolated log directories, structured JSONL indexing, and full artifact output (HTML reports, CSV, plain text) stored in object storage or on-system. Metrics flow through Prometheus Pushgateway with a ServiceMonitor, visualized in Grafana, and persisted in a SQLite trend store for regression tracking across runs.
+Built the first distributed E2E load testing platform to run real Playwright browser sessions at scale on Kubernetes - replacing synthetic HTTP simulation with actual end-user workflows under full parallel load using Artillery. Owned the project end-to-end: architecture, implementation, client delivery, and production rollout - working in an agile environment.
+
+Architected a two-layer system: an internal orchestration layer and a client-facing in-pod runtime, both delivered independently. The orchestration layer manages Kubernetes Job lifecycle with exact VU auto-splitting, wave-based execution with pre-flight quota enforcement, and CSV-driven batch injection with row packing - across six configurable load profiles (Fixed, Rate, Ramp, Spike, ConstantVU, SingleRun). Test campaigns are defined declaratively in YAML with per-step flow control, delay, and failure handling. A dry-run mode validates configuration and cluster quota before committing to execution. Production environment handling is built-in - proxy configuration, in-cluster DNS resolution, and namespace-aware RBAC are managed automatically across environments.
+
+The test generator applies 35+ framework-aware transformation rules to raw Playwright recordings, producing reliable, load-ready scripts for Angular SPAs. A visual verification suite wraps every test with automatic video capture, headed/headless auto-detection, and artifact retrieval commands for remote K8s runs. A standalone zero-dependency reporting engine produces HTML dashboards with Canvas charts, machine-readable JSON with exit codes, and formatted plain text - running identically across local, CI, Kubernetes, and terminal environments.
+
+A native desktop GUI handles test execution, live log streaming, process management, and artifact retrieval. Each run gets isolated log directories, structured JSONL indexing, and full artifact output stored in object storage or on-system. Metrics flow through Prometheus Pushgateway with a ServiceMonitor, visualized in Grafana, and persisted in a SQLite trend store for regression tracking. Jobs run in security-hardened pods - non-root, capability-dropped, seccomp-enforced.
+
+The client-facing image and test scripts are built and published automatically via GitHub Actions to Azure Container Registry, enabling air-gapped and production deployments with zero manual intervention.
 
 Deployed to production to stress test the platform to its absolute limits - the highest concurrent real-browser VU count ever run on the system.
 
-**Stack:** `Python` `Artillery` `Playwright` `Kubernetes` `Docker` `Prometheus` `Grafana` `MinIO` `SQLite` `GitHub Actions` `JavaScript`
+**Stack:** `Python` `Artillery` `Playwright` `Kubernetes` `Docker` `Azure Container Registry` `Prometheus` `Grafana` `MinIO` `SQLite` `GitHub Actions` `JavaScript`
 
 ---
 
