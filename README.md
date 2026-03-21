@@ -1,50 +1,51 @@
-# Hi there, I'm Angelos Fikias 👋
+# Angelos Fikias
 
-I build and operate **cloud and DevOps platforms** designed for scale. I connect **development, infrastructure and automation** to reduce friction across the **SDLC**. My focus is **cloud infrastructure, software and platform engineering** with an emphasis on long term maintainability and system evolution. I optimize for **speed, reliability** and **growth**.
+Platform engineer focused on cloud-native infrastructure, automation, and scalable system architecture. I design and build platforms for high reliability, performance, and long-term evolution - end to end.
 
-## 🛠️ Main Tech Stack
+## Stack
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-0089D6?style=for-the-badge&logo=azure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📫 Connect With Me
+## Connect
 
-[![Website](https://img.shields.io/badge/Portfolio-angelosfikias.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://angelosfikias.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-angelosfikias.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://angelosfikias.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelos-fikias/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelosfikias@gmail.com)
 
 ---
 
-## Currently at Dataviva - Associate Platform Engineer
+## Currently · Associate Platform Engineer at Dataviva
 
-Building and owning production platform infrastructure at scale.
-
-- 🧪 Architect distributed E2E performance testing for cloud-native workloads
-- 🚀 Ship CI/CD pipelines and cloud-native infrastructure (Kubernetes, Helm, Docker, Azure)
-- 📊 Drive observability and reliability with Prometheus & Grafana
+- 🧪 Built a distributed E2E browser load testing platform on Kubernetes - real Playwright sessions at scale, deployed to production
+- 🚀 Own CI/CD pipelines, Docker deployments, and cloud-native infrastructure on Kubernetes and Azure
+- 📊 Drive observability with Prometheus, Grafana, and SQLite-backed regression tracking
 
 ---
 
-## Main projects
+## Projects
 
 ### ⚙️ Platform & DevOps Engineering
 
 #### [Cloud-Native Browser Load Testing Platform](https://github.com/AngelosFikias0) · *Dataviva*
 
-Built the first distributed E2E load testing platform to run real Playwright browser sessions at scale on Kubernetes - replacing synthetic HTTP simulation with actual end-user workflows under full parallel load using Artillery. Owned the project end-to-end: architecture, implementation, client delivery, and production rollout - working in an agile environment.
+Built the first distributed E2E load testing platform to run real Playwright browser sessions at scale on Kubernetes - replacing synthetic HTTP simulation with actual end-user workflows under full parallel load, orchestrated via Artillery. Owned the project end-to-end: architecture, implementation, client delivery, and production rollout.
 
-Architected a two-layer system: an internal orchestration layer and a client-facing in-pod runtime, both delivered independently. The orchestration layer manages Kubernetes Job lifecycle with exact VU auto-splitting, wave-based execution with pre-flight quota enforcement, and CSV-driven batch injection with row packing - across six configurable load profiles (Fixed, Rate, Ramp, Spike, ConstantVU, SingleRun). Test campaigns are defined declaratively in YAML with per-step flow control, delay, and failure handling. A dry-run mode validates configuration and cluster quota before committing to execution. Production environment handling is built-in - proxy configuration, in-cluster DNS resolution, and namespace-aware RBAC are managed automatically across environments.
+Architected a two-layer system: an internal orchestration layer and a client-facing in-pod runtime, both delivered independently. The orchestration layer manages Kubernetes Job lifecycle with exact VU auto-splitting, wave-based execution with pre-flight quota enforcement, and CSV-driven batch injection with row packing — across six configurable load profiles (Fixed, Rate, Ramp, Spike, ConstantVU, SingleRun). Test campaigns are defined declaratively in YAML with per-step flow control, delay, and failure handling. A dry-run mode validates configuration and cluster quota before committing to execution. Production environment handling is built-in — proxy configuration, in-cluster DNS resolution, and namespace-aware RBAC are managed automatically across environments.
 
-The test generator applies 35+ framework-aware transformation rules to raw Playwright recordings, producing reliable, load-ready scripts for Angular SPAs. A visual verification suite wraps every test with automatic video capture, headed/headless auto-detection, and artifact retrieval commands for remote K8s runs. A standalone zero-dependency reporting engine produces HTML dashboards with Canvas charts, machine-readable JSON with exit codes, and formatted plain text - running identically across local, CI, Kubernetes, and terminal environments.
+The test generator applies 35+ framework-aware transformation rules to raw Playwright recordings, producing reliable, load-ready scripts for Angular SPAs. A visual verification suite wraps every test with automatic video capture, headed/headless auto-detection, and artifact retrieval commands for remote K8s runs. A standalone zero-dependency reporting engine produces HTML dashboards with Canvas charts, machine-readable JSON with exit codes, and formatted plain text — running identically across local, CI, Kubernetes, and terminal environments.
 
-A native desktop GUI handles test execution, live log streaming, process management, and artifact retrieval. Each run gets isolated log directories, structured JSONL indexing, and full artifact output stored in object storage or on-system. Metrics flow through Prometheus Pushgateway with a ServiceMonitor, visualized in Grafana, and persisted in a SQLite trend store for regression tracking. Jobs run in security-hardened pods - non-root, capability-dropped, seccomp-enforced.
+A native desktop GUI handles test execution, live log streaming, process management, and artifact retrieval. Each run gets isolated log directories, structured JSONL indexing, and full artifact output stored in object storage or on-system. Metrics flow through Prometheus Pushgateway with a ServiceMonitor, visualized in Grafana, and persisted in a SQLite trend store for regression tracking. Jobs run in security-hardened pods — non-root, capability-dropped, seccomp-enforced.
 
 The client-facing image and test scripts are built and published automatically via GitHub Actions to Azure Container Registry, enabling air-gapped and production deployments with zero manual intervention.
 
-Deployed to production to stress test the platform to its absolute limits - the highest concurrent real-browser VU count ever run on the system.
+Deployed to production to stress test the platform to its absolute limits — the highest concurrent real-browser VU count ever run on the system.
 
 **Stack:** `Python` `Artillery` `Playwright` `Kubernetes` `Docker` `Azure Container Registry` `Prometheus` `Grafana` `MinIO` `SQLite` `GitHub Actions` `JavaScript`
 
@@ -52,99 +53,90 @@ Deployed to production to stress test the platform to its absolute limits - the 
 
 ### 🏗️ Enterprise & System Architecture
 
-#### [Resource Management System - EfficienCity](https://github.com/AngelosFikias0/Resource_Management_System)
-Enterprise resource management platform enabling municipalities to track and optimize vehicles, machinery, and equipment. Features centralized architecture with comprehensive allocation tracking and real-time reporting dashboards.
+#### [EfficienCity RMS - Municipal Resource Management System](https://github.com/AngelosFikias0/Resource_Management_System)
 
-**Tech Stack:** `Enterprise Systems` `Solutions Architecture` `React` `Typescript` `Docker` `PostgreSQL` `Spring`
+Enterprise-grade municipal resource management platform, designed end-to-end from stakeholder analysis through cloud architecture, enabling inter-municipality asset sharing, real-time inventory tracking and citizen-facing transparency.
+
+- Led full systems analysis across the complete SDLC: stakeholder mapping, BPMN AS-IS/TO-BE modeling, Root Cause Analysis, SWOT, and MoSCoW prioritization
+- Designed a microservices system on Azure AKS with Kafka event-driven communication, multi-layer data pipeline across PostgreSQL and ClickHouse, and immutable audit ledger ensuring 100% transaction traceability and GDPR compliance
+- Delivered a React + TypeScript MVP across three role-based interfaces (Citizen, Municipal Employee, Administrator), designed in Figma with full UX journey documentation
+
+**Stack:** `React` `TypeScript` `Spring Boot` `PostgreSQL` `ClickHouse` `Kafka` `Docker` `Azure AKS` `BPMN` `Figma`
 
 #### [SafeCar Insurance Management System](https://github.com/AngelosFikias0/Safe_car_insurance_System)
-End-to-end insurance policy lifecycle management with comprehensive UML modeling, BPMN process orchestration, and enterprise architecture alignment (Zachman Framework, TOGAF). Implements role-based access control and automated workflows for operational efficiency.
 
-**Tech Stack:** `Java` `UML` `BPMN` `Domain Modeling` `SDLC` `TOGAF` `Enterprise Architecture`
+Enterprise insurance platform managing full policy lifecycle from proposals through claims. Applied TOGAF and Zachman frameworks to align software architecture with business strategy. Modeled workflows via BPMN and UML end-to-end.
+
+**Stack:** `Java` `UML` `BPMN` `TOGAF` `Zachman` `Figma`
 
 ---
 
-### 📱 Mobile & Distributed Systems
-
-#### [TikiPark - Smart Android Parking Application](https://github.com/AngelosFikias0/TikiPark)
-Production-ready Android parking ecosystem streamlining urban parking with real-time slot availability, offline-first SQLite caching, Google Maps integration, and role-based authentication. Modular backend architected for seamless payment gateway integration and API-driven extensions.
-
-**Tech Stack:** `Java` `Android SDK` `PHP` `MySQL` `SQLite` `Google Maps API` `REST` `Mobile Development`
+### 📡 Distributed Systems & Backend
 
 #### [Java Network Services Hub](https://github.com/AngelosFikias0/Java_Network_Services_Hub)
-Multi-protocol distributed service framework supporting HTTP, TCP, UDP, and RMI communication. Implements concurrent request handling with thread pooling and Swing-based orchestration interface for unified service management.
 
-**Tech Stack:** `Java` `Multi-threading` `Sockets` `RMI` `PostgreSQL` `Distributed Systems` `Concurrency`
+Multi-protocol distributed service framework supporting HTTP, TCP, UDP, and RMI communication. Implements concurrent request handling with thread pooling and a Swing-based orchestration interface for unified service management.
+
+**Stack:** `Java` `Multi-threading` `Sockets` `RMI` `PostgreSQL` `Distributed Systems`
+
+#### [TikiPark - Smart Android Parking Application](https://github.com/AngelosFikias0/TikiPark)
+
+Offline-first Android parking app with real-time slot synchronization, Google Maps integration, and SQLite caching for full network resilience. Modular backend with RBAC and RESTful APIs ready for payment gateway extension.
+
+**Stack:** `Java` `Android SDK` `PHP` `MySQL` `SQLite` `Google Maps API` `REST`
 
 ---
 
 ### 🔍 Data Engineering & Analytics
 
-#### [Crime Intelligence Platform - Network Analysis System](https://github.com/AngelosFikias0/Crime_Management_System)
-Graph-based investigative intelligence platform leveraging JUNG library and advanced graph theory for criminal network analysis. Computes centrality metrics (betweenness, closeness, degree) to identify key suspects and uncover relationship patterns with robust data validation.
+#### [Crime Intelligence Platform](https://github.com/AngelosFikias0/Crime_Management_System)
 
-**Tech Stack:** `Java` `Swing` `JUNG` `Graph Theory` `Network Analysis` `Data Visualization` `MVC` `File Handling`
+Graph-based investigative intelligence platform using the JUNG library and advanced graph theory. Computes centrality metrics (betweenness, closeness, degree) to identify key suspects and uncover criminal relationship patterns.
 
-#### [Data Structures & Algorithms Implementation Library](https://github.com/AngelosFikias0/Data_Structures_and_Algorithms)
-Comprehensive implementation library of fundamental data structures (BST, AVL trees, graphs, hash tables, heaps) and algorithms (sorting, searching, dynamic programming, graph traversal) with detailed complexity analysis and performance benchmarking.
+**Stack:** `Java` `JUNG` `Graph Theory` `Swing` `Data Visualization` `MVC`
 
-**Tech Stack:** `Java` `Algorithms` `Data Structures` `Big O Analysis` `Problem Solving`
+#### [Data Structures & Algorithms Library](https://github.com/AngelosFikias0/Data_Structures_and_Algorithms)
+
+Comprehensive implementation library covering BST, AVL trees, graphs, hash tables, heaps, sorting, searching, dynamic programming, and graph traversal — with complexity analysis and performance benchmarking.
+
+**Stack:** `Java` `Algorithms` `Data Structures` `Big O Analysis`
 
 ---
 
-### 🌐 Full-Stack Web Development
-
-#### [angelosfikias.dev - Personal Portfolio](https://github.com/AngelosFikias0/AngelosFikias0.github.io)
-Terminal-style personal portfolio built with vanilla HTML, CSS, and JavaScript. Features an interactive CLI, particle canvas, 3D card effects, theme switcher, and scroll animations. Zero dependencies, zero build step. Hosted on Netlify with A-grade security headers.
-
-**Tech Stack:** `HTML5` `CSS3` `Vanilla JS` `Netlify` `Cloudflare` `SEO` `Performance`
-
-**Live:** [angelosfikias.dev](https://angelosfikias.dev)
+### 🌐 Web & Full-Stack
 
 #### [Full-Stack Blog Platform with RBAC](https://github.com/AngelosFikias0/Interactive_Role_Based_Web_App)
-LAMP stack blog platform with granular role-based access control, secure session management, parameterized queries for SQL injection prevention, and dynamic admin/user dashboards. Production-hardened authentication system with complete CRUD operations.
 
-**Tech Stack:** `PHP` `MySQL` `Apache` `Linux` `HTML5` `CSS3` `Security` `RBAC`
+LAMP stack application with granular role-based access control, parameterized queries preventing SQL injection, and dynamic admin/user dashboards.
+
+**Stack:** `PHP` `MySQL` `Apache` `Linux` `HTML5` `CSS3`
 
 #### [Runners App - Spring Boot REST API](https://github.com/AngelosFikias0/Runners_App)
-Spring Boot RESTful API with clean three-tier architecture, H2 in-memory database integration, and Maven dependency management. Architected for horizontal scalability and seamless feature extensibility.
 
-**Tech Stack:** `Spring Boot` `REST API` `H2 Database` `Maven` `Layered Architecture` `Java`
+Spring Boot RESTful API with clean three-tier architecture, H2 in-memory database, and Maven dependency management. Architected for horizontal scalability.
 
-#### [Student Records Web Portal](https://github.com/AngelosFikias0/Student_Records_Web_Portal)
-Full CRUD web application with PHP backend and MySQL persistence layer, demonstrating RESTful design principles and MVC architecture patterns.
+**Stack:** `Spring Boot` `REST API` `H2` `Maven` `Java`
 
-**Tech Stack:** `PHP` `MySQL` `JavaScript` `HTML/CSS` `REST` `MVC` `CRUD Operations`
-
-#### [Weather App](https://github.com/AngelosFikias0/Weather_App)
-Real-time weather dashboard consuming OpenWeatherMap API with asynchronous JavaScript, dynamic UI rendering, and mobile-first responsive design.
-
-**Tech Stack:** `JavaScript` `REST API` `HTML5` `CSS3` `Async/Await` `Responsive Design`
-
-#### [Web Calculator](https://github.com/AngelosFikias0/Interactive_Web_Calculator) + [Task Manager](https://github.com/AngelosFikias0/Task_Manager_App)
-Frontend applications demonstrating advanced DOM manipulation, event-driven architecture, and modern JavaScript ES6+ patterns with localStorage persistence.
-
-**Tech Stack:** `JavaScript` `HTML5` `CSS3` `LocalStorage` `Event-Driven Programming`
++ [Student Records Portal](https://github.com/AngelosFikias0/Student_Records_Web_Portal) · [Weather App](https://github.com/AngelosFikias0/Weather_App) · [Web Calculator](https://github.com/AngelosFikias0/Interactive_Web_Calculator) · [Task Manager](https://github.com/AngelosFikias0/Task_Manager_App)
 
 ---
 
 ### 🖥️ Desktop Applications
 
-#### [Student Management System](https://github.com/AngelosFikias0/Student_Management_System)
-Desktop application with Swing GUI and file-based persistence layer. Implements comprehensive course and student lifecycle management following OOP principles and MVC architecture.
-
-**Tech Stack:** `Java` `Swing` `File I/O` `OOP` `MVC` `Data Persistence`
-
 #### [Python Text Editor](https://github.com/AngelosFikias0/Python_Text_Editor)
-Lightweight cross-platform text editor with Tkinter GUI supporting multiple file formats (.txt, .html). Features customizable themes, syntax highlighting, and dynamic font styling.
 
-**Tech Stack:** `Python` `Tkinter` `File Handling` `GUI Design` `UX`
+Cross-platform text editor with Tkinter GUI, multi-format support, syntax highlighting, and customizable themes.
 
-#### [Quiz Game](https://github.com/AngelosFikias0/Quiz_game) + [Hangman](https://github.com/AngelosFikias0/Hangman_game)
-Interactive console applications demonstrating algorithmic thinking, efficient control flow patterns, and optimized data structure implementation.
+**Stack:** `Python` `Tkinter`
 
-**Tech Stack:** `C` `Java` `Algorithms` `Game Logic` `Console Applications`
+#### [Student Management System](https://github.com/AngelosFikias0/Student_Management_System)
+
+Desktop application with Swing GUI and file-based persistence. Implements course and student lifecycle management following OOP and MVC.
+
+**Stack:** `Java` `Swing` `OOP` `MVC`
+
++ [Quiz Game](https://github.com/AngelosFikias0/Quiz_game) · [Hangman](https://github.com/AngelosFikias0/Hangman_game)
 
 ---
 
-*More on [angelosfikias.dev](https://angelosfikias.dev)*
+*Full portfolio at [angelosfikias.dev](https://angelosfikias.dev)*
