@@ -34,7 +34,9 @@ Building and owning production platform infrastructure at scale.
 
 #### [Cloud-Native Browser Load and Performance Testing Platform](https://github.com/AngelosFikias0) · Dataviva
 Built the first distributed E2E load testing platform to run real Playwright browser sessions at scale on Kubernetes - replacing synthetic HTTP simulation with actual end-user workflows under full parallel load, orchestrated via Artillery.
+
 Architected a two-layer system: an internal orchestration layer and a client-facing in-pod runtime, both delivered independently. The orchestration layer manages Kubernetes Job lifecycle with automatic VU splitting across jobs, wave-based execution with pre-flight quota enforcement, and CSV-driven batch injection with row packing. A native desktop GUI handles test execution, live log streaming, process management, and artifact retrieval. Each run gets isolated log directories, structured JSONL indexing, and full artifact output (HTML reports, CSV, plain text) stored in object storage or on-system. Metrics flow through Prometheus Pushgateway with a ServiceMonitor, visualized in Grafana, and persisted in a SQLite trend store for regression tracking across runs.
+
 Deployed to production to stress test the platform to its absolute limits - the highest concurrent real-browser VU count ever run on the system.
 
 **Stack:** `Python` `Artillery` `Playwright` `Kubernetes` `Docker` `Prometheus` `Grafana` `MinIO` `SQLite` `GitHub Actions` `JavaScript`
