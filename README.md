@@ -32,10 +32,12 @@ Building and owning production platform infrastructure at scale.
 
 ### ⚙️ Platform & DevOps Engineering
 
-#### [Cloud-Native E2E Performance Testing Tool](https://github.com/AngelosFikias0)
-Built a distributed, end-to-end load and performance testing infrastructure for cloud-native workloads at Dataviva, enabling large-scale volume testing across the platform. The system leverages Artillery and Playwright for API and end-user workflow testing, with automation and orchestration implemented in Python and JavaScript. The testing stack is containerized with Docker and deployed via Helm on Kubernetes, while GitHub Actions integrates automated performance testing into CI pipelines. This infrastructure allows continuous validation of platform scalability, detects bottlenecks early, and ensures production readiness.
+#### [Cloud-Native Browser Load and Performance Testing Platform](https://github.com/AngelosFikias0) · Dataviva
+Built the first distributed E2E load testing platform to run real Playwright browser sessions at scale on Kubernetes - replacing synthetic HTTP simulation with actual end-user workflows under full parallel load, orchestrated via Artillery.
+Architected a two-layer system: an internal orchestration layer and a client-facing in-pod runtime, both delivered independently. The orchestration layer manages Kubernetes Job lifecycle with automatic VU splitting across jobs, wave-based execution with pre-flight quota enforcement, and CSV-driven batch injection with row packing. A native desktop GUI handles test execution, live log streaming, process management, and artifact retrieval. Each run gets isolated log directories, structured JSONL indexing, and full artifact output (HTML reports, CSV, plain text) stored in object storage or on-system. Metrics flow through Prometheus Pushgateway with a ServiceMonitor, visualized in Grafana, and persisted in a SQLite trend store for regression tracking across runs.
+Deployed to production to stress test the platform to its absolute limits - the highest concurrent real-browser VU count ever run on the system.
 
-**Tech Stack:** `Artillery` `Playwright` `Kubernetes` `Docker` `Helm` `GitHub Actions` `Python` `JavaScript` `Bash` `Powershell`
+**Stack:** `Python` `Artillery` `Playwright` `Kubernetes` `Docker` `Prometheus` `Grafana` `MinIO` `SQLite` `GitHub Actions` `JavaScript`
 
 ---
 
