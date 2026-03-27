@@ -41,11 +41,13 @@ The test generator applies 35+ framework-aware transformation rules to raw Playw
 
 A native desktop GUI handles test execution, live log streaming, process management, and artifact retrieval. Each run gets isolated log directories, structured JSONL indexing, and full artifact output stored in object storage or on-system. Metrics flow through Prometheus Pushgateway with a ServiceMonitor, visualized in Grafana, and persisted in a SQLite trend store for regression tracking. Jobs run in security-hardened pods - non-root, capability-dropped, seccomp-enforced.
 
+Extended with a Helm-based environment lifecycle operator for autonomous namespace management. Implements cluster-aware auto-discovery across four lookup strategies - registry, Helm release scan, namespace probe, and literal match - so operators work without hardcoded cluster assumptions. Supports full lifecycle operations: provision, status, destroy, and cleanup, with GUI-confirmed destructive actions and masked credential entry. Environments are tracked via live directory watching with auto-refresh.
+
 The client-facing image and test scripts are built and published automatically via GitHub Actions to Azure Container Registry, enabling air-gapped and production deployments with zero manual intervention.
 
 Deployed to production to stress test the platform to its absolute limits - the highest concurrent real-browser VU count ever run on the system.
 
-**Stack:** `Python` `Artillery` `Playwright` `Kubernetes` `Docker` `Azure Container Registry` `Prometheus` `Grafana` `MinIO` `SQLite` `GitHub Actions` `JavaScript`
+**Stack:** `Python` `Artillery` `Playwright` `Kubernetes` `Helm` `Docker` `Azure Container Registry` `Prometheus` `Grafana` `MinIO` `SQLite` `GitHub Actions` `JavaScript`
 
 ---
 
