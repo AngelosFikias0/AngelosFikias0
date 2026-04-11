@@ -1,6 +1,6 @@
 # Angelos Fikias
 
-🔧 Platform engineer focused on cloud-native infrastructure, automation, and scalable system architecture. I build and operate platforms end to end - from cluster ownership to production delivery.
+Platform engineer focused on cloud-native infrastructure, automation, and scalable system architecture. I build and operate platforms end to end — from cluster ownership to production delivery.
 
 ## Stack
 
@@ -21,9 +21,9 @@
 
 ## Currently · Associate Platform Engineer at Dataviva
 
-- 🔧 Built and deployed a distributed E2E browser load testing platform on Kubernetes, running real Playwright sessions at scale via Artillery
-- ☸️ Own Kubernetes infrastructure, CI/CD pipelines, Docker deployments, and observability stacks across the platform
-- 📊 Prometheus and Grafana observability with SQLite-backed regression tracking across all environments
+- 🔧 Build and ship production-grade platform tooling on Kubernetes
+- ☸️ Own cloud-native infrastructure, CI/CD pipelines, and Docker deployments end to end
+- 📊 Drive observability across environments with Prometheus, Grafana and ELK 
 
 ---
 
