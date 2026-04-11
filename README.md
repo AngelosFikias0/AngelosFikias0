@@ -1,6 +1,6 @@
 # Angelos Fikias
 
-Platform engineer focused on cloud-native infrastructure, automation, and scalable system architecture. I build and operate platforms end to end — from cluster ownership to production delivery.
+Platform engineer focused on cloud-native infrastructure, automation, and scalable system architecture. I build and operate platforms end to end - from cluster ownership to production delivery.
 
 ## Stack
 
