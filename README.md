@@ -1,6 +1,6 @@
 # Angelos Fikias
 
-Platform engineer focused on cloud-native infrastructure, automation, and scalable system architecture. I build and operate platforms end to end - from cluster ownership to production delivery.
+🔧 Platform engineer focused on cloud-native infrastructure, automation, and scalable system architecture. I build and operate platforms end to end - from cluster ownership to production delivery.
 
 ## Stack
 
@@ -8,8 +8,8 @@ Platform engineer focused on cloud-native infrastructure, automation, and scalab
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Connect
 
@@ -21,15 +21,15 @@ Platform engineer focused on cloud-native infrastructure, automation, and scalab
 
 ## Currently · Associate Platform Engineer at Dataviva
 
-- Built and deployed a distributed E2E browser load testing platform on Kubernetes, running real Playwright sessions at scale via Artillery
-- Own Kubernetes infrastructure, CI/CD pipelines, Docker deployments, and observability stacks across the platform
-- Prometheus and Grafana observability with SQLite-backed regression tracking across all environments
+- 🔧 Built and deployed a distributed E2E browser load testing platform on Kubernetes, running real Playwright sessions at scale via Artillery
+- ☸️ Own Kubernetes infrastructure, CI/CD pipelines, Docker deployments, and observability stacks across the platform
+- 📊 Prometheus and Grafana observability with SQLite-backed regression tracking across all environments
 
 ---
 
 ## Projects
 
-### Platform & DevOps Engineering
+### ⚙️ Platform & DevOps Engineering
 
 #### [Cloud-Native Browser Load Testing Platform](https://github.com/AngelosFikias0) · *Dataviva*
 
@@ -44,7 +44,7 @@ Distributed E2E browser load testing platform on Kubernetes, running real Playwr
 
 ---
 
-### Enterprise & System Architecture
+### 🏗️ Enterprise & System Architecture
 
 #### [EfficienCity RMS - Municipal Resource Management System](https://github.com/AngelosFikias0/Resource_Management_System)
 
@@ -68,7 +68,7 @@ Enterprise insurance platform covering the full policy lifecycle from proposals 
 
 ---
 
-### Distributed Systems & Backend
+### 📡 Distributed Systems & Backend
 
 #### [Java Network Services Hub](https://github.com/AngelosFikias0/Java_Network_Services_Hub)
 
@@ -92,7 +92,7 @@ Offline-first Android parking app with real-time slot synchronization and Google
 
 ---
 
-### Data Engineering & Analytics
+### 📊 Data Engineering & Analytics
 
 #### [Crime Intelligence Platform](https://github.com/AngelosFikias0/Crime_Management_System)
 
@@ -114,7 +114,7 @@ Implementation library covering core data structures and algorithms with complex
 
 ---
 
-### Web & Full-Stack
+### 🌐 Web & Full-Stack
 
 #### [Full-Stack Blog Platform with RBAC](https://github.com/AngelosFikias0/Interactive_Role_Based_Web_App)
 
@@ -138,7 +138,7 @@ Spring Boot RESTful API with clean three-tier architecture and H2 in-memory data
 
 ---
 
-### Desktop Applications
+### 🖥️ Desktop Applications
 
 #### [Python Text Editor](https://github.com/AngelosFikias0/Python_Text_Editor)
 
