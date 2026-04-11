@@ -51,7 +51,7 @@ Distributed E2E browser load testing platform on Kubernetes, running real Playwr
 Municipal resource management platform enabling inter-municipality asset sharing, real-time inventory tracking, and citizen-facing transparency. Full SDLC ownership from stakeholder analysis through cloud architecture.
 
 - Systems analysis across the complete SDLC: stakeholder mapping, BPMN AS-IS/TO-BE modeling, SWOT, and MoSCoW prioritization.
-- Microservices on Azure AKS with Kafka event-driven communication, PostgreSQL and ClickHouse data pipeline, and an immutable audit ledger for GDPR compliance.
+- Designed the architecture of the system: microservices on Azure AKS with Kafka event-driven communication, PostgreSQL and ClickHouse data pipeline, and an immutable audit ledger for GDPR compliance.
 - React + TypeScript MVP across three role-based interfaces (Citizen, Municipal Employee, Administrator), designed in Figma.
 
 **Stack:** `React` `TypeScript` `Spring Boot` `PostgreSQL` `ClickHouse` `Kafka` `Docker` `Azure AKS` `BPMN` `Figma`
