@@ -70,16 +70,6 @@ Enterprise insurance platform covering the full policy lifecycle from proposals 
 
 ### 📡 Distributed Systems & Backend
 
-#### [Java Network Services Hub](https://github.com/AngelosFikias0/Java_Network_Services_Hub)
-
-Multi-protocol distributed service framework supporting HTTP, TCP, UDP, and RMI communication.
-
-- Concurrent request handling via thread pooling across all protocols.
-- Swing-based orchestration interface for unified service management.
-- PostgreSQL persistence with clean separation between transport and application layers.
-
-**Stack:** `Java` `Multi-threading` `Sockets` `RMI` `PostgreSQL` `Distributed Systems`
-
 #### [TikiPark - Smart Android Parking Application](https://github.com/AngelosFikias0/TikiPark)
 
 Offline-first Android parking app with real-time slot synchronization and Google Maps integration.
@@ -89,6 +79,16 @@ Offline-first Android parking app with real-time slot synchronization and Google
 - RESTful PHP backend with MySQL persistence.
 
 **Stack:** `Java` `Android SDK` `PHP` `MySQL` `SQLite` `Google Maps API` `REST`
+
+#### [Java Network Services Hub](https://github.com/AngelosFikias0/Java_Network_Services_Hub)
+
+Multi-protocol distributed service framework supporting HTTP, TCP, UDP, and RMI communication.
+
+- Concurrent request handling via thread pooling across all protocols.
+- Swing-based orchestration interface for unified service management.
+- PostgreSQL persistence with clean separation between transport and application layers.
+
+**Stack:** `Java` `Multi-threading` `Sockets` `RMI` `PostgreSQL` `Distributed Systems`
 
 ---
 
