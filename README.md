@@ -21,9 +21,10 @@ Platform engineer focused on cloud-native infrastructure, automation, and scalab
 
 ## Currently · Associate Platform Engineer at Dataviva
 
-- 🔧 Build and ship production-grade platform tooling on Kubernetes
-- ☸️ Own cloud-native infrastructure, CI/CD pipelines, and Docker deployments end to end
-- 📊 Drive observability across environments with Prometheus, Grafana and ELK 
+- 🔧 Build and ship production platform tooling on Kubernetes - E2E load testing infrastructure, CI/CD pipelines, multi-environment deployments
+- ☸️ Own cloud-native infrastructure end to end: Docker, Helm, ArgoCD, Rancher, multi-cluster GitOps
+- 📊 Implement observability with Prometheus, Pushgateway, and Grafana - custom dashboards, SLA thresholds, ephemeral job metrics
+- 🚀 Drive architecture decisions: tool evaluation, system design, and delivery from prototype to production
 
 ---
 
