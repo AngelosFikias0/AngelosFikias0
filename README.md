@@ -38,14 +38,14 @@ Platform engineer focused on cloud-native infrastructure, automation, and scalab
 
 #### [Cloud-Native Browser Load Testing Platform](https://github.com/AngelosFikias0) · *Dataviva*
 
-Distributed E2E browser load testing platform on Kubernetes, running real Playwright sessions at scale via Artillery with exact VU auto-splitting, wave-based batch execution, and six configurable load profiles.
+Distributed E2E browser load testing platform on Kubernetes, running real Playwright sessions at scale via Artillery with VU auto-splitting, wave-based batch execution, and six configurable load profiles. Enabled data-driven architectural validation before enterprise client go-live - surfacing performance insights that informed platform-wide architectural decisions.
 
 - Playwright workers run as isolated Kubernetes Jobs per wave, orchestrated by Artillery with CSV-driven test data injection, per-session video capture, and a zero-dependency HTML reporting engine for result aggregation.
-- Angular-aware test generator backed by a structured diagnostic knowledge base: auto-fixes 35+ known E2E pitfalls and surfaces targeted remediation for patterns it cannot resolve.
-- Helm-based deployment with environment-specific values, atomic upgrades/rollbacks, and reproducible releases across clusters
-- Full observability via Prometheus and Grafana with SQLite regression tracking, shipped via GitHub Actions to Azure Container Registry. Deployed to production.
+- Angular-aware test generator backed by a structured diagnostic knowledge base — auto-resolves 35+ known E2E pitfalls and surfaces targeted remediation guidance for unrecognized patterns.
+- Helm-based deployment with environment-specific values, atomic upgrades/rollbacks, and reproducible releases across clusters.
+- Full observability via Prometheus and Grafana with SQLite-backed regression tracking, shipped via GitHub Actions to Azure Container Registry. Deployed to production.
 
-**Stack:** `Python` `Artillery` `Playwright` `Kubernetes` `Helm` `Docker` `Azure Container Registry` `Prometheus` `Grafana` `MinIO` `SQLite` `GitHub Actions` `JavaScript`
+**Stack:** `Python` `Artillery` `Playwright` `Kubernetes` `Helm` `Docker` `Azure Container Registry` `Prometheus` `Grafana` `SQLite` `GitHub Actions` `JavaScript`
 
 ---
 
