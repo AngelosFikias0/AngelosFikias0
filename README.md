@@ -41,7 +41,7 @@ Platform engineer focused on cloud-native infrastructure, automation, and scalab
 Distributed E2E browser load testing platform on Kubernetes, running real Playwright sessions at scale via Artillery with VU auto-splitting, wave-based batch execution, and six configurable load profiles. Enabled data-driven architectural validation before enterprise client go-live - surfacing performance insights that informed platform-wide architectural decisions.
 
 - Playwright workers run as isolated Kubernetes Jobs per wave, orchestrated by Artillery with CSV-driven test data injection, per-session video capture, and a zero-dependency reporting engine for result aggregation.
-- Angular-aware test generator backed by a structured diagnostic knowledge base — auto-resolves known E2E pitfalls and surfaces targeted remediation guidance for unrecognized patterns.
+- Angular-aware test generator backed by a structured diagnostic knowledge base - auto-resolves known E2E pitfalls and surfaces targeted remediation guidance for unrecognized patterns.
 - Full observability via Prometheus and Grafana with SQLite-backed regression tracking, shipped via GitHub Actions to Azure Container Registry. Deployed to production.
 
 **Stack:** `Python` `Artillery` `Playwright` `Kubernetes` `Helm` `Docker` `Azure Container Registry` `Prometheus` `Grafana` `SQLite` `GitHub Actions` `JavaScript`
