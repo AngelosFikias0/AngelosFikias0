@@ -22,8 +22,7 @@ Platform engineer focused on cloud-native infrastructure, automation, and scalab
 - Drive architecture decisions: tool evaluation, system design, delivery from prototype to production
 - Own cloud-native infrastructure end to end - Docker, Helm, ArgoCD, Rancher, multi-cluster GitOps
 - Build and ship production platform tooling on Kubernetes - E2E load testing infrastructure, CI/CD pipelines, multi-environment deployments
-- Implement observability with Prometheus and Grafana -
--  custom dashboards, SLA thresholds, ephemeral job metrics
+- Implement observability with Prometheus and Grafana - custom dashboards, SLA thresholds, ephemeral job metrics
 
 ## Connect
 
