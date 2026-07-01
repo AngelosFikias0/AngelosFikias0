@@ -17,8 +17,7 @@ Platform engineer focused on cloud-native infrastructure, automation, and scalab
 
 ## Experience
 
-**Platform Engineer** — Dataviva
-*2025 — Present*
+**Platform Engineer** | Dataviva (*2025 - Present*)
 
 - Drive architecture decisions: tool evaluation, system design, delivery from prototype to production
 - Own cloud-native infrastructure end to end — Docker, Helm, ArgoCD, Rancher, multi-cluster GitOps
