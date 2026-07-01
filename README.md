@@ -15,12 +15,15 @@ Platform engineer focused on cloud-native infrastructure, automation, and scalab
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## Associate Platform Engineer - Dataviva
+## Experience
 
-- Build and ship production platform tooling on Kubernetes - E2E load testing infrastructure, CI/CD pipelines, multi-environment deployments
-- Own cloud-native infrastructure end to end: Docker, Helm, ArgoCD, Rancher, multi-cluster GitOps
-- Implement observability with Prometheus and Grafana - custom dashboards, SLA thresholds, ephemeral job metrics
-- Drive architecture decisions: tool evaluation, system design, and delivery from prototype to production
+**Platform Engineer** — Dataviva
+*2025 — Present*
+
+- Drive architecture decisions: tool evaluation, system design, delivery from prototype to production
+- Own cloud-native infrastructure end to end — Docker, Helm, ArgoCD, Rancher, multi-cluster GitOps
+- Build and ship production platform tooling on Kubernetes — E2E load testing infrastructure, CI/CD pipelines, multi-environment deployments
+- Implement observability with Prometheus and Grafana — custom dashboards, SLA thresholds, ephemeral job metrics
 
 ## Connect
 
