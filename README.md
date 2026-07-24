@@ -18,9 +18,9 @@ Platform engineer focused on cloud-native infrastructure, automation, and scalab
 
 ## Experience
 
-**Associate Platform Engineer** | Dataviva (*Oct 2025 – Present*)
+**Associate Platform Engineer** | Dataviva (*Oct 2025 - Present*)
 
-Building and operating cloud-native infrastructure for a B2B SaaS product in retail forecasting and supply chain — from initial platform ramp-up through full production ownership.
+Building and operating cloud-native infrastructure for a B2B SaaS product in retail forecasting and supply chain - from initial platform ramp-up through full production ownership.
 
 - Designed and built a Kubernetes-native E2E load and performance testing platform (Playwright, Artillery) from scratch, running production-scale tests with 150+ concurrent users. Findings drove backend architecture redesigns ahead of enterprise client launch.
 - Manage CI/CD pipeline architecture org-wide (Jenkins, GitHub/Gitea Actions) and contribute to a full version-control platform migration across engineering teams, including workflow design and team training.
