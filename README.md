@@ -16,7 +16,7 @@ Platform engineer focused on cloud-native infrastructure, automation, and scalab
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-## Experience
+## Current Position
 
 **Associate Platform Engineer** | Dataviva (*Oct 2025 - Present*)
 
